@@ -1,0 +1,225 @@
+[QUESTION_1] 1)Presynaptic inhibition depends upon:
+[QUESTION_1 CORRECT_ANSWER] a. Depolarization of presynaptic terminals.
+[QUESTION_1 CORRECT_ANSWER] b. Hyperpolarization of postsynaptic neurons.
+[QUESTION_1 CORRECT_ANSWER] c. GABA receptors in postsynaptic neurons.
+[QUESTION_1 CORRECT_ANSWER] d. GABA receptors in presynaptic terminals.
+[QUESTION_2] 2) Post-tetanic potentiation is due to:
+[QUESTION_2 CORRECT_ANSWER] a. Noxious stimulus.
+[QUESTION_2 CORRECT_ANSWER] b. Repetitive stimulation of presynaptic neuron then stop.
+[QUESTION_2 CORRECT_ANSWER] c. Rapid active Ca pump out of the presynaptic neuron.
+[QUESTION_2 CORRECT_ANSWER] d. Accumulation of calcium in postsynaptic neuron.
+[QUESTION_3] 3) Neuropeptides:
+[QUESTION_3 CORRECT_ANSWER] a. Are synthesized in the synaptic knobs.
+[QUESTION_3 CORRECT_ANSWER] b. Have potent prolonged effect on postsynaptic neurons.
+[QUESTION_3 CORRECT_ANSWER] c. Interact with ligand-receptors.
+[QUESTION_3 CORRECT_ANSWER] d. Consist of small molecules.
+[QUESTION_4] 4) Regarding neuronal pool, which is correct as an example of convergence:
+[QUESTION_4 CORRECT_ANSWER] a. Multiple input signals from multiple sources onto multiple neurons
+[QUESTION_4 CORRECT_ANSWER] b. Multiple input signals from a single source onto multiple neurons
+[QUESTION_4 CORRECT_ANSWER] c. Multiple input signals from multiple sources onto single neuron.
+[QUESTION_4 CORRECT_ANSWER] d. Multiple input signals from a single source onto single neuron.
+[QUESTION_5] 5) A 40-year-old man loses his right hand in a farm accident. Four years later, he has episodes of severe pain in the missing hand (phantom limb pain). His cerebral cortex might be expected to show:
+[QUESTION_5 CORRECT_ANSWER] a. expansion of the right hand area in his right primary somatosensory cortex.
+[QUESTION_5 CORRECT_ANSWER] b. expansion of the right-hand area in his left primary somatosensory cortex.
+[QUESTION_5 CORRECT_ANSWER] c. projection of fibers from neighboring sensory areas into the right-hand area of his right primary somatosensory cortex.
+[QUESTION_5 CORRECT_ANSWER] d. projection of fibers from neighboring sensory areas into the right-hand area of his left primary somatosensory cortex.
+[QUESTION_6] 6) In the primary somatosensory cortex the various parts of the contralateral body surface are represented according to:
+[QUESTION_6 CORRECT_ANSWER] a. The relative size of body parts.
+[QUESTION_6 CORRECT_ANSWER] b. The number of the specialized peripheral receptors.
+[QUESTION_6 CORRECT_ANSWER] c. The size of the muscles in that body part.
+[QUESTION_6 CORRECT_ANSWER] d. The conduction velocity of the primary afferent fibers.
+[QUESTION_7] 7) Pain sensation:
+[QUESTION_7 CORRECT_ANSWER] a. is evoked by stimulation of non-specific receptors.
+[QUESTION_7 CORRECT_ANSWER] b. produces reactions that block transmission of pain impulses.
+[QUESTION_7 CORRECT_ANSWER] c. arises from small encapsulated receptors.
+[QUESTION_7 CORRECT_ANSWER] d. occurs when the stimulus causes damage of the sensory receptors.
+[QUESTION_8] 8) Ischemic pain is associated with which of the following:
+[QUESTION_8 CORRECT_ANSWER] a. A beta (AB) sensory fibers.
+[QUESTION_8 CORRECT_ANSWER] b. Afferent pathway in the neospinothalamic tract.
+[QUESTION_8 CORRECT_ANSWER] c. Overstimulation of somatic touch receptors.
+[QUESTION_8 CORRECT_ANSWER] d. Sensory fibers terminating within the substantia gelatinosa of the dorsal cord.
+[QUESTION_9] 9) Visceral pain:
+[QUESTION_9 CORRECT_ANSWER] a. Is well localized compared with pain arising in skin.
+[QUESTION_9 CORRECT_ANSWER] b. May cause reflex relaxation of overlying skeletal muscle.
+[QUESTION_9 CORRECT_ANSWER] c. May cause reflex vomiting.
+[QUESTION_9 CORRECT_ANSWER] d. All of the above.
+[QUESTION_10] 10) Intracranial headache may result from:
+[QUESTION_10 CORRECT_ANSWER] a. Decreased CSF pressure.
+[QUESTION_10 CORRECT_ANSWER] b. Painful stimuli applied on the brain tissue.
+[QUESTION_10 CORRECT_ANSWER] c. Spasm of scalp muscles.
+[QUESTION_10 CORRECT_ANSWER] d. Inflamed nasal sinuses.
+[QUESTION_11] 11) Which of the following CNS regions is not correctly paired chemical involved in pain modulation:
+[QUESTION_11 CORRECT_ANSWER] a. Periaqueductal gray matter and endorphin.
+[QUESTION_11 CORRECT_ANSWER] b. Nucleus raphe magnus and enkephalin.
+[QUESTION_11 CORRECT_ANSWER] c. Spinal dorsal hom and substance P.
+[QUESTION_11 CORRECT_ANSWER] d. Spinal dorsal hom and serotonin horn of the spinal.
+[QUESTION_12] 12) A 50-year-old woman has loss of pain and temperature sensitivity, vibratory and proprioception in the left leg. These symptoms could be explained by:
+[QUESTION_12 CORRECT_ANSWER] a. a tumor on the right dorsal column pathway in the sacral spinal cord.
+[QUESTION_12 CORRECT_ANSWER] b. a peripheral neuropathy.
+[QUESTION_12 CORRECT_ANSWER] c. a tumor on the right lateral spinothalamic pathway in the sacral spinal cord.
+[QUESTION_12 CORRECT_ANSWER] d. a tumor affecting the right posterior paracentral gyrus.
+[QUESTION_13] 13) A 19-year-old man has an automobile accident that completely eliminates all nerve traffic in the right half of the spinal cord at C2. Loss of which function is most likely in the right hand of this man:
+[QUESTION_13 CORRECT_ANSWER] a. Crude touch and pain sensation.
+[QUESTION_13 CORRECT_ANSWER] b. Crude touch and temperature sensation.
+[QUESTION_13 CORRECT_ANSWER] c. Motor function and temperature sensation.
+[QUESTION_13 CORRECT_ANSWER] d. Motor function and vibration sense.
+[QUESTION_14] 14) Tabes doralis is:
+[QUESTION_14 CORRECT_ANSWER] a. Due to virus infection of the posterior root ganglia.
+[QUESTION_14 CORRECT_ANSWER] b. Accompanied with shuffling gate.
+[QUESTION_14 CORRECT_ANSWER] c. Accompanied with loss of crude touch.
+[QUESTION_14 CORRECT_ANSWER] d. Accompanied with incoordination of voluntary movements.
+[QUESTION_15] 15) Which of the following is most likely to occur when a student changes his view from his book to his friend's book sitting on the other side of the room:
+[QUESTION_15 CORRECT_ANSWER] a. Thicker lens, contraction of ciliary muscle.
+[QUESTION_15 CORRECT_ANSWER] b. Thicker lens, relaxation of ciliary muscle.
+[QUESTION_15 CORRECT_ANSWER] c. Thinner lens, contraction of ciliary muscle.
+[QUESTION_15 CORRECT_ANSWER] d. Thinner lens, relaxation of ciliary muscle.
+[QUESTION_16] 16) The intra-ocular pressure:
+[QUESTION_16 CORRECT_ANSWER] a. Is the pressure of vitreous humor.
+[QUESTION_16 CORRECT_ANSWER] b. Increases the power of lens.
+[QUESTION_16 CORRECT_ANSWER] c. If increased produces cataract.
+[QUESTION_16 CORRECT_ANSWER] d. If increased prevents near vision.
+[QUESTION_17] 17) The Cornea is characterized by:
+[QUESTION_17 CORRECT_ANSWER] a. Responsible for 1/3 eye power.
+[QUESTION_17 CORRECT_ANSWER] b. Fixed convex lens.
+[QUESTION_17 CORRECT_ANSWER] c. Relatively anhydrated due to the presence of Na-channels.
+[QUESTION_17 CORRECT_ANSWER] d. is transparent due to absence of blood vessels and nerve supply.
+[QUESTION_18] 18) Concerning the near response:
+[QUESTION_18 CORRECT_ANSWER] a. it is abolished in lesions of pretectal nucleus.
+[QUESTION_18 CORRECT_ANSWER] b. It is normal in Argyl Robertson pupil.
+[QUESTION_18 CORRECT_ANSWER] c. Convergence is important to increase depth of focus.
+[QUESTION_18 CORRECT_ANSWER] d. Accommodation occurs by increasing curvature of the posterior surface of lens.
+[QUESTION_19] 19) Which of the following is not correctly paired:
+[QUESTION_19 CORRECT_ANSWER] a. Rhodopsin retinal and opsin.
+[QUESTION_19 CORRECT_ANSWER] b. Obstruction of the canal of Schlemm elevated intraocular pressure.
+[QUESTION_19 CORRECT_ANSWER] c. Myopia convex lenses.
+[QUESTION_19 CORRECT_ANSWER] d. Astigmatism nonuniform curvature of the comea.
+[QUESTION_20] 20) One of the following occurs with constriction of the pupil:
+[QUESTION_20 CORRECT_ANSWER] a. Increased production of aqueous humor.
+[QUESTION_20 CORRECT_ANSWER] b. Sympathetic nerve fibers are stimulated.
+[QUESTION_20 CORRECT_ANSWER] c. There is increased depth of focus.
+[QUESTION_20 CORRECT_ANSWER] d. Vision in conditions of poor illumination is improved.
+[QUESTION_21] 21) Stimulation of photoreceptors by light produces which of the following:
+[QUESTION_21 CORRECT_ANSWER] a. Phosphodiesterase activity decreases.
+[QUESTION_21 CORRECT_ANSWER] b. Formation of metarhodopsin II increases.
+[QUESTION_21 CORRECT_ANSWER] c. Neurotransmitter release increases.
+[QUESTION_21 CORRECT_ANSWER] d. Increased Na+ conductance of the outer segment of the receptors.
+[QUESTION_22] 22) Regarding visual cortex:
+[QUESTION_22 CORRECT_ANSWER] a. Simple cells respond best to moving bars without change in their directions.
+[QUESTION_22 CORRECT_ANSWER] b. Visual agnosia is due to lesion of area 17.
+[QUESTION_22 CORRECT_ANSWER] c. Blobs are concerned with color coding.
+[QUESTION_22 CORRECT_ANSWER] d. The visual cortex of one side receives fibers from the nasal side of the ipsilateral retina.
+[QUESTION_23] 23) Depolarization of the hair cells in the cochlea is caused primarily by the flow of:
+[QUESTION_23 CORRECT_ANSWER] a. K+ into the hair cell.
+[QUESTION_23 CORRECT_ANSWER] b. Na+ into the hair cell.
+[QUESTION_23 CORRECT_ANSWER] c. Cl- out of the hair cell.
+[QUESTION_23 CORRECT_ANSWER] d. Ca into the hair cell.
+[QUESTION_24] 24) If a patient is unable to hear high-frequency sounds, the damage to the basilar membrane is closest to the:
+[QUESTION_24 CORRECT_ANSWER] a. Oval window.
+[QUESTION_24 CORRECT_ANSWER] b. Helicotrema.
+[QUESTION_24 CORRECT_ANSWER] c. Stria vasculans.
+[QUESTION_24 CORRECT_ANSWER] d. Modiolus.
+[QUESTION_25] 25) When the damage to the outer hair cells is greater than the damage to the inner hair cells:
+[QUESTION_25 CORRECT_ANSWER] a. perception of vertical acceleration is disrupted.
+[QUESTION_25 CORRECT_ANSWER] b. K+ concentration in endolymph is decreased.
+[QUESTION_25 CORRECT_ANSWER] c. K+ concentration in perilymph is decreased.
+[QUESTION_25 CORRECT_ANSWER] d. affected hair cells fail to shorten when exposed to sound.
+[QUESTION_26] 26) During transmission of sound waves in the cochlea:
+[QUESTION_26 CORRECT_ANSWER] a. The foot of stapes moves inward against the oval window & the round window bulges outward.
+[QUESTION_26 CORRECT_ANSWER] b. The foot of stapes moves inward against the round window & the oval window bulges outward.
+[QUESTION_26 CORRECT_ANSWER] c. The head of the malleus moves inward against the oval window and the round window bulges outward.
+[QUESTION_26 CORRECT_ANSWER] d. The incus moves inward against the oval window, and the round window bulges outward.
+[QUESTION_27] 27) Which of the following structures is most involved in localization of sound stimuli:
+[QUESTION_27 CORRECT_ANSWER] a. Superior olivary complex.
+[QUESTION_27 CORRECT_ANSWER] b. Inferior colliculus.
+[QUESTION_27 CORRECT_ANSWER] c. Medial geniculate nucleus.
+[QUESTION_27 CORRECT_ANSWER] d. Auditory cortex.
+[QUESTION_28] 28) The central ends of afferents from muscle spindles synapse with all the following types of neurons, except:
+[QUESTION_28 CORRECT_ANSWER] a. a-motor neurons of the same muscle.
+[QUESTION_28 CORRECT_ANSWER] b. y-motor neurons of the same muscle.
+[QUESTION_28 CORRECT_ANSWER] c. Local interneurons.
+[QUESTION_28 CORRECT_ANSWER] d. 2nd order neurons of ascending sensory pathways.
+[QUESTION_29] 29) The gamma efferent neurons:
+[QUESTION_29 CORRECT_ANSWER] a. Controls spindle activity during voluntary movements.
+[QUESTION_29 CORRECT_ANSWER] b. Supplies the central zone of intrafusal muscle fibres.
+[QUESTION_29 CORRECT_ANSWER] c. Is inhibited by the vestibule-spinal tract.
+[QUESTION_29 CORRECT_ANSWER] d. When stimulated, causes less discharge of muscle spindles.
+[QUESTION_30] 30) Whenever the position of a joint is stabilized at a certain attitude, the nervous system produces this by:
+[QUESTION_30 CORRECT_ANSWER] a. Increasing the a-motor neuron discharge to all muscles attached to the joint.
+[QUESTION_30 CORRECT_ANSWER] b. Increasing the y-motor neuron discharge to all muscles attached to the joint.
+[QUESTION_30 CORRECT_ANSWER] c. Increasing y-motor neuron discharge to postural muscles.
+[QUESTION_30 CORRECT_ANSWER] d. Co-activation of a and y-motor neurons innervating the involved muscles.
+[QUESTION_31] 31) Inverse stretch reflex:
+[QUESTION_31 CORRECT_ANSWER] a. Decreases the possibility of avulsion of excessively stretched muscle from its bony attachments.
+[QUESTION_31 CORRECT_ANSWER] b. Has no reciprocal innervation circuits.
+[QUESTION_31 CORRECT_ANSWER] c. Is clinically manifested by lengthening reaction in normal subjects.
+[QUESTION_31 CORRECT_ANSWER] d. Is clinically tested by examining the tendon jerks.
+[QUESTION_32] 32) Clonus:
+[QUESTION_32 CORRECT_ANSWER] a. Is a sign of decreased supraspinal facilitation.
+[QUESTION_32 CORRECT_ANSWER] b. Initiated by briefly stretching the tendon of the muscle.
+[QUESTION_32 CORRECT_ANSWER] c. is manifested as oscillating mechanical vibrations following tendon jerks.
+[QUESTION_32 CORRECT_ANSWER] d. Associates exaggeration of tendon jerks.
+[QUESTION_33] 33) Failure of spinal reflexes during the stage of spinal shock causes:
+[QUESTION_33 CORRECT_ANSWER] a. Automatic mictuirition.
+[QUESTION_33 CORRECT_ANSWER] b. Hypotension.
+[QUESTION_33 CORRECT_ANSWER] c. Babinski sign.
+[QUESTION_33 CORRECT_ANSWER] d. Spasticity of the paralyzed muscles.
+[QUESTION_34] 34) Long term consequence of transection of the spinal cord at T12 level includes:
+[QUESTION_34 CORRECT_ANSWER] a. Paralysis of the bladder muscle and loss of the ability to defecate.
+[QUESTION_34 CORRECT_ANSWER] b. Severe drop of ABP.
+[QUESTION_34 CORRECT_ANSWER] c. Loss of the reflexes concerned with erection and ejaculation.
+[QUESTION_34 CORRECT_ANSWER] d. Severe flexor spasm on stimulation of the inner aspect of the thigh.
+[QUESTION_35] 35) The direction of nystagmus is expected to be vertical when a subject is rotated:
+[QUESTION_35 CORRECT_ANSWER] a. after warm water is put in one of his ears.
+[QUESTION_35 CORRECT_ANSWER] b. with his head tipped backward.
+[QUESTION_35 CORRECT_ANSWER] c. with his head tipped sideways.
+[QUESTION_35 CORRECT_ANSWER] d. with his head tipped forward.
+[QUESTION_36] 36) Which of the following normally happens when a person slowly rotates toward the right:
+[QUESTION_36 CORRECT_ANSWER] a. Both the left and right eyes deviate toward the left.
+[QUESTION_36 CORRECT_ANSWER] b. The hair cells in the left horizontal semicircular canal become depolarized.
+[QUESTION_36 CORRECT_ANSWER] c. The stereocilia on the hair cells in the right horizontal semicircular canal bend away from the kinocilium.
+[QUESTION_36 CORRECT_ANSWER] b. The visual image on the retina becomes unfocused.
+[QUESTION_37] 37) A 27-year-old patient complains of mild vertigo since 3-months. Examination reveals a bidirectional positional (horizontal and vertical) nystagmus. The patient reports the absence of tinnitus. Which of the following is the most likely etiology of the vertigo:
+[QUESTION_37 CORRECT_ANSWER] a. Labyrinthitis.
+[QUESTION_37 CORRECT_ANSWER] b. Lesion of the flocculonodular lobe of the cerebellum.
+[QUESTION_37 CORRECT_ANSWER] c. Ménière syndrome.
+[QUESTION_37 CORRECT_ANSWER] d. psychogenic.
+[QUESTION_38] 38) Increased neural activity before a skilled voluntary movement is first seen in the:
+[QUESTION_38 CORRECT_ANSWER] a. precentral motor cortex.
+[QUESTION_38 CORRECT_ANSWER] b. midbrain.
+[QUESTION_38 CORRECT_ANSWER] c. cerebellum.
+[QUESTION_38 CORRECT_ANSWER] d. cortical association areas.
+[QUESTION_39] 39) Spasticity of the paralyzed muscles in UMN lesions is associated with:
+[QUESTION_39 CORRECT_ANSWER] a. Inhibition of tendon jerks.
+[QUESTION_39 CORRECT_ANSWER] b. Remarkable wasting of the muscle.
+[QUESTION_39 CORRECT_ANSWER] c. Clonus.
+[QUESTION_39 CORRECT_ANSWER] d. None of the above.
+[QUESTION_40] 40) Which of the following describes a connection between components of the basa ganglia:
+[QUESTION_40 CORRECT_ANSWER] a. The subthalamic nucleus releases glutamate to excite the globus pallidus interna.
+[QUESTION_40 CORRECT_ANSWER] b. The substantia nigra pars reticulata releases dopamine to inhibit the striatum.
+[QUESTION_40 CORRECT_ANSWER] c. The globus pallidus interna releases glutamate to excite the thalamus.
+[QUESTION_40 CORRECT_ANSWER] d. The striatum releases acetylcholine to excite the substantia nigra pars reticulata.
+[QUESTION_41] 41) Regarding the role of the cerebellum:
+[QUESTION_41 CORRECT_ANSWER] a. Purkinje neurons lie in the deep cerebellar nuclei.
+[QUESTION_41 CORRECT_ANSWER] b. The cerebellum has a neuronal circuit with the motor cortex.
+[QUESTION_41 CORRECT_ANSWER] c. Chorea is a sign of cerebellar damage.
+[QUESTION_41 CORRECT_ANSWER] d. The cerebellar hemispheres control and receive inputs from contralateral muscles.
+[QUESTION_42] 42) Narcolepsy is associated with which of the following:
+[QUESTION_42 CORRECT_ANSWER] a. Decreased adenosine levels in the reticular formation.
+[QUESTION_42 CORRECT_ANSWER] b. Hypothalamic dysfunction with decreased CSF levels of orexins in the locus ceruleus.
+[QUESTION_42 CORRECT_ANSWER] c. Increased discharge of noradrenergic neurons
+[QUESTION_42 CORRECT_ANSWER] d. Increased discharge of serotonergic neurons in the midbrain Raphé.
+[QUESTION_43] 43) Which of the following pattern of changes in central neurotransmitters or neuromodulators are associated with the transition from Non REM sleep to wakefulness:
+[QUESTION_43 CORRECT_ANSWER] a. Decrease in norepinephrine, increase in serotonin, increase in acetylcholine, decrease in histamine, and increase in GABA.
+[QUESTION_43 CORRECT_ANSWER] b. Decrease in norepinephrine, decrease in serotonin, increase in acetylcholine, increase in histamine, and increase in GABA
+[QUESTION_43 CORRECT_ANSWER] c. Increase in norepinephrine, increase in serotonin, decrease in acetylcholine, increase in histamine, and decrease in GABA.
+[QUESTION_43 CORRECT_ANSWER] d. Increase in norepinephrine, decrease in serotonin, decrease in acetylcholine, increase in histamine, and decrease in GABA.
+[QUESTION_44] 44) Motor defects that result from an internal capsular lesion include:
+[QUESTION_44 CORRECT_ANSWER] a. Paralysis of the distal muscles on the opposite side of the body.
+[QUESTION_44 CORRECT_ANSWER] b. Paralysis of all smooth muscles on the opposite side of the body.
+[QUESTION_44 CORRECT_ANSWER] c. Paralysis of all skeletal muscles on the opposite side of the body.
+[QUESTION_44 CORRECT_ANSWER] d. Paralysis of all skeletal and smooth muscles on the opposite side of the body.
+[QUESTION_45] 45) Patient with motor ataxia differs from that with sensory ataxia in:
+[QUESTION_45 CORRECT_ANSWER] a. Being compensated for equilibrium disorder by vision.
+[QUESTION_45 CORRECT_ANSWER] b. Having speech disorders.
+[QUESTION_45 CORRECT_ANSWER] c. Having no abnormal gait.
+[QUESTION_45 CORRECT_ANSWER] d. Having no cerebellar lesion.

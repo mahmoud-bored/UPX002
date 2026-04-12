@@ -1,0 +1,343 @@
+[QUESTION_1] 1- The central nervous system is connected with the peripheral NS by all the following types of nerve fibers, except :
+[QUESTION_1 CORRECT_ANSWER] a- postganglionic autonomic fibers
+
+[QUESTION_2] 2- Regarding inhibitory synaptic transmission mechanism, all statements are correct EXCEPT:
+[QUESTION_2 CORRECT_ANSWER] c- may involve a postsynaptic increase in Cl- conductance.
+
+[QUESTION_3] 3- Regarding presynaptic inhibition:
+[QUESTION_3 CORRECT_ANSWER] b- there is a decrease in the release of chemical transmitters from the presynaptic neurone.
+
+[QUESTION_4] 4- The release of neurotransmitter at a chemical synapse in the central nervous system is dependent upon which of the following?
+[QUESTION_4 CORRECT_ANSWER] d- influx of calcium into the presynaptic terminal
+
+[QUESTION_5] 5- The excitatory or inhibitory action of a neurotransmitter is determined by which of the following?
+[QUESTION_5 CORRECT_ANSWER] a- function of its postsynaptic receptor
+
+[QUESTION_6] 6- Regarding synapses:
+[QUESTION_6 CORRECT_ANSWER] b- v-snare of the vesicles has high affinity to t-snare in the active zone of the presynaptic membrane .
+
+[QUESTION_7] 7- Excitatory postsynaptic potential:
+[QUESTION_7 CORRECT_ANSWER] b- is a state of local depolarization.
+
+[QUESTION_8] 8- Grand post-synaptic potential, may cause the postsynaptic membrane to:
+[QUESTION_8 CORRECT_ANSWER] d- (be more excitable if EPSP > IPSP) & (be less excitable if IPSP > EPSP) & (reach firing if there is summation of EPSPs)
+
+[QUESTION_9] 9- Presynaptic inhibition is characterized by:
+[QUESTION_9 CORRECT_ANSWER] b- hyperpolarization of presynaptic terminals
+
+[QUESTION_10] 10- Synaptic transmission is terminated by which of the following?
+[QUESTION_10 CORRECT_ANSWER] d- degradation of neurotransmitters by specific enzymes
+
+[QUESTION_11] 11- Regarding synapses:
+[QUESTION_11 CORRECT_ANSWER] d- presynaptic knobs contain vesicles with V-Snare proteins in their membranes
+
+[QUESTION_12] 12- Excitatory postsynaptic potential:.
+[QUESTION_12 CORRECT_ANSWER] c- cannot be propagated
+
+[QUESTION_13] 13- The excitatory postsynaptic potential (EPSP) is:
+[QUESTION_13 CORRECT_ANSWER] b- a state of partial depolarization
+
+[QUESTION_14] 14- lonotropic receptors:
+[QUESTION_14 CORRECT_ANSWER] b- are ligand gated ion channels
+
+[QUESTION_15] 15- The inhibitory postsynaptic potential (IPSP) is:
+[QUESTION_15 CORRECT_ANSWER] c- a state of hyperpolarization
+
+[QUESTION_16] 16- IPSP differs from EPSP in:
+[QUESTION_16 CORRECT_ANSWER] c- moving the postsynaptic membrane potential away from threshold
+
+[QUESTION_17] 17- Presynaptic inhibition:
+[QUESTION_17 CORRECT_ANSWER] d- (produced as a result of release of GABA) & (leads to decreased release of neurotransmitter) & (is involved in the gate theory of pain control)
+
+[QUESTION_18] 18- Excitatory presynaptic potential:
+[QUESTION_18 CORRECT_ANSWER] a- needs excitatory 3rd neuron
+
+[QUESTION_19] 19- Temporal summation:
+[QUESTION_19 CORRECT_ANSWER] a- occurs by rapid repetitive stimuli originating from one presynaptic neuron
+
+[QUESTION_20] 20- Synaptic transmission is stimulated by:
+[QUESTION_20 CORRECT_ANSWER] b- alkalosis
+
+[QUESTION_21] 21- Synaptic depression may result from all of the following EXCEPT:
+[QUESTION_21 CORRECT_ANSWER] d- strychnine.
+
+[QUESTION_22] 22- Tetanus toxin leads to:
+[QUESTION_22 CORRECT_ANSWER] d- spastic paralysis due to inhibition of GABA release
+
+[QUESTION_23] 23- Habituation of synapses:
+[QUESTION_23 CORRECT_ANSWER] a- is due to decrease release of neurotransmitters from the presynaptic neuron.
+
+[QUESTION_24] 24- Post-tetanic potentiation is due to:
+[QUESTION_24 CORRECT_ANSWER] b- repetitive stimulation of the presynaptic neuron not to the extent to produce fatigue
+
+[QUESTION_25] 25- Habituation is:
+[QUESTION_25 CORRECT_ANSWER] c- gradual loss of response to repeated benign neutral stimuli
+
+[QUESTION_26] 26- Habituation of synapses:
+[QUESTION_26 CORRECT_ANSWER] d- is due to a gradual decrease of response of the postsynaptic membrane due to inactivation of calcium channels in presynaptic neurons.
+
+[QUESTION_27] 27- Sensitization of synapses:
+[QUESTION_27 CORRECT_ANSWER] c- is explained by presynaptic facilitation
+
+[QUESTION_28] 28- Divergence:
+[QUESTION_28 CORRECT_ANSWER] a- helps amplification of the signal.
+
+[QUESTION_29] 29- Regarding the excitation field:
+[QUESTION_29 CORRECT_ANSWER] c- neurons in the centre receive large number of knobs.
+
+[QUESTION_30] 30- Renshaw cell:
+[QUESTION_30 CORRECT_ANSWER] b- shows the phenomenon of negative feedback inhibition.
+
+[QUESTION_31] 31- Occlusion:
+[QUESTION_31 CORRECT_ANSWER] b- occurs due to overlap of discharge zones of two adjacent neuronal pools
+
+[QUESTION_32] 32- lateral inhibition:
+[QUESTION_32 CORRECT_ANSWER] a- helps sharpening of sensation
+
+[QUESTION_33] 33- Neuropeptides:
+[QUESTION_33 CORRECT_ANSWER] b- are synthesized in the soma of the neuron
+
+[QUESTION_34] 34- All the following transmitters are neuropeptides except:
+[QUESTION_34 CORRECT_ANSWER] c- dopamine
+
+[QUESTION_35] 35- Receptor potential:
+[QUESTION_35 CORRECT_ANSWER] c- amplitude is proportional to the intensity of the stimulus.
+
+[QUESTION_36] 36- Tonic receptors include all of the following, EXCEPT:
+[QUESTION_36 CORRECT_ANSWER] a- touch receptors.
+
+[QUESTION_37] 37- As regards the Properties of the receptor potential:
+[QUESTION_37 CORRECT_ANSWER] d- it does not obey the all or non rule.
+
+[QUESTION_38] 38- Receptor potential initiated by an adequate stimulus:
+[QUESTION_38 CORRECT_ANSWER] d- could initiate an action potential
+
+[QUESTION_39] 39- Slowly adapting receptors include all the following types Except
+[QUESTION_39 CORRECT_ANSWER] d- touch receptors
+
+[QUESTION_40] 40- Detection of the stimulus modality depends upon:�
+[QUESTION_40 CORRECT_ANSWER] c- the anatomical connections between the receptors and specific sensory areas in the cerebral cortex
+
+[QUESTION_41] 41- Sensory receptors:
+[QUESTION_41 CORRECT_ANSWER] c- code for stimulus strength by changes in receptor potential amplitude.
+
+[QUESTION_42] 42- The lateral spinothalamic tract is characterized by all of the following, EXCEPT:
+[QUESTION_42 CORRECT_ANSWER] d- contains nerve fibres from receptors on the ipsilateral side of the body
+
+[QUESTION_43] 43- The following sensations are transmitted in the dorsal column of the spinal cord, EXCEPT:
+[QUESTION_43 CORRECT_ANSWER] a- temperature
+
+[QUESTION_44] 44- Tactile receptors include the following receptors:
+[QUESTION_44 CORRECT_ANSWER] b- hair follicle receptors
+
+[QUESTION_45] 45- Fine touch is:
+[QUESTION_45 CORRECT_ANSWER] a- detected by slowly adapting touch receptors
+
+[QUESTION_46] 46- A more developed two-point tactile discrimination:
+[QUESTION_46 CORRECT_ANSWER] c- is inversely related to the size of the receptive fields of the stimulated sensory units
+
+[QUESTION_47] 47- Proprioceptive sensations include all the following, EXCEPT:
+[QUESTION_47 CORRECT_ANSWER] b- equilibrium sense
+
+[QUESTION_48] 48- Proprioceptors include all the following types of receptors, EXCEPT:
+[QUESTION_48 CORRECT_ANSWER] c- vestibular receptors
+
+[QUESTION_49] 49- Proprioceptive sensations are transmitted by all the following pathways, except:
+[QUESTION_49 CORRECT_ANSWER] a- spinothalamic tracts
+
+[QUESTION_50] 50- Proprioceptive sensations include all the following, except:
+[QUESTION_50 CORRECT_ANSWER] b- afferent neurons of AB fibers
+
+[QUESTION_51] 51- Vibration sense:
+[QUESTION_51 CORRECT_ANSWER] a- is sensed by free nerve endings.
+[QUESTION_51 CORRECT_ANSWER] b- depends on past cortical experience.
+[QUESTION_51 CORRECT_ANSWER] c- is carried on dorsal column.
+[QUESTION_51 CORRECT_ANSWER] d- is carried on spinothalamic tract.
+[QUESTION_52] 52- Pain produced by tissue damage is due to release of:
+[QUESTION_52 CORRECT_ANSWER] a- excess norepinephrine.
+[QUESTION_52 CORRECT_ANSWER] b- ATP.
+[QUESTION_52 CORRECT_ANSWER] c- bradykinins.
+[QUESTION_52 CORRECT_ANSWER] d- b & c are correct
+[QUESTION_53] 53- Individuals complaining of severe pain have difficulty in sleeping due to:
+[QUESTION_53 CORRECT_ANSWER] a- neurotransmitters released in the pain pathway diffuse into the neighboring cells and block the sleep circuits .
+[QUESTION_53 CORRECT_ANSWER] b- neurotransmitters released in the pain pathway diffuse into neighboring neurons and raise the excitability of the brain .
+[QUESTION_53 CORRECT_ANSWER] c- ascending pain pathway excites the reticular formation involved in the maintenance of waking state .
+[QUESTION_53 CORRECT_ANSWER] d- the somatic sensory cortex for pain perception block the sleep circuits
+[QUESTION_54] 54- Dull aching pain is:
+[QUESTION_54 CORRECT_ANSWER] a- carried along type A delta fibres.
+[QUESTION_54 CORRECT_ANSWER] b- mediated via type C fibres.
+[QUESTION_54 CORRECT_ANSWER] c- rapidly felt.
+[QUESTION_54 CORRECT_ANSWER] d- sensed by encapsulated nerve endings.
+[QUESTION_55] 55- The analgesia system includes:
+[QUESTION_55 CORRECT_ANSWER] a- raphe magnus nucleus in the post horn of the spinal cord.
+[QUESTION_55 CORRECT_ANSWER] b- the periaquiductal area in the mid-brain.
+[QUESTION_55 CORRECT_ANSWER] c- the sensory area I.
+[QUESTION_55 CORRECT_ANSWER] d- supra-optic nuclei of the hypothalamus
+[QUESTION_56] 56- Action potentials recorded after stimulation of thermal receptors show that:
+[QUESTION_56 CORRECT_ANSWER] the maximal rate of discharge of action potentials in the cold nerve fibers is at 25�c
+[QUESTION_56 CORRECT_ANSWER] b- action potentials recorded in warm nerve fibers between 10 - 35�c
+[QUESTION_56 CORRECT_ANSWER] c- action potentials are recorded in cold pain fibers at O 0c
+[QUESTION_56 CORRECT_ANSWER] d- the maximum rate of discharge from warm pain and cold pain fibers occurs at 40�c
+[QUESTION_57] 57- Pain receptors are:
+[QUESTION_57 CORRECT_ANSWER] a- quick to adapt to a constant stimulus
+[QUESTION_57 CORRECT_ANSWER] b- more easily stimulated in injured tissue
+[QUESTION_57 CORRECT_ANSWER] c- similar to structure of Pacinian corpuscles
+[QUESTION_57 CORRECT_ANSWER] d- stimulated in the gut wall by cutting stimuli
+[QUESTION_58] 58- Fast pain differs from slow pain in:
+[QUESTION_58 CORRECT_ANSWER] a- being transmitted in the dorsal column pathway
+[QUESTION_58 CORRECT_ANSWER] b- evoking a reflex spasm of the muscles
+[QUESTION_58 CORRECT_ANSWER] c- having a sharp quality
+[QUESTION_58 CORRECT_ANSWER] d- arising from encapsulated pain receptors
+[QUESTION_59] 59- Cutaneous pain is:
+[QUESTION_59 CORRECT_ANSWER] a- sharp in character
+[QUESTION_59 CORRECT_ANSWER] b- transmitted by A-gamma sensory fibers
+[QUESTION_59 CORRECT_ANSWER] c- always followed by hyperalgesia
+[QUESTION_59 CORRECT_ANSWER] d- transmitted along ventral spinocerebellar tracts
+[QUESTION_60] 60- Cutaneous pain is:
+[QUESTION_60 CORRECT_ANSWER] a- only sharp in character
+[QUESTION_60 CORRECT_ANSWER] b- transmitted by Ao sensory fibers
+[QUESTION_60 CORRECT_ANSWER] c- always followed by hyperalgesia
+[QUESTION_60 CORRECT_ANSWER] d- transmitted along ventral spinocerebellar tracts
+[QUESTION_61] 61- Intermittent Claudications evoke :
+[QUESTION_61 CORRECT_ANSWER] a- visceral pain
+[QUESTION_61 CORRECT_ANSWER] b- deep pain
+[QUESTION_61 CORRECT_ANSWER] c- cutaneous hyperalgesia
+[QUESTION_61 CORRECT_ANSWER] d- colicky pain
+[QUESTION_62] 62- Visceral pain signals are:
+[QUESTION_62 CORRECT_ANSWER] a- transmitted along sensory fibers that travel mainly with autonomic nerves in abdomen and thorax
+[QUESTION_62 CORRECT_ANSWER] b- not stimulated by ischemia in visceral organs
+[QUESTION_62 CORRECT_ANSWER] c- transmitted only by the myelinated type A delta sensory fibers
+[QUESTION_62 CORRECT_ANSWER] d- typically well localized
+[QUESTION_63] 63- Visceral pain:
+[QUESTION_63 CORRECT_ANSWER] a- is more common than the other types of pain
+[QUESTION_63 CORRECT_ANSWER] b- arises only from wall of the visceral organs
+[QUESTION_63 CORRECT_ANSWER] c- is often well localized
+[QUESTION_63 CORRECT_ANSWER] d- evokes depressor autonomic reactions
+[QUESTION_64] 64- Visceral pain is usually felt:
+[QUESTION_64 CORRECT_ANSWER] a- deeply in the diseased viscera
+[QUESTION_64 CORRECT_ANSWER] b- in deep tissues close to the diseased viscera
+[QUESTION_64 CORRECT_ANSWER] c- in skin areas that just overlie the diseased viscera
+[QUESTION_64 CORRECT_ANSWER] d- in skin areas which has the same dorsal root as the diseased viscera
+[QUESTION_65] 65- Transmitters in pain control system include all the following, EXCEPT:
+[QUESTION_65 CORRECT_ANSWER] a- : serotonin
+[QUESTION_65 CORRECT_ANSWER] b- acetylcholine
+[QUESTION_65 CORRECT_ANSWER] c- enkephalin
+[QUESTION_65 CORRECT_ANSWER] d- beta endorphin
+[QUESTION_66] 66- lntracranial headache could result from injurious stimuli on EXCEPT:
+[QUESTION_66 CORRECT_ANSWER] a- the dura lining the brain
+[QUESTION_66 CORRECT_ANSWER] b- the brain tissue
+[QUESTION_66 CORRECT_ANSWER] c- wall of the big intracranial veins
+[QUESTION_66 CORRECT_ANSWER] d- middle meningeal artery
+[QUESTION_67] 67- Extracranial headache may be produced by:
+[QUESTION_67 CORRECT_ANSWER] a- sinusitis
+[QUESTION_67 CORRECT_ANSWER] b- errors of refraction
+[QUESTION_67 CORRECT_ANSWER] c- sustained contraction of the neck muscles
+[QUESTION_67 CORRECT_ANSWER] d- all of the above
+[QUESTION_68] 68- All of the following are cause of intracranial headache, EXCEPT:
+[QUESTION_68 CORRECT_ANSWER] a- alcohol intoxication
+[QUESTION_68 CORRECT_ANSWER] b- inflammation of nasal sinuses
+[QUESTION_68 CORRECT_ANSWER] c- brain tumors
+[QUESTION_68 CORRECT_ANSWER] d- dilatation of the cerebral arteries
+[QUESTION_69] 69- An inter-neuron in which region uses Enkephalin to inhibit pain transmission:
+[QUESTION_69 CORRECT_ANSWER] post - central gyrus.
+[QUESTION_69 CORRECT_ANSWER] b- raphe magnus nucleus.
+[QUESTION_69 CORRECT_ANSWER] c- dorsal horn of spinal cord.
+[QUESTION_69 CORRECT_ANSWER] d- periaqueductal gray area.
+[QUESTION_70] 70- A patient had destruction of somatic sensory area I on the left side will show:
+[QUESTION_70 CORRECT_ANSWER] a- total lack of pain sensation on the same side
+[QUESTION_70 CORRECT_ANSWER] b- total lack of temperature sensation of the same side
+[QUESTION_70 CORRECT_ANSWER] c- inability to identify objects put in the right hand
+[QUESTION_70 CORRECT_ANSWER] d- inability to identify objects put in the left hand.
+[QUESTION_71] 71- After anterolateral cordotomy, relief of pain is due to interruption of:
+[QUESTION_71 CORRECT_ANSWER] a- dorsal column
+[QUESTION_71 CORRECT_ANSWER] b- lateral spinothalamic tract
+[QUESTION_71 CORRECT_ANSWER] c- ventral spinothalamic tract
+[QUESTION_71 CORRECT_ANSWER] d- ventral spinocerebellar tract
+[QUESTION_72] 72- Astereognosis :
+[QUESTION_72 CORRECT_ANSWER] a- indicates inability to localize the site of touch on the body surface
+[QUESTION_72 CORRECT_ANSWER] b- results from lesions of the somatic sensory area I & associated sensory area
+[QUESTION_72 CORRECT_ANSWER] c- associates parietal lobe neglect
+[QUESTION_72 CORRECT_ANSWER] d- results from loss of crude touch sensation
+
+Answer Key
+
+
+1. a
+11. d
+21. d
+31. b
+41. C
+51. C.
+61. b
+71. b
+2. C
+12. C
+22. d
+32. a
+42. d
+52. d
+62. a
+72. b
+3. b
+13. b
+23. a
+33. b
+43. a
+53. C
+63. d
+
+4. d
+14. b
+24. b
+34. C
+44. b
+54. b
+64. d
+
+5. a
+15. C
+25. C
+35. C
+45. a
+55. b
+65. b
+
+6. b
+16. C
+26. d
+36. a
+46. C
+56. a
+66. b
+
+7. b
+17. d
+27. C
+37. d
+47. b
+57. b
+67. d
+
+8. d
+18. a
+28. a
+38. d
+48. C
+58. C
+68. b
+
+9. b
+19. a
+29. C
+39. d
+49. a
+59. a
+69. C
+
+10. d
+20. b
+30. b
+40. C
+50. b
+60. b
+70. C

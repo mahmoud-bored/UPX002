@@ -1,0 +1,2418 @@
+[START]
+
+[Line 1] Physiology
+[Line 2] for 1st year medical students
+[Line 3] Sensory
+[Line 4] 
+[Line 5] 
+[Line 6] 
+[Line 7] 
+[Line 8]
+[Line 9] 
+[Line 10] 
+[Line 11] * Anatomical Organization of the nervous system:
+[Line 12] 1- Central Nervous System (CNS): brain and spinal cord.
+[Line 13] * contains centers for integration of inputs and for production of output signals.
+[Line 14] * three major levels:
+[Line 15] a. Spinal cord level: for immediate automatic activities as withdrawal reflexes and evacuation of bladder and rectum.
+[Line 16] b. Lower Brain Level: control of subconscious activities as CVS and respiratory functions, maintenance of posture and equilibrium .........
+[Line 17] c. Higher Brain or Cortical Level: control of motor and sensory functions and others as: thinking, learning, memory and speech.
+[Line 18] 2- Peripheral Nervous System (PNS): subdivided into:
+[Line 19] a. Sensory Division: (Afferent)
+[Line 20] b. Motor Division: (Efferent): further subdivided into:
+[Line 21] * Somatic: controls voluntary movements as skeletal muscles.
+[Line 22] * Autonomic: controls involuntary functions as viscera, smooth muscles, cardiac muscles and glands.
+[Line 23] 
+[Line 24] Synaptic Transmission
+[Line 25] * Definition: transmission of impulse (action potential) from one neuron to another along a synapse.
+[Line 26] * Synapse: junction between 2 neurons: axon terminal of one neuron (presynaptic neuron) and a second neuron (post synaptic neuron).
+[Line 27] 
+[Line 28] * types of synaptic transmission:
+[Line 29] 1- Electric: neurons are communicated by low-resistance gap-channel pathway ? passage of electric current directly.
+[Line 30] N.B.: rare in humans and is common in invertebrates.
+[Line 31] 2- Chemical: release of a chemical substance (neurotransmitter).
+[Line 32] 
+[Line 33] > Functions of Synapses:
+[Line 34] a. Facilitating transmission.
+[Line 35] b. Blocking transmission.
+[Line 36] c. Amplification of impulses.
+[Line 37] d. Distribution of impulses.
+[Line 38] e. Changing one impulse to repetitive impulses.
+[Line 39] f. Integration between different types of neurons.
+[Line 40] g. Interpretation, processing and Storage of information.
+[Line 41] N.B. synapses are dynamic structures: increasing and decreasing in complexity and number with use and experience.
+[Line 42] 
+[Line 43] > Functional Anatomy of a Synapse
+[Line 44] 1) Presynaptic Terminal: (or synaptic knob): contains:
+[Line 45] a. mitochondria: provides ATP for synthesis and exocytosis of transmitters.
+[Line 46] b. A large number of synaptic vesicles contain synaptic transmitters. three types:
+[Line 47] 1. Small clear for rapidly acting transmitters e.g. acetyl choline, glycine, glutamate and GABA.
+[Line 48] 2. Small granular containing catecholamines.
+[Line 49] 3. Large granular contain slowly acting neuropeptides.
+[Line 50] (2) synaptic cleft: space containing ECF rich in Na+, Cl- poor in K+.
+[Line 51] (3) postsynaptic membrane (PSM): contains Receptors for neurotransmitters. types:
+[Line 52] a. Ionotropic receptors: part of Ligand-gated ion channels: affect neuronal activity directly
+[Line 53] b. Metabotropric receptors: (mostly G protein coupled receptors) affect activity neuron indirectly by second messenger e.g. cAMP: slower and more prolonged effects, as:
+[Line 54] a. Open or close specific ion channels.
+[Line 55] b. Activate enzymes e.g. protein kinases: phosphorylation of proteins.
+[Line 56] c. Activate gene transcription: formation of new proteins.
+[Line 57] Mechanism of Synaptic Transmission
+[Line 58] 1- Release of chemical transmitter from presynaptic nerve:
+[Line 59] * Arrival of action potential opens voltage-gated Ca++ channels
+[Line 60] * Ca++ enters knob according to concentration and electric gradients.
+[Line 61] * Influx of Ca++ triggers binding of SNARE proteins:
+[Line 62] o V- SNARE (Synaptobrevin) on synaptic vesicle.
+[Line 63] o T- SNARE (Syntaxin) on presynaptic membrane
+[Line 64] * exocytosis of chemical transmitter into the synaptic cleft.
+[Line 65] * N.B.: amount of transmitter is proportional to amount of Ca++ entered.
+[Line 66] 2- Binding of Transmitter with its Receptors: changes permeability to ions.
+[Line 67] 3- Generation of Postsynaptic Potential: Change in ion fluxes leads to change in its membrane potential ? may become:
+[Line 68] a. less negative = excitatory postsynaptic potential. (EPSP).
+[Line 69] b. more negative = inhibitory postsynaptic potential. (IPSP).
+[Line 70]  magnitude and duration of EPSP and IPSP depends on amount of released Neurotransmitter. "not All or None".
+[Line 71] 4- Removal of Neurotransmitters from the Synaptic Cleft:
+[Line 72] a. Passive diffusion away from synaptic cleft
+[Line 73] b. Inactivation by specific enzymes within synaptic cleft, e.g. acetyl choline
+[Line 74] c. Active reuptake into axon terminals, e.g. catecholamines, dopamine, serotonin.
+[Line 75] d. Removal by glial cells.
+[Line 76] 
+[Line 77] Types of Synaptic Potentials Postsynaptic potentials
+[Line 78] 
+[Line 79] 1. Excitatory postsynaptic potential [EPSP]:
+[Line 80] 2. Inhibitory Postsynaptic Potential [IPSP]
+[Line 81] Definition
+[Line 82] local state of partial depolarization
+[Line 83] local state of hyperpolarization
+[Line 84] Ionic basis
+[Line 85] * excitatory  neurotransmitter  binding  to  receptor  ==>
+[Line 86] opening of ligand gated Na+(or Ca++) channels
+[Line 87] * inside of cell membrane less negative ==> nearer to firing level ==> more excitable.
+[Line 88] * membrane facilitated i.e. needs a weaker stimulus to be
+[Line 89] excited than at rest.
+[Line 90] * inhibitory neurotransmitter bind with receptor ==> opening of ligand gated K+ or Cl-channels or closure of Na+ (or Ca++) channels.
+[Line 91] * inside of the cell membrane more negative ==> away from firing level (threshold) ==> less excitable.
+[Line 92] * membrane is inhibited i.e. needs a stronger stimulus.
+[Line 93] amplitude
+[Line 94] 1- 5 mv
+[Line 95] Duration
+[Line 96] reaches a maximum after 1-5 msec then gradually declines
+[Line 97] N.B.:
+[Line 98] does not obey all or none rule = graded: Magnitude and duration depends on amount of neurotransmitter
+[Line 99] 
+[Line 100] 
+[Line 101] 
+[Line 102] 
+[Line 103] 
+[Line 104] 
+[Line 105] * Summation: EPSPs have to be summated to reach threshold. Types
+[Line 106] 1- Temporal (Time): rapid repetitive stimuli originating from ONE presynaptic neuron
+[Line 107] 2- Spatial (Space): multiple simultaneous stimuli from MANY presynaptic neurons N.B.: IPSP can be summated
+[Line 108] 
+[Line 109] 3. Grand Post-Synaptic Potential (GPSP): sum of all EPSPs and IPSPs (neuron receives thousands of presynaptic inputs)
+[Line 110] * possible outcomes:
+[Line 111] 1. EPSPs = IPSPs ==> postsynaptic membrane potential will remain at resting level.
+[Line 112] 2. EPSPs < IPSPs ==> postsynaptic away from threshold and membrane inhibited
+[Line 113] 3. EPSPs > IPSPs ==> postsynaptic neuron doesn't reach threshold ?membrane is facilitated or in an excitatory state.
+[Line 114] 4. EPSPs > IPSPs ==> postsynaptic neuron reach threshold ? action potential.
+[Line 115] Example: micturition reflex is influenced by many signals but the response will vary:
+[Line 116] a- Sensory signals from receptors in urinary bladder.
+[Line 117] b- Facilitatory and Inhibitory signals from brain stem.
+[Line 118] c- Voluntary control from the cerebral cortex.
+[Line 119] 
+[Line 120] Presynaptic Potentials
+[Line 121] * release of NT from presynaptic affected by a third neuron.
+[Line 122] * N.B.: 3rd neuron synapses axoaxonically with excitatory presynaptic neuron before it reaches the synapse.
+[Line 123] 
+[Line 124] Presynaptic Inhibition
+[Line 125] Presynaptic Facilitation
+[Line 126] THIRD NEURON
+[Line 127] inhibitory  releases  an  inhibitory  transmitter  (e.g
+[Line 128] GABA), which either opens Cl- or K+ channels.
+[Line 129] excitatory neuron releases "serotonin" ==> increases
+[Line 130] cAMP in the presynaptic terminals ==>  phosphorylates
+[Line 131] K+ channels and closes them.
+[Line 132] presynaptic membrane
+[Line 133] hyperpolarize ? reduced Ca++ influx ==> reduced release of NT and transmission from the presynaptic to
+[Line 134] the postsynaptic neuron
+[Line 135] delays repolarization = prolongation of depolarization: voltage gated Ca++ channels opened for a longer period
+[Line 136] ? Ca++ influx ? increases release of NT
+[Line 137] Example
+[Line 138] pain inhibiton
+[Line 139] Sensitization of memory
+[Line 140] significance
+[Line 141] ? neurotransmitter release from presynaptic
+[Line 142] Selective block of synapse without affecting postsynaptic
+[Line 143] neuron excitability
+[Line 144] 
+[Line 145] > Initiation of Action Potentials at the Axon Hillock: -
+[Line 146] * Few Voltage gated Na+ channels are present in cell body and dendrites, but numerous in axon hillock
+[Line 147] * EPSPs occurring on cell body or dendrites spread electrotonically (by current sink) ? axon hillock: initiating an action potential
+[Line 148] 
+[Line 149] Factors affecting synaptic transmission
+[Line 150] 1-  Changes in internal environment:
+[Line 151] a. pH:
+[Line 152] * Alkalosis: increases neurons excitability & facilitates transmission: decrease ionized Ca++. (may lead to convulsions: if epileptic patient hyperventilates, this may precipitate a fit)
+[Line 153] * Acidosis: decreases synaptic transmission due to increase ionized Ca++ (may lead to coma, e.g. in diabetic Ketoacidosis).
+[Line 154] b. Hypoxia: inhibits synaptic transmission: interruption of cerebral circulation for 3-5 seconds may cause unconsciousness & prolonged ischemia for minutes cause brain damage.
+[Line 155] c. Hypoglycemia: inhibits synaptic transmission (Glucose is the main fuel of brain)
+[Line 156] d. Hypocalcemia: facilities transmission as it increases excitability of the post synaptic membrane (leading to tetanic convulsions)
+[Line 157] 
+[Line 158] 2- Drugs: Most of the drugs act on the CNS alter synaptic mechanism, e.g.:
+[Line 159] a. Theophylline, theobromine, and caffeine ? transmission by depolarizing the postsynaptic membrane.
+[Line 160] b. Analgesics, hypnotics and anaesthetics: ? transmission = stabilizing membrane causing hyperpolarization or by interference with synthesis, release or reuptake of certain neurotransmitters.
+[Line 161] c. Strychnine: ???? transmission: competes with inhibitory transmitters leaving excitatory pathways unaffected: convulsions.
+[Line 162] 3- Diseases:
+[Line 163] Tetanus toxin
+[Line 164] Botulism toxin
+[Line 165] prevents release of inhibitory GABA (or glycine)
+[Line 166] blocks release of excitatory Acetyl Choline
+[Line 167] spastic paralysis: spasm occurs especially in jaw muscles
+[Line 168] ? lock jaw then affects respiratory muscles ?death.
+[Line 169] flaccid paralysis
+[Line 170] 
+[Line 171] Characters of Synaptic Transmission
+[Line 172] I- Forward (uni) direction: from presynaptic to postsynaptic neurons (neurotransmitters released from presynaptic).
+[Line 173] II- Synaptic delay: time taken by an impulse to be conducted through the synapse. It equals about 0.5 m. sec: so we can calculate number of synapses
+[Line 174] III- Fatigue: decreased impulses discharged after repetitive stimulation. due to:
+[Line 175] 1. Exhaustion of synaptic vesicles in the presynaptic terminals.
+[Line 176] 2. Inactivation of postsynaptic receptors.
+[Line 177] * Benefit: stabilize the nervous system e.g. stopping discharge from overexcited areas in CNS during epileptic seizures.
+[Line 178] IV- Synaptic plasticity: ability to change function according to demand (synaptic transmission strengthened or weekened)
+[Line 179] * represent forms of learning and memory.
+[Line 180] * Forms of Synaptic Plasticity
+[Line 181] 
+[Line 182] Post tetanic potentiation (PTP):
+[Line 183] Habituation
+[Line 184] Sensitization
+[Line 185] Definition
+[Line 186] Continuous discharge from postsynaptic
+[Line 187] neuron after brief tetanizing stimuli by presynaptic neuron
+[Line 188] Gradual loss of response to repeated benign stimuli
+[Line 189] Augmented response of
+[Line 190] postsynaptic to benign stimuli if coupled with a noxious one.
+[Line 191] Duration
+[Line 192] few seconds to minutes
+[Line 193] Up to 3 weeks
+[Line 194] Ionic basis
+[Line 195] repetitive stimulation ? accumulation of
+[Line 196] Ca2+ in presynaptic neuron ==> more release of neurotransmitter
+[Line 197] gradual inactivation of Ca2+ channels in presynaptic ==> ?Ca2+
+[Line 198] ==> ? release of neurotransmitter
+[Line 199] (presynaptic	facilitation):
+[Line 200] ........
+[Line 201] Importance
+[Line 202] mechanism of immediate memory as telephone number (7-10 digits)
+[Line 203] Neglecting unimportant stimuli
+[Line 204] e.g. noises and focusing on important ones
+[Line 205] 1. In memory
+[Line 206] 2. defensive response to avoid injury
+[Line 207] 
+[Line 208] 
+[Line 209] 
+[Line 210] 
+[Line 211] Long term potentiation (LTP):
+[Line 212] Long term depression (LTD)
+[Line 213] Definition
+[Line 214] Persistent increase in synaptic strength after strong intensity high frequency stimulation
+[Line 215] Persistent decrease in synaptic strength after weak intensity low frequency
+[Line 216] stimulation
+[Line 217] mechanism
+[Line 218] * Glutamate from presynaptic neuron binds to AMPA and NMDA receptors in postsynaptic membrane.
+[Line 219] * Activation of AMPA causes Na+ inflow: depolarizes postsynaptic membrane and relieves Mg++ block in NMDA receptor channel, Ca++ enters neuron.
+[Line 220] 
+[Line 221] * High intensity & frequency stimuli: rapid increase in cytoplasmic Ca++ activates (Calmodulin Kinase II): moves more AMPA receptors into postsynaptic membrane.
+[Line 222] * Low intensity & frequency stimuli slow increase in cytoplasmic Ca++ activates (Calcineurin phosphatase I): removal of
+[Line 223] AMPA from postsynaptic membrane
+[Line 224] Importance
+[Line 225] in various parts of CNS, specifically in hippocampus contributes to
+[Line 226] memory storage ==> learning & long term memory
+[Line 227] memory decay.
+[Line 228] 
+[Line 229] N.B.: Memory classification:
+[Line 230] 1. Short term: seconds to few minutes
+[Line 231] 2. Intermediate: up to 3 weeks
+[Line 232] 3. Long term: days, months or even lifetime: requires structural changes in synapse as protein synthesis
+[Line 233] Memory consolidation: transformation of short term memory into long term by hippocampus to be stored in neocortex
+[Line 234] 
+[Line 235] Chemical Transmitters (Neuro-Transmitters)
+[Line 236] * endogenous chemical substances released from presynaptic neurons that transmit signals between neurons across a synapse
+[Line 237] * may act as a neurotransmitter in brain & as a hormone elsewhere
+[Line 238] * Types: More than 100 in two different groups:
+[Line 239] 
+[Line 240] Small molecule, rapidly acting transmitters
+[Line 241] Large molecules, slowly acting neuropeptides
+[Line 242] synthesized in
+[Line 243] presynaptic knobs
+[Line 244] in soma, then transported to the terminal knobs
+[Line 245] stored in
+[Line 246] small vesicles
+[Line 247] large granular vesicles
+[Line 248] vesicles
+[Line 249] recycled and reused
+[Line 250] autolyzed and not reused
+[Line 251] released
+[Line 252] rapidly in large amounts
+[Line 253] slower in smaller amounts (but more potent)
+[Line 254] receptors
+[Line 255] ionotropic leading to rapid activation of ion channels
+[Line 256] metabotropic receptors leading to activation of 2nd
+[Line 257] messenger system
+[Line 258] responses
+[Line 259] most of the acute actions e.g. transmission of sensory
+[Line 260] signals and motor signals to muscles
+[Line 261] more prolonged actions as, long term opening or closure
+[Line 262] of ion channels, changes in number of receptors or genes
+[Line 263] types
+[Line 264] a. Acetyl choline
+[Line 265] b. Amines: Norepinephrine, Dopamine, Serotonin
+[Line 266] c. Amino acid Neurotransmitters:
+[Line 267] * Excitatory: Glutamate and Aspartate
+[Line 268] * Inhibitory: GABA and Glycine
+[Line 269] d. Gases: Nitrous oxide (NO)
+[Line 270] a) Hypothalamic releasing peptides: TRH, CRH.
+[Line 271] b) Pituitary peptides: GH, TSH, ADH
+[Line 272] c) Opioid peptides: endorphins, enkephalins.
+[Line 273] d) GIT peptides: CCK, VIP, gastrin, secretin.
+[Line 274] e) Other	peptides:	substance	P,	Angiotensin	II, Neuropeptide Y, ANP, BNP.
+[Line 275] f) Purines: adenosine.
+[Line 276] 
+[Line 277] Organization of Neurons in Neuronal Pools
+[Line 278] * neuronal pool: collection of neurons carrying the same function in CNS
+[Line 279] * organizations are:
+[Line 280] 
+[Line 281] 
+[Line 282] 
+[Line 283] I.	Divergence
+[Line 284] II.	Convergence
+[Line 285] Definition
+[Line 286] ONE neuron stimulates MANY neurons
+[Line 287] MANY neurons stimulate ONE neuron
+[Line 288] Functions
+[Line 289] a- in same direction: allows Amplification of signal, e.g. one motor cell in cortex supply many muscle fibers.
+[Line 290] b- in different directions: allows Distribution, e.g. painful stimulus:
+[Line 291] a) stimulates AHCs of muscles on both sides
+[Line 292] b) ascends to brain stem & sensory cortex
+[Line 293] a. SUMMATION of input signals: intensification
+[Line 294] of subthreshold signals to threshold to discharge.
+[Line 295] b. from different sources: integration of signals
+[Line 296] e.g. a motor neuron receives different excitatory and inhibitory inputs
+[Line 297] 
+[Line 298] III. Excitation field: neurons synapsing one afferent neuron.
+[Line 299] a) Discharge zone : Neurons in center receive large numbers of knobs: reach threshold and discharge nerve impulses.
+[Line 300] b) Facilitated zone( subliminal fringe ): Neurons in periphery receive few numbers of knobs: only facilitated
+[Line 301] N.B.: area of discharge zone and subliminal fringe depends on strength of stimulus: the stronger the wider the discharge zone
+[Line 302] 
+[Line 303] * Facilitation phenomenon:
+[Line 304] overlap
+[Line 305] excitation fields of two inputs overlap at facilitation zones (subliminal fringe),
+[Line 306] outcome (if stimulated
+[Line 307] simultaneously)
+[Line 308] more than the sum of outcome when each neuron is stimulated separately
+[Line 309] function
+[Line 310] 2 neighboring neurons facilitate each other
+[Line 311] example
+[Line 312] Referred pain
+[Line 313] 
+[Line 314] IV. Inhibitory Circuits: for stabilizing nervous system by preventing excessive spread of signals.
+[Line 315] 
+[Line 316] 1) Lateral inhibition
+[Line 317] 2) Negative feedback inhibition
+[Line 318] 3) Reciprocal innervation
+[Line 319] Definition
+[Line 320] only central neuron is stimulated while neurons at the periphery are inhibited by inhibitory interneuron.
+[Line 321] When a motor neuron stimulated it gives off recurrent collateral that synapse	with	Inhibitory Interneuron (Renshaw cell) which
+[Line 322] terminates on motor neuron itself
+[Line 323] stimulation of one muscle and inhibition of its antagonist by one nerve. (through inhibitory interneurons)
+[Line 324] Function
+[Line 325] Sharpening	of	sensation:	prevents blurring effect of the fringe fibers e.g.
+[Line 326] 1. Horizontal	cells	in	retina	inhibit peripheral bipolar cells
+[Line 327] 2. Tactile localization in skin
+[Line 328] 1) Allows focusing and sharpening.
+[Line 329] 2) Dampens activity of motor neurons and prevents over Excitation
+[Line 330] contracted muscle carry its function unopposed eg. A painful stimulus stimulates flexors and inhibits extensors
+[Line 331] 
+[Line 332] V. Activating Circuits: (After Discharge): Continued output discharge after stoppage of stimulation of input.:
+[Line 333] 1) Parallel circuits
+[Line 334] 2) Reverberatory (Oscillatory = closed circuits):
+[Line 335] * excitatory input signal reaches output through many circuits of different number of interneurons.
+[Line 336] * Synaptic delay leads to arrival of successive impulses to output.
+[Line 337] * Function: prolongation of signal discharge after input signal is over
+[Line 338] * Example: while looking at image , we don't notice
+[Line 339] when we blink
+[Line 340] * output neuron sends collaterals to restimulate itself (positive feedback)
+[Line 341] * May continue for a long period or even throughout whole life
+[Line 342] * base of wakefulness and sleep and other tonically discharging centers,
+[Line 343] e.g. respiratory centers.
+[Line 344] * Duration determined by:
+[Line 345] 1) Number of synapses in the circuit
+[Line 346] 2) Fatigue of synapses.
+[Line 347] 3) Facilitatory or inhibitory impulses entering the circuit.
+[Line 348] 
+[Line 349] SENSORY NERVOUS SYSTEM
+[Line 350] * Sensation: conscious awareness of stimulus (Information) by sensory system
+[Line 351] * Perception: understanding of the sensation's meaning.
+[Line 352] 
+[Line 353] Sensory Receptors
+[Line 354] * Definitions:
+[Line 355] * Sensory receptor: specialized (modified) structure at peripheral termination of afferent nerve fibers.
+[Line 356] * Sensory unit: single sensory afferent with all its receptor endings.
+[Line 357] * Receptive field of a neuron: region which contains all the receptor endings of a sensory neuron (stimulus produces a response in that afferent neuron).
+[Line 358] 
+[Line 359] * Functions:
+[Line 360] 1- Detectors: detect stimuli (changes in the internal or external environment).
+[Line 361] 2- Transducers: transform energy in stimulus (chemical, mechanical, etc) into electrical energy (receptor potential).
+[Line 362] 3- Generators: generation of action potential (nerve impulses) in the sensory nerves
+[Line 363] N.B.: Signal Transduction: process by which a stimulus is transformed into an electrical response
+[Line 364] 
+[Line 365] * Properties of receptors:
+[Line 366] [1] Specificity:
+[Line 367] * Each type of receptor is highly sensitive to one specific type of stimulus = adequate stimulus "e.g. light, sound, pressure, etc.".
+[Line 368] * Receptors respond to other stimuli but:
+[Line 369] 1) much higher strength
+[Line 370] 2) sensation perceived is that of adequate stimulus.
+[Line 371] e.g. rods and cones in retina can respond to a strong mechanical stimulus, but give sensation of light
+[Line 372] 
+[Line 373] [2] Excitability:
+[Line 374] * When stimulated, a receptor generates "Receptor (or Generator) Potential": graded electric response:
+[Line 375] (as an example: Paccinian corpuscle was chosen . Pressing on capsule by a rod leads to development of receptor potential).
+[Line 376] 
+[Line 377] * Transduction of Sensory Signals = (Mechanism of Receptor Potential = Generator Potential) 1- Stimulation of the receptor:
+[Line 378] a. stimulus causes opening of ion channels "transduction channels" ? Na+ or Ca++ inflow.
+[Line 379] b. number of opened channels is proportional to intensity of the stimulus
+[Line 380] 2- Creation of Receptor Potential: Na+ or Ca++ influx creates local partial depolarization
+[Line 381] 
+[Line 382] 3- Electrotonic spread of receptor potential: local circuit of current (current sink) spreads passively to adjacent part of sensory nerve or 1st node of Ranvier (myelinated neurons) = action potential (A.P.) generating zone (it has low firing level = many voltage gated Na+ channels)
+[Line 383] 
+[Line 384] 4- Generation of Action Potential: If amplitude of receptor potential is strong to depolarize [A.P. generating zone] to threshold, it opens voltage gated Na+ channels and an action potential is produced & propagated along the sensory nerve to CNS.
+[Line 385] 
+[Line 386] * Properties of Receptor Potential (local response):
+[Line 387] 1. non-propagated
+[Line 388] 2. does not obey all or none-law, i.e. can be graded.
+[Line 389] 3. no absolute refractory period, i.e. can be summated.
+[Line 390] 4. duration (5-10 msec.) is longer than action potential duration (2 msec.) so can cause repeated action potentials.
+[Line 391] 5. maximum amplitude is 100 mV (at maximum permeability to Na+ ions).
+[Line 392] 
+[Line 393] * Relationship between strength of stimulus & magnitude	of receptor potential: As strength of stimulus increases, magnitude of the R.P. increases.
+[Line 394] * N.B.:
+[Line 395] o amplitude increases rapidly at first then less rapidly at high stimulus strengths.
+[Line 396] o allows receptor to be sensitive (have an extreme range of response) to very weak sensory stimuli without reaching maximum firing until sensory experience is extreme
+[Line 397] * Relation of the receptor potential magnitude to number of impulses generated:
+[Line 398] o The more the receptor potential rises above threshold level, the greater the frequency of the action potential
+[Line 399] 
+[Line 400] [3] Adaptation of receptors:
+[Line 401] * Definition: gradual decline of receptor potential and frequency of action potentials generated in spite of the continued presence of stimulus at constant strength.
+[Line 402] * Causes: Each receptor has its own property; adaptation of mechanoreceptors occurs by:
+[Line 403] a. Readjustment and remolding in the structure.
+[Line 404] b. Accommodation of terminal nerve fiber or 1st node of Ranvier to the stimulus, due to inactivation of Na+ channels.
+[Line 405] * receptors are classified into:
+[Line 406] Rapidly adapting (phasic)
+[Line 407] Slowly adapting (Tonic)
+[Line 408] adapt rapidly
+[Line 409] either slowly adapting or they do not adapt at all
+[Line 410] * discharge strongly when a change is taking place
+[Line 411] * response when the stimulus is "ON" and another response
+[Line 412] when the stimulus is "OFF"
+[Line 413] discharge as long as the stimulus is applied
+[Line 414] detect movement, rate of movement and vibration e.g. touch
+[Line 415] and pressure receptors (Meissner's & Paccinian corpuscles).
+[Line 416] * Keep the brain continuously informed e.g. pain receptors,
+[Line 417] muscle spindlesand arterial baroreceptors.
+[Line 418] 
+[Line 419] N.B. Some receptors have both phasic and a tonic component, e.g. proprioceptors and thermoreceptors
+[Line 420] 
+[Line 421] Sensory Code
+[Line 422] Definition: ability of CNS to recognize modality (type), locality and intensity of sensation. (All stimuli produce action potentials)
+[Line 423] A) Modality of sensation: depends on:
+[Line 424] 1. Adequate Stimulus: Each receptor is highly sensitive to a particular type of stimulus.
+[Line 425] 2. Muller's law of specific nerve energy: Whatever method of stimulation, sensation given is that the receptor is specialized to.
+[Line 426]    3. Labeled line principle: Each sensation reaches CNS in a specific pathway: Stimulation of this pathway at any point by any form evokes its specific sensation.
+[Line 427] B) Locality of the stimulus:
+[Line 428] * Law of Projection: There is a separate representation area for each part of the body in the cerebral cortex, (i.e. point to point representation). When an impulse reaches the specific area in the cortex, it "projects" this stimulus to its original site.
+[Line 429] * Phantom limb: a phenomenon in which pressure on the nerves in the stump of an amputated limb makes the patient feel the pain as though it is coming from the absent limb
+[Line 430] C) Intensity of sensation: It is encoded by change in:
+[Line 431] 1- Number of receptors activated: Higher intensity stimuli will recruit more receptors ["recruitment" of receptors]
+[Line 432] 2- Frequency of impulses: Increasing stimulus intensity increase frequency of impulses with increased intensity of sensation felt.
+[Line 433] 
+[Line 434] 
+[Line 435] Somatic Sensations
+[Line 436] * Sensation: feeling produced by change in environment or by application of a stimulus to receptors or nervous pathway.
+[Line 437] * Sensations are either:
+[Line 438] a) Special senses
+[Line 439] b) General sensations classified into:
+[Line 440] 1- Somatic sensations from different parts of the body.
+[Line 441] 2- Organic sensations as thirst, hunger, and sexual sensations.
+[Line 442] c) Emotional as: fear, sadness and so on.
+[Line 443] 
+[Line 444] Somatic Sensory afferents
+[Line 445] * Peripheral branches of dorsal root ganglion or sensory fibers of cranial nerves. Classifications:
+[Line 446] 1. According to diameter: (from largest): I II III IV	2. According to velocity: (from fastest) A B C
+[Line 447] N.B.: type of afferent is determined by importance on information transfer: position by A alfa while slow pain by C
+[Line 448] Somatic Sensory Pathways
+[Line 449] 
+[Line 450] Dorsal Column
+[Line 451] Spinothalamic (Ventrolateral) Tract
+[Line 452] 
+[Line 453] Unimodality: mechanoreceptive sensations
+[Line 454] polymodality : different types of sensations
+[Line 455] Receptors
+[Line 456] mechanoreceptors for:
+[Line 457] a. Fine touch and pressure.	b. Vibration.
+[Line 458] c. Stereognosis	d. Position
+[Line 459] a. Pain	b. Temperature
+[Line 460] c. Crude touch and pressure d. Tickle and itch
+[Line 461] Afferents
+[Line 462] myelinated Aa and A� fibers
+[Line 463] thin myelinated type Ad and unmyelinated type C fibers
+[Line 464] 1st	Order Neurons
+[Line 465] dorsal root ganglia (DRG).
+[Line 466] 
+[Line 467] fibers then ascend upwards on ipsilateral (same) side as
+[Line 468] dorsal column (gracile and cuneate tracts)
+[Line 469] 
+[Line 470] 2nd	Order Neurons
+[Line 471] gracile and cuneate nuclei in medulla on same side; Fibers then cross to opposite side
+[Line 472] ipsilateral (same side) posterior horn cells of spinal cord then cross to opposite side:
+[Line 473] a. Fibers of pain and temperature cross immediately infront of central canal, and ascend as lateral spinothalamic tract
+[Line 474] b. Fibers of crude touch, tickle and itch cross farther from  central  canal  and  ascend  as ventral
+[Line 475] spinothalamic tract
+[Line 476] 3rd Neurons
+[Line 477] posteroventral (PVN) = ventrobasal (VBN) nuclei of = thalamus: to somatic sensory cortex on opposite side
+[Line 478] 
+[Line 479] N.B.: passing brain stem, both pathway are joined by additional fibers from nuclei of trigeminal nerve carrying sensations from head.
+[Line 480] 
+[Line 481] 
+[Line 482] * Role of the thalamus and cortex in sensory perception
+[Line 483] a. All sensory tracts, except the olfactory, synapse in the thalamus on their way to the cerebral cortex.
+[Line 484] b. subject is crudely aware of sensation but without details: Fine gradations and sensory localization at level of the cortex.
+[Line 485] c. Pain perception mainly occurs in thalamus.
+[Line 486] Somatic Sensory Cortex
+[Line 487] 
+[Line 488] Somatic sensory area I (SSI): "area 3, 1, 2"
+[Line 489] Somatic	sensory	area	II:
+[Line 490] (SSII): area 40
+[Line 491] Somatic	Association	area
+[Line 492] areas 5,7
+[Line 493] Site
+[Line 494] post central gyrus in pariatal cortex
+[Line 495] , below and behind SSI
+[Line 496] ,posterior to SSI
+[Line 497] Body representation
+[Line 498] map of body known as spatial orientation.
+[Line 499] 1) crossed: from opposite side of body.
+[Line 500] 2) inverted: upside-down except face.
+[Line 501] 3) area directly proportional to number of receptors (thumb & lips have large area
+[Line 502] while back and trunk have smaller areas)
+[Line 503] not as detailed or as complete as SI. Face anteriorly, arms centrally and legs posteriorly
+[Line 504] 
+[Line 505] Connections
+[Line 506] 
+[Line 507] receives sensory signals from both sides of body & from SSI
+[Line 508] receives signals from:
+[Line 509] 1. S.S. I & II.
+[Line 510] 2. VBN of thalamus.
+[Line 511] 3. Visual cortex
+[Line 512] 4. Auditory cortex
+[Line 513] Functions
+[Line 514] discriminative:
+[Line 515] 1) Recognition of fine touch, stereognosis, vibration and proprioceptive sensations.
+[Line 516] 2) Localization of source of sensation
+[Line 517] 3) Discrimination of fine gradations
+[Line 518] 
+[Line 519] Integration and interpretation of sensory inputs to understand their meaning
+[Line 520] 
+[Line 521] 
+[Line 522] Types of Somatic Sensations
+[Line 523] I- Mechanoceptive Sensations
+[Line 524] 
+[Line 525] Superficial sensations: from skin
+[Line 526] & subcutaneous tissue
+[Line 527] Deep sensations: from muscles & joints
+[Line 528] 
+[Line 529] Crude Touch
+[Line 530] crude Pressure
+[Line 531] fine pressure
+[Line 532] Vibration
+[Line 533] Position
+[Line 534] 
+[Line 535] 
+[Line 536] 
+[Line 537] 
+[Line 538] 
+[Line 539] Static
+[Line 540] Kinetic
+[Line 541] Definition
+[Line 542] Touch with poor discrimination
+[Line 543] e.g.	feeling	of
+[Line 544] clothes.
+[Line 545] feeling	of mechanical pressure
+[Line 546] discriminate between different
+[Line 547] weights
+[Line 548] feel	vibrating stimuli		(more magnified on bony
+[Line 549] prominences)
+[Line 550] position of different parts of body (angle of
+[Line 551] joint)
+[Line 552] rate of movement
+[Line 553] Receptors
+[Line 554] Free	nerve endings & Hair end organ
+[Line 555] Pacinian corpuscles and spray type endings
+[Line 556] 
+[Line 557] 
+[Line 558] 
+[Line 559] 
+[Line 560] 
+[Line 561] 
+[Line 562] 
+[Line 563] 
+[Line 564] 
+[Line 565] - Paccinian	500 c/sec.
+[Line 566] - Meissner	80 cycle/sec.
+[Line 567] Slowly adapting:
+[Line 568] a. Muscle spindles in skeletal muscle.
+[Line 569] b. Golgi tendon organs	in
+[Line 570] tendons.
+[Line 571] Rapidly adapting as Pacinian corpuscles
+[Line 572] Afferent
+[Line 573] A ?
+[Line 574] AB
+[Line 575] A alfa
+[Line 576] Pathway
+[Line 577] ventral spinothalamic tract
+[Line 578] Dorsal column
+[Line 579] examination
+[Line 580] piece of cotton passed on skin
+[Line 581] Feeling weights on hand
+[Line 582] different weights on
+[Line 583] hand
+[Line 584]  (tuning fork) on bony prominences
+[Line 585] Identify limb position
+[Line 586] 
+[Line 587] 
+[Line 588] 
+[Line 589] Cortical sensations: require cortical integration
+[Line 590] 
+[Line 591] Stereognosis
+[Line 592] graphathesia
+[Line 593] Tactile
+[Line 594] localization
+[Line 595] Two point discrimination
+[Line 596] Texture
+[Line 597] Definition
+[Line 598] ability		to recognize familiar objects in	hand	with eyes closed.
+[Line 599] ability to recognize symbols traced on skin
+[Line 600] ability	to
+[Line 601] localize site of tactile stimulus on the skin
+[Line 602] ability to recognize two touched points as two separate points. measured		by	a	threshold distance:	minimal		distance below which the two points are felt as one
+[Line 603] best	at	lips	and	fingertips (shortest distance) and worst at
+[Line 604] the back (largest distance)
+[Line 605] ability	to
+[Line 606] differentiate between texture of different	materials
+[Line 607] e.g. silk or wool
+[Line 608] Receptors
+[Line 609] mixture of tactile receptors.
+[Line 610] Meissner's & Merkels
+[Line 611] Afferent
+[Line 612] AB
+[Line 613] Pathway
+[Line 614] Dorsal column
+[Line 615] examination
+[Line 616] familiar objects
+[Line 617] placed in hand
+[Line 618] Drawing numbers in
+[Line 619] the palm
+[Line 620] Touch skin with
+[Line 621] blunt object
+[Line 622] Using caliber
+[Line 623] Touch with
+[Line 624] different materials
+[Line 625] 
+[Line 626] * Clinically:
+[Line 627] * Impaired stereognosis is an early sign of damage in the cerebral cortex (SSI & association area)
+[Line 628] * Impaired vibration sense: early diagnostic sign in diseases causing degeneration of posterior column such as pernicious anemia
+[Line 629] 
+[Line 630] II- Thermoceptive temperature Sensations
+[Line 631] * Receptors & Afferents & Pathway: Free nerve endings ? C fibers (warm) and A? fibers (cold) ? Lateral Spinothalamic tract
+[Line 632] * Types of thermoreceptors:
+[Line 633] Cold pain receptors
+[Line 634] Cold receptors
+[Line 635] Warm receptors
+[Line 636] Warm pain receptors
+[Line 637] <10oC
+[Line 638]       o 10 - 40 C
+[Line 639]       o 30 - 45 C
+[Line 640] >45 oC
+[Line 641] * At zerooC, no receptors discharge = anaesthesia =.
+[Line 642] * between 30oC and 40oC: both cold and warm receptors discharge and are very sensitive to fine gradations
+[Line 643] * Distribution of thermal receptors:
+[Line 644] 1. Located in and respond to temperature of the subcutaneous tissue (not to the environmental temperature).
+[Line 645] 2. numerous in lips & finger tips and least in the trunk
+[Line 646] 3. Cold receptors are 4-10 times more than warm receptors
+[Line 647] 4. widely separated: wide area of skin has to be exposed to allow spatial summation.
+[Line 648] * Adaptation of thermal receptors:
+[Line 649] a. between skin temperature 20-40oC: warm receptors adapt faster than cold receptors.
+[Line 650] b. 2 components: rapidly at first (phasic component) but continue to generate impulses at low frequency (tonic component).
+[Line 651] * Mechanism of stimulation:
+[Line 652] 1- chemically by changes in concentration of metabolites due to change in metabolic rate (each 10oC increase, doubles concentration).
+[Line 653] 2- membrane ion channels: "Temperature-activated Transient Receptor Potential" (TRP) ion channels
+[Line 654] 3- respond markedly to changing temperatures rather than steady states:
+[Line 655] * Warm receptors increase their firing when temperature is increasing.
+[Line 656] * Cold receptors increase their firing when temperature is decreasing.
+[Line 657] 4- relative Sensation: depends upon original skin temperature. (35oC feel warm if skin is 30oC and feel cold if skin is at 40oC)
+[Line 658] 
+[Line 659] 
+[Line 660] III- Pain Sensation
+[Line 661] * Pain: unpleasant protective sensory and emotional experience if there is physical or potential tissue damage.
+[Line 662] > Pain Receptors (Nociceptors): Free Nerve Endings
+[Line 663] * types:
+[Line 664] 1- Mechanical: stimulated by mechanical injurious stimuli, e.g. cuts, bruises.
+[Line 665] 2- Thermal: respond to extremes of temperature and capsaicin (substance present in hot chilli).
+[Line 666] 3- Chemical: stimulated by chemical injurious elements.
+[Line 667] 4- Polymodal: respond to all stimuli.
+[Line 668] * Distribution of Pain receptors:
+[Line 669] * most numerous in superficial layers of the skin, periosteum, peritoneum, pleura, joints, arterial walls, dura and tentorium.
+[Line 670] * less distributed in deep tissues and very few in internal viscera.
+[Line 671] * absent in liver parenchyma, lung alveoli, and brain tissue (pain insensitive structures).
+[Line 672] * Adaptation: slowly or non-adaptive receptors.
+[Line 673] * Pain Transduction by Nociceptors:
+[Line 674] * Noxious stimuli open transduction ion channels in pain receptors: increase membrane permeability to Na+ &/or Ca++ :
+[Line 675] a) Mechanical stimuli open "degenerin" ion channels.
+[Line 676] b) Thermal stimuli open "temperature sensing TRP" ion channels.
+[Line 677] c) Chemical stimuli open "acid sensing" ion channels.
+[Line 678] * Pain Sensitizers (OR Chemical mediators of pain):
+[Line 679] * damaged tissues release a number of pain and inflammation producing chemical substances into ECF. include: histamine, serotonin, K+, substance P, ATP, bradykinin and prostaglandins.
+[Line 680] * Prostaglandins further sensitize nociceptors, lowering their pain threshold, and producing primary hyperalgesia.
+[Line 681] N.B: Salicylates and other non steroidal anti-inflammatory analgesics (NSAID) reduce pain by inhibiting prostaglandin synthesis.
+[Line 682] > Threshold of Pain: the same for all people but reaction to pain differs: Pain starts if skin temperature reaches 45oC
+[Line 683] 
+[Line 684] > Types of pain sensation:
+[Line 685] I- According to site: a. Cutaneous.	b. Deep.	c. Visceral.	D. neuropathic
+[Line 686] II- According to quality (Single painful stimuli may evoke both):
+[Line 687] 
+[Line 688] Fast Pain
+[Line 689] Slow pain
+[Line 690] Quality
+[Line 691] Sharp, pricking, acute
+[Line 692] Dull aching, Burning, throbbing
+[Line 693] Onset
+[Line 694] Immediate
+[Line 695] Delayed
+[Line 696] Duration
+[Line 697] Short duration
+[Line 698] Long duration & increase with time
+[Line 699] Localization
+[Line 700] Well localized
+[Line 701] Poorly localized (diffuse)
+[Line 702] Stimulated Receptor
+[Line 703] Mechanical & thermal
+[Line 704] All types of pain receptors
+[Line 705] Felt in
+[Line 706] Skin and Parietal surfaces
+[Line 707] All tissues (Skin, deep tissues, viscera)
+[Line 708] Carried by (afferents)
+[Line 709] A? fibers
+[Line 710] C fibers
+[Line 711] Blocked mainly by
+[Line 712] Hypoxia & compression
+[Line 713] Local anaesthesia (e.g. cocaine)
+[Line 714] Neurotransmitter
+[Line 715] Glutamate
+[Line 716] Substance P
+[Line 717] Pathway
+[Line 718] Neo-spinothalamic Tract
+[Line 719] Paleo-spinothalamic Tract
+[Line 720] Relay of 2nd order neurons
+[Line 721] VBN of thalamus
+[Line 722] Reticular Formation ==> intralaminar thalamic N
+[Line 723] Termination of fibers
+[Line 724] sensory cortex
+[Line 725] whole cortex
+[Line 726] Pain perception
+[Line 727] Thalamus and Cortex
+[Line 728] Mainly In Thalamus
+[Line 729] Motor reflexes
+[Line 730] Flexor Withdrawal reflex
+[Line 731] Guarding: hypertonia of overlying muscles
+[Line 732] Autonomic reactions
+[Line 733] Pressor response: (?BP & HR)
+[Line 734] Depressor response: (?BP & HR) & Nausea and vomiting
+[Line 735] Emotional reactions
+[Line 736] Anxiety
+[Line 737] Depression
+[Line 738] N.B. The two types of pain can be dissociated by:
+[Line 739] 1. Moderate compression of a nerve trunk block A?-fibers: fast pain is lost while the slow type remains.
+[Line 740] 2. Low concentrations of local anaesthetic blocks C-fibers: slow pain is lost while the fast type remains.
+[Line 741] 
+[Line 742] > Pain Pathway:
+[Line 743] 
+[Line 744] neospinothalamic tract (Fast pain)
+[Line 745] paleospinothalamic tract (Slow pain)
+[Line 746] First order neurons
+[Line 747] dorsal root ganglia (DRG)
+[Line 748] Second order neurons
+[Line 749] Posterior horn cells (PHCs) on the same side
+[Line 750] 
+[Line 751] Ad fibers release glutamate and synapse
+[Line 752] with PHCs in lamina I and V
+[Line 753] C fibers release Substance P and synapse with PHCs in lamina
+[Line 754] II and III (i.e. substantia gelatinosa of Rolando or SGR).
+[Line 755] 
+[Line 756] Pain fibers then cross and ascend in lateral spinothalamic tract in opposite side of spinal cord.
+[Line 757] Third order neurons
+[Line 758] end in ventrobasal nuclei of thalamus
+[Line 759] (VBN), then to somatic sensory cortex
+[Line 760] reach the brain stem, where:
+[Line 761] a) 10%: join the neospinothalamic tract to VBN of thalamus then end in somatic sensory cortex.
+[Line 762] b) 90%: to reticular formation, then intralaminar (non
+[Line 763] specific) nuclei of thalamus then activate whole cortex
+[Line 764] * Reaction to Pain: pain fibers give tributaries to:
+[Line 765] a. Anterior horn cells in the spinal cord for accompanying motor reflexes.
+[Line 766] b. Reticular Activating System for cortical activation and arousal reactions
+[Line 767] c. Hypothalamus for accompanying autonomic reactions.
+[Line 768] d. Limbic system for emotional reactions.
+[Line 769] * Arousal reaction to pain signal: intralaminar (non-specific) nuclei of the thalamus and reticular formation of the brain stem have a strong arousal effect on nervous activities through the reticular activating system (RAS)
+[Line 770] * Function of cerebral cortex in Perception (conscious awareness) of pain signals:
+[Line 771] a. Localization of source of pain: fast pain is very localized.
+[Line 772] b. Discrimination of pain modality and intensity.
+[Line 773] c. Interpretation of its meaning.
+[Line 774] d. prefrontal lobe of the cortex contributes to emotional and behavioral effects of pain
+[Line 775] * N.B.: Pain perception can occur subcortically in the Thalamus : cortex not essential
+[Line 776] 
+[Line 777] 
+[Line 778] Types of Pain Sensation
+[Line 779] 
+[Line 780] A] Cutaneous Pain
+[Line 781] B] Deep (musculoskeletal) Pain
+[Line 782] Visceral Pain
+[Line 783] 
+[Line 784] in skin
+[Line 785] muscles, tendons, ligaments, joints, bones
+[Line 786] from internal viscera
+[Line 787] type
+[Line 788] starts fast sharp pain followed by slow dull pain
+[Line 789] Slow: conducted along thin C fibers
+[Line 790] * Slow: along C fibers
+[Line 791] * Fast (A? fibers): in parietal walls (pleura, peritoneum and pericardium)
+[Line 792] * N.B.: if disease spreads to wall, it causes sharp well localized pain
+[Line 793] * Afferent reach CNS via autonomic nerves.
+[Line 794] Causes
+[Line 795] 
+[Line 796] 1. Trauma: e.g. broken bone.
+[Line 797] 2. Inflammation e.g arthritis.
+[Line 798] 3. Muscle spasm: e.g. injury ? reflex contraction of near muscle ==> ischemia
+[Line 799] ==> more pain ==> spasm ==> ischemia ==>
+[Line 800] pain ...etc (vicious circle).
+[Line 801] 4. Ischemia:
+[Line 802] * thrombosis or mechanical pressure.
+[Line 803] * Cause: accumulation of metabolites and proteolytic enzymes.
+[Line 804] * Pain aggravated by increased activity
+[Line 805] and relieved by rest.
+[Line 806] * Example: Anginal pain and intermittent claudication in skeletal muscles.
+[Line 807] * Viscera have few pain receptors:
+[Line 808] localized cut injury does not cause pain, diffuse stimulation of a large area cause pain.
+[Line 809] 1- Inflammation: inflammatory products eg: appendicitis.
+[Line 810] 2- Ischemia: accumulation of metabolites as H+, K+, bradykinin or prostaglandin.
+[Line 811] 3- Spasm of a hollow viscus:
+[Line 812] a. Mechanical stimulation of pain receptors.
+[Line 813]    b. Obliteration of vessels causing ischemia. 4- Overdistention	of	hollow	viscus:
+[Line 814]    mechanical and ischemic stimulation.
+[Line 815] 5- Chemical irritation e.g. peptic ulcer
+[Line 816] 6- Compression or infiltration by tumors.
+[Line 817] 
+[Line 818] 
+[Line 819] Characters
+[Line 820] accurately localized, due to:
+[Line 821] 1. high	density	of receptors in skin.
+[Line 822] 2. fast	pain	fibers reach cortex.
+[Line 823] 3. touch and vision
+[Line 824] help.
+[Line 825] 
+[Line 826] 1. Dull aching pain
+[Line 827] 2. Diffuse (Poorly localized): few receptors and less representation in cortex.
+[Line 828] 3. Depressor	(autonomic):	hypotension, bradycardia, nausea, vomiting
+[Line 829] 4. Guarding:	reflex	spasm	of	skeletal muscles over affected area.
+[Line 830] 5. Usually referred to surface area.
+[Line 831] 
+[Line 832] * Neuropathic Pain:
+[Line 833] * chronic type of pain due to damage to or pathological changes in nerve fibers in peripheral or central nervous system.
+[Line 834] * Characters:
+[Line 835] a. burning, electric, tingling or shooting pain.
+[Line 836] b. bouts or paroxysms.
+[Line 837] c. accompanied by hyperalgesia and/or parasthesia.
+[Line 838] * Examples:
+[Line 839] 1. Trigeminal neuralgia: (tic douloureux): unilateral facial pain in areas supplied by 2nd and 3rd divisions of the trigeminal nerve.
+[Line 840] 2. Herpes Zoster:
+[Line 841] * viral infection: herpes virus attacks a dorsal root ganglion (DRG) in patients with history of varicella (chicken pox) infection.
+[Line 842] * Virus reproduce causing irritation of pain afferents in DRG leading to severe pain felt in dermatomal segment supplied by the infected ganglion.
+[Line 843] * virus also migrates with neuronal cytoplasmic flow to cutaneous terminals ? painful skin rash and vesicular formation.
+[Line 844] 
+[Line 845] > Referred Pain: Pain felt in a skin area originating from the same embryonic segment or dermatome as the diseased viscus (or deep structure) = supplied by the same dorsal roots. (Dermatomal rule). Mechanisms:
+[Line 846] Convergence projection theory
+[Line 847] Facilitation theory
+[Line 848] * fibers of skin and viscus converge on same (SGR): finally activate same neurons
+[Line 849] * cortex project pain to a skin = mis-interpretation caused by:
+[Line 850] a- Brain is more accustomed to receive pain from skin than from viscera.
+[Line 851] b- Skin is rich in pain receptors and well represented in cortex.
+[Line 852] c- Skin is more exposed to stimulation
+[Line 853] * fibers of diseased viscera, give subliminal fringe to nearby afferents from skin increasing their excitability, i.e. facilitating
+[Line 854] * Minor stimuli from skin can produce pain
+[Line 855] or hyperalgesia.
+[Line 856] * Examples:
+[Line 857] 1- Cardiac pain: retrosternal, root of the neck and inner part of the left arm and also in the epigastrium.
+[Line 858] 2- Gastric pain: between the umbilicus and xiphoid process.
+[Line 859] 3- Gall bladder pain: in the mid-epigastrium and at tip of right scapula
+[Line 860] 4- Renal pain: as a back pain radiating to inguinal region and testicles in males
+[Line 861] 5- Appendicitis pain: around the umbilicus.
+[Line 862] 6- Headache: pain referred to surface of head from deep structures. Types:
+[Line 863] 1) Frontal: Stimulation of pain receptors in areas supplied by trigeminal nerve
+[Line 864] 2) Occipital: Stimulation of pain receptors in areas supplied by 2nd cervical
+[Line 865] Headache of intracranial origins
+[Line 866] Headache of extracranial origins
+[Line 867] 1- Rise of intracranial tension: hemorrhage or mass.
+[Line 868] 2- drop of intracranial tension: e.g. post lumbar- puncture
+[Line 869] 3- Meningitis or meningeal irritation. (Alcohol)
+[Line 870] 4- Hypertension: marked expansion of cerebral blood vessels.
+[Line 871] 5- Migraine: unilateral resulting from abnormal vascular phenomena
+[Line 872] * N.B.: intracranial pain sensitive areas: venous sinuses, tentorium, dura and the dural arteries especially middle meningeal artery (brain itself is insensitive to pain).
+[Line 873] 1. Tension-Type:	spasm	of	neck muscles.
+[Line 874] 2. Eye disorders: errors of refraction.
+[Line 875] 3. Sinusitis: nasal sinuses.
+[Line 876] 4. Otitis media: inflammation of ear.
+[Line 877] 5. Toothache.
+[Line 878] 6. Systemic disorders: e.g. anemia
+[Line 879] 
+[Line 880] Pain Control
+[Line 881] * inhibiting Pain transmission in the central sensory pathways by ascending or descending impulses.
+[Line 882] * Suggesting observations include:
+[Line 883] a. degree that a person reacts to pain varies widely.
+[Line 884] b. Injuries caused in stressful conditions as accidents or battles are ignored.
+[Line 885] c. Irritation of the skin overlying a diseased viscus relieves pain.
+[Line 886] * The Gate Theory:
+[Line 887] * dorsal horn cells of the spinal cord, in particular SGR cells, act as a gate for transmission of pain sensation to the brain.
+[Line 888] * Impulses coming along C pain fibers cause the release of substance P.
+[Line 889] * can be partly or completely closed by Presynaptic Inhibition ? prevents release of substance P:
+[Line 890] 
+[Line 891] (1) Opioid Peptides:
+[Line 892] * Morphine is a powerful (analgesic) pain killer found in opium acts by combining with receptors in the CNS.
+[Line 893] * Types of endogenous opioid peptides: Among about 12 opioid peptides found in mammals, three are more important:
+[Line 894] 
+[Line 895] 
+[Line 896] Enkephalins
+[Line 897] Endorphins
+[Line 898] Dynorphin
+[Line 899] 
+[Line 900] Nature
+[Line 901] Pentapeptides from pro-enkephalin
+[Line 902] B-Endorphin is a 31 amino acid polypeptide
+[Line 903] derived from pro-opio-melano-cortin.
+[Line 904] 17	aa	from
+[Line 905] prodynorphin
+[Line 906] 
+[Line 907] Site of release and function
+[Line 908] 
+[Line 909] a. areas of CNS, both supraspinal (periaqueductal grey area) and spinal (SGR): analgesic effects.
+[Line 910] b. limbic  system  where  they
+[Line 911] promote a sense of well being
+[Line 912] a. Neurotransmitter: hypothalamus project to thalamus and periaqueduct grey area
+[Line 913] b. Neurohormone:		from		anterior	pituitary gland	in	stress	into	circulation:		Stress
+[Line 914] Analgesia.
+[Line 915] different brain stem nuclei. It is related to addiction and tolerance
+[Line 916] 
+[Line 917] Receptors
+[Line 918] 
+[Line 919] Delta
+[Line 920] Meu
+[Line 921] Kappe
+[Line 922] 
+[Line 923] N.B.: Opiate Receptors: in areas concerned with pain sensation, e.g. Periaqueductal gray area (PGA), SGR, thalamus, hypothalamus
+[Line 924] 
+[Line 925] (2) Supraspinal Descending Analgesia System: three major components:
+[Line 926] 
+[Line 927] 1. Periaqueductal gray area (PGA)
+[Line 928] 2. Raphe magnus nucleus
+[Line 929] 
+[Line 930] 3. Pain inhibitory Interneurons
+[Line 931] site
+[Line 932] midbrain	and	upper	pons,
+[Line 933] surrounding the aqueduct of Sylvius
+[Line 934] upper medulla
+[Line 935] dorsal horn of the spinal cord
+[Line 936] sensitive to
+[Line 937] ?-endorphin:
+[Line 938] a. 	chemical	transmitter	from hypothalamus
+[Line 939] b. neurohormone	from	pituitary
+[Line 940] through blood stream in stress
+[Line 941] enkephalins
+[Line 942] serotonin
+[Line 943] secrete
+[Line 944] enkephalins to raphe magnus nucleus
+[Line 945] serotonin	to	dorsal	horn
+[Line 946] inhibitory interneurons
+[Line 947] Enkephalins causes presynaptic inhibition
+[Line 948] of SGR, preventing release of substance P
+[Line 949] * N.B.; PGA may be stimulated by Collaterals from ascending pain pathway (Lateral spinothalamic tract): noxious stimuli are important for activation of descending pain control system, i.e. pain suppresses pain
+[Line 950] (3) Peripheral gate inhibition:
+[Line 951] * stimulation of large A� sensory fibers from peripheral tactile receptors suppress pain transmission:
+[Line 952] * tactile fibers send collaterals to activate inhibitory interneurons ==> GABA or Enkephalins ==> presynaptic inhibition of pain fibers at the SGR ==> closing the gate.
+[Line 953] * Examples:
+[Line 954] a. Rubbing or massage of skin inhibits pain.	b. Counter irritation, e.g. mustard plaster	c. Acupuncture.
+[Line 955] > Methods of Treatment of Pain:
+[Line 956] Medical
+[Line 957] Electric
+[Line 958] Surgical (In case of uncontrollable severe pain)
+[Line 959] * Analgesics: pain killers: as NSAID.
+[Line 960] * Treatment	of	cause,	eg.	Antiacids, antispasmodics or vasodilators
+[Line 961] to analgesia system or to large sensory A� fibers
+[Line 962] * Antero-lateral cordotomy: cut spinothalamic tract
+[Line 963] * Prefrontal	lobectomy:	relieves	the	emotional reaction to pain in cancer patients
+[Line 964] 
+[Line 965] Lesions of the Sensory System
+[Line 966] > Hyperalgesia:
+[Line 967] * Abnormal increase in sensitivity to pain leading toExaggerated pain response
+[Line 968] * Importance: self preservation mechanism: remind brain to avoid further injury
+[Line 969] * Types:
+[Line 970] 
+[Line 971] Primary hyperalgesia
+[Line 972] Secondary hyperalgesia
+[Line 973] occurs in
+[Line 974] injured or inflamed skin area
+[Line 975] intact skin
+[Line 976] caused by
+[Line 977] sensitization of peripheral nociceptors
+[Line 978] by inflammatory mediators
+[Line 979] sensitization of central neurons of pain
+[Line 980] threshold of pain
+[Line 981] lowered
+[Line 982] increased
+[Line 983] 
+[Line 984] 
+[Line 985] * pain produced is prolonged, severe and intolerable.
+[Line 986] * may be accompanied by allodynia (exaggerated pain response to non painful stimuli).
+[Line 987] e.g.
+[Line 988] sunburned skin
+[Line 989] Thalamic pain
+[Line 990] 
+[Line 991] 
+[Line 992] 
+[Line 993] > Lesions of sensory pathway:
+[Line 994] I- Peripheral nerve lesions:
+[Line 995] 1. Mononeuropathy: lesion of one peripheral nerve leads to loss of all sensations in area supplied by this nerve.
+[Line 996] 2. Polyneuropathy (peripheral neuritis):
+[Line 997] a. Diffuse lesion of all peripheral nerves, as in case of Vitamin B12 deficiency or diabetic neuritis,
+[Line 998] b. Affects peripheral at distal parts of the limbs leading to "glove and stocking" sensory disturbance (numbness, tingling, burning then total sensory loss).
+[Line 999] N.B.: Injury / damage to a peripheral nerve can lead to chronic neuropathic pain
+[Line 1000] 
+[Line 1001] II- Spinal cord Lesions:
+[Line 1002] 1. Dorsal column lesion: Tabes Dorsalis:
+[Line 1003] * neurosyphilitic disease causes slow degeneration of sensory nerves in the dorsal root and dorsal column
+[Line 1004] * mostly in the lumbosacral spinal cord
+[Line 1005] * leading to:
+[Line 1006] a. Irritation of pain fibers and attacks of severe pain, followed by:
+[Line 1007] b. Degeneration and Atrophy of Dorsal Column leading to:
+[Line 1008] 1) Loss of vibration sense.
+[Line 1009] 2) Loss of proprioceptive sensation leads to " Sensory Ataxia".
+[Line 1010] 
+[Line 1011] NB: Ataxia: Incoordination of voluntary movements without paralysis. Types:
+[Line 1012] a. Sensory ataxia:
+[Line 1013] * Due to loss of position sensation as in tabes dorsalis or pernicious anemia which cause destruction of posterior column
+[Line 1014] * characterized by high steppage gait and +ve Romberg's sign (patient can't maintain erect position with closed eyes).
+[Line 1015] b. Cerebellar ataxia: due to lesion in neocerebellum.
+[Line 1016] c. Vestibular ataxia: due to lesion in the Vestibular division of the 8th nerve.
+[Line 1017] 
+[Line 1018] 2. Central cord lesion: Syringomyelia:
+[Line 1019] * widening of the central canal by a fluid-filled cavity (or syrinx):
+[Line 1020] damage of pain and temperature fibers crossing immediately in front of central canal first. Later, crude touch is affected.
+[Line 1021] * lesion is bilateral and usually affects the cervical region leading to "jacket" loss of pain and temperature sensations.
+[Line 1022] * Dorsal column sensations remain intact (fine touch is intact) and the condition is described as dissociated sensory loss
+[Line 1023] 
+[Line 1024] 3. Spinal cord Hemisection: (Brown Sequard syndrome):
+[Line 1025] 
+[Line 1026] 
+[Line 1027] Sensory
+[Line 1028] Motor
+[Line 1029] At the level
+[Line 1030] of lesion
+[Line 1031] same side
+[Line 1032] Loss of all sensations at the dermatome supplied by
+[Line 1033] that posterior root entering at the site of injury
+[Line 1034] Flaccid paralysis (lower motor neuron
+[Line 1035] lesion) and loss of all reflexes
+[Line 1036] Below the level of lesion
+[Line 1037] same side
+[Line 1038] Lesion to the dorsal column leads to loss of all sensations carried by it (fine touch, pressure, vibration,
+[Line 1039] sense of position and of movement).
+[Line 1040] Lesion to corticospinal tract leads to spastic paralysis (upper motor neuron
+[Line 1041] lesion), hyper-reflexia and +ve Babiniski
+[Line 1042] 
+[Line 1043] opposite side
+[Line 1044] loss of pain and temperature (Lesion to the crossed spinothalamic tract), touch is not lost but decreased on
+[Line 1045] both sides
+[Line 1046] no effect
+[Line 1047] 
+[Line 1048] III. Brain stem lesion: Rare (in brain stem strokes)
+[Line 1049] Ipsilateral sensory loss in face (supplied by trigeminal) with contralateral sensory loss below
+[Line 1050] IV. Thalamic Pain Syndrome: (Dejerine Roussy syndrome) = central post stroke pain (CPSP): rare condition after infarction of ventro-postero-lateral thalamus. Patient presents with:
+[Line 1051] 1. Contralateral sensory loss.	2. Hemi-ataxia.
+[Line 1052] 3. Thalamic pain: spontaneous bursts of intolerable treatment resistant pain (accompanied by 2ry hyperalgesia and allodynia
+[Line 1053] V- Cortical Lesions: in the somatic sensory cortex: sensations are not abolished. However, there is loss of the following from the
+[Line 1054] opposite side of the body:
+[Line 1055] a- Fine touch, Stereognosis and Proprioceptive sensations.
+[Line 1056] b- Discrimination of mild grades of weights and temperature.
+[Line 1057] c- Localization of the source of sensations.
+[Line 1058] d- Pain localization, but pain sensation is least affected.
+[Line 1059] a- Astereognosis: patient loses ability to correlate shape, size, texture and weight of objects with previous experience.
+[Line 1060] b- Amorphosynthesis (Neglect syndrome): The patient neglects the contralateral side of his body, i.e. ignores its presence.
+[Line 1061] 
+[Line 1062] 
+[Line 1063] 
+[Line 1064] 
+[Line 1065] 
+[Line 1066] 
+[Line 1067] * More than 90% of all sensory information is discarded by brain
+[Line 1068] * skeletal muscles are controlled by many levels of ( CNS):
+[Line 1069] 1. spinal cord : simple spinal reflexes.
+[Line 1070] 2. brain s t em: more complicated.
+[Line 1071] 3. cerebral cortex: most complicated
+[Line 1072] a) lower regions concerned primarily with automatic, instantaneous motor responses of the body to sensory stimuli
+[Line 1073] b) higher regions concerned with movements controlled by thought process of cerebrum.
+[Line 1074] * Spinal reflexes: either monosynaptic or polysynaptic.
+[Line 1075] 
+[Line 1076] Monosynaptic spinal reflex= Stretch reflex = (myotatic reflex).
+[Line 1077] * only monosynaptic reflex
+[Line 1078] * Def: Stretch of an innervated muscle is followed by its contraction.
+[Line 1079] * Components:
+[Line 1080] * Stimulus:	Stretch of muscle.
+[Line 1081] * Receptor:	Muscle spindle (intrafusal fibers).
+[Line 1082] * Afferent:	Primary and secondary endings.
+[Line 1083] * Center:	Anterior horn cells ( AHCs)
+[Line 1084] * Efferent:	Motor nerve (A alfa motor fibers).
+[Line 1085] * Effector organ: Skeletal muscle (extrafusal fibers)
+[Line 1086] * Response:
+[Line 1087] 1) Contraction of the same muscle
+[Line 1088] 2) informs CNS about length of the muscle. (part of position sensation)
+[Line 1089] 
+[Line 1090] * Structure of muscle spindle:
+[Line 1091] * Intrafusal fibers:
+[Line 1092] * 8-10 muscle fibers, enclosed in a spindle shaped connective tissue capsule.
+[Line 1093] * smaller than extrafusal fibers and parallel to them
+[Line 1094] * Each fibre consists of:
+[Line 1095] 1. Central non- contractile area: the receptor area
+[Line 1096] 2. Peripheral contractile part
+[Line 1097] * Types:
+[Line 1098] 1. Nuclear bag fibres: central area dilated with aggregation of nuclei
+[Line 1099]    2. Nuclear chain fibres (smaller): one line of nuclei spread in a chain in receptor area N.B.: ends of capsule are attached to muscle tendon or sides of extrafusal fibers.
+[Line 1100] * Innervation of muscle spindle
+[Line 1101] I. Afferent fibres:
+[Line 1102] 
+[Line 1103] Primary (annulo spiral) endings
+[Line 1104] secondary (flower-spray) endings
+[Line 1105] fibres
+[Line 1106] group la: thick rapid (up to 120 m/s)
+[Line 1107] group II smaller myelinated fibers
+[Line 1108] encircle
+[Line 1109] both nuclear bag and chain
+[Line 1110] nuclear chain fibres only
+[Line 1111] 
+[Line 1112] * Afferents enter spinal cord and either:
+[Line 1113] a. End directly on motor neurons supplying extrafusal fibers of same muscle.
+[Line 1114] b. Ascend to: Cerebellum & Cerebral cortex:
+[Line 1115] CNS informed about muscle length and rate of length change
+[Line 1116] II. Efferent (motor) fibres: gamma motor neurons i n a n t e r i o r h o r n o f s p i n a l cord:
+[Line 1117] * supply peripheral contractile parts of intrafusal fibres
+[Line 1118] 1. Dynamic: to nuclear bag fibres (as plate endings).
+[Line 1119] 2. Static: to nuclear chain fibres (as trail endings).
+[Line 1120] 
+[Line 1121] * conditions of Excitation of muscle spindles:
+[Line 1122] 1) Stretch of whole muscle:
+[Line 1123] * spindle is parallel with extrafusal f i b e r s .
+[Line 1124] * W h e n m u s c l e i s p a s s i v e l y s t r e t c h e d , s p i n d l e s a r e stretched.
+[Line 1125] * initiates reflex contraction of extrafusal fibers
+[Line 1126] * feedback device operates to maintain muscle length.
+[Line 1127] 2) Contraction of intrafusal fibres by gamma efferents (without stretch of extrafusal fibers):
+[Line 1128] * gamma neurons cause contraction in peripheral contractile part of intrafusal fibers
+[Line 1129] * receptors in center will be stretched.
+[Line 1130] * causes stimulation of primary endings encircling receptor area.
+[Line 1131] * Afferents enter spinal cord and stimulate alpha neurons ? extrafusal fibres contract.
+[Line 1132] 3) Maximum stimulation of muscle spindles:
+[Line 1133] * Both stretch of whole muscle and increased discharge of gamma efferents in same time.
+[Line 1134] 4) Minimal or no stimulation:
+[Line 1135] * when muscle actively contracts because spindles lie in parallel with extrafusal fibres.
+[Line 1136] * Unloading: reduction of firing from spindles during muscle contraction
+[Line 1137] * if there is shortening of extrafusal fibres without shortening of i ntrafusal f i bres.
+[Line 1138] * Disadvantageous : CNS no longer receive information about extent and rate of change of muscle length.
+[Line 1139] 5) Activity of gamma motor neurons prevent unloading : cortex sends impulses to both:
+[Line 1140] a. Alfa motor neurons: shorten extrafusal fibres
+[Line 1141] b. Gamma motor neurons: shorten peripheral contractile parts of intrafusal fibres.
+[Line 1142] * Functions:
+[Line 1143] a. maintains firing to CNS (informed about changes in muscle length).
+[Line 1144] b. helps cerebral cortex to re-adjust motor commands to spinal motor neurons.
+[Line 1145] 
+[Line 1146] > Physiological significance of stretch reflex
+[Line 1147] 1. Helps to maintain muscle length
+[Line 1148] 2. Control of voluntary movements.
+[Line 1149] 3. Muscle tone.
+[Line 1150] 
+[Line 1151] I. Role of muscle spindle in control of voluntary movements:
+[Line 1152] 1) Servo-Assistant function: during muscle contraction
+[Line 1153] * impulses from higher centers to do voluntary movement s t i m u l a t e a l p h a a n d g a m m a n e u r o n s s i m u l t a n e o u s l y .
+[Line 1154] a. alfa activates extrafusal fibers.
+[Line 1155] b. gamma leads to contraction of peripheral parts of intrafusal fibers with subsequent stretch of central (receptor) part ? reflex activation of extrafusal muscle fibers.
+[Line 1156] * Because of "alfa- gamma linkage", contractile part of spindle shortens with muscle: spindle discharge continue throughout contraction.
+[Line 1157] * Main advantage: efficient load compensation:
+[Line 1158] If extrafusal fibers are stretched by sudden load, intrafusal fibers will be stretched also which will lead to reflex contraction of the extrafusal fibers
+[Line 1159] 2) Damping function: (Smoothen muscle contraction).
+[Line 1160] * signals from cortex to AHCS are unsmooth ? oscillatory (jerky) movements.
+[Line 1161] * stretch reflex prevents oscillation and smoothen contraction.
+[Line 1162] * Proof: Cutting sensory nerves from muscle (de-affrentiation) = loss of stretch reflex ? un-smooth jerky muscle contraction.
+[Line 1163] 
+[Line 1164] II. Role of muscle spindle in muscle tone:
+[Line 1165] * Muscle tone: continuous, alternating, reflex, subtetanic contraction of muscle fibers or
+[Line 1166] resistance of the muscle to stretch.
+[Line 1167] * Base of muscle tone: Static stretch reflex
+[Line 1168] * During rest: muscle spindle is continuously stretched because:
+[Line 1169] 1) length of skeletal muscle is normally shorter than distance between origin and insertion (muscles are in mild stretch).
+[Line 1170] 2) gravity causes lengthening of musclese specially antigravity: extensors of lower limbs, trunk and neck & flexors of upper limbs and elevators of jaw
+[Line 1171] 3) Continuous gamma -efferent discharge: stretch of receptor portions of spindles.
+[Line 1172] * Muscle tone does not cause fatigue because:
+[Line 1173] 1. alternate contraction of different muscle fibres.
+[Line 1174] 2. Contraction is subtetanic.
+[Line 1175] 3. fibres are red (contract slowly and sustain force for a long time).
+[Line 1176] * Functions of muscle tone
+[Line 1177] 1) Maintain body posture against gravity.
+[Line 1178] 2) Provides a background for voluntary movements.
+[Line 1179] 3) Helps in regulation of body temperature (resting heat production).
+[Line 1180] 4) Helps venous and lymph return (squeezing veins and lymphatic 's).
+[Line 1181] 
+[Line 1182] > Functions of gamma stimulation:
+[Line 1183] 1) Prevent unloading: Keep spindle taut throughout motion = sensitive to stretch as muscle contracts (loading)
+[Line 1184] 2) maintains muscle tone
+[Line 1185] 3) Servo-Assistant function
+[Line 1186] 
+[Line 1187] > Supraspinal control of stretch reflex:
+[Line 1188] Supra-spinal facilitatory areas
+[Line 1189] Supra-spinal inhibitory areas
+[Line 1190] facilitate gamma neurons (increase spindle
+[Line 1191] sensitivity)
+[Line 1192] impulses inhibit gamma neurons (spindle
+[Line 1193] sensitivity decrease)
+[Line 1194] 1) Facilitatory (Pontine) reticular formation:
+[Line 1195] * excitatory signals to gamma neurons " ventral reticulospinal t ract "
+[Line 1196] * intrinsic activity.
+[Line 1197] * facilitatory centers act by activating it
+[Line 1198] 2) Primary motor are 4.
+[Line 1199] 3) Neocerebellum.
+[Line 1200] 4) Vestibular nucleus(in medulla):
+[Line 1201] * send direct impulses to gamma neurons "vestibule-spinal tract"
+[Line 1202] * directly affect alfa neurons.
+[Line 1203] 1) I n h i b i t o r y (Medullar)r e t i c u l a r formation(in medulla):
+[Line 1204] * i n h i b i t o r y	signals to gamma neurons "lateral reticulospinal tract"
+[Line 1205] * no intrinsic activity.
+[Line 1206] * inhibitory	centers	act	by activating it.
+[Line 1207] 2) Cortical suppressor area (4S).
+[Line 1208] 3) Paleocerebellum.
+[Line 1209] 4) Basal ganglia (Lentiform).
+[Line 1210] 5) Red nucleus(in mid brain):
+[Line 1211] * Direct s i gnals " rubro-spinal tract"
+[Line 1212] 
+[Line 1213] > Experimental proof (Decerebrate rigidity): section between pons and mid- brain.
+[Line 1214] * remove input from cortex, red nuclei and basal ganglia that stimulate inhibitory RF.
+[Line 1215] * discharge of facilitatory RF& vestibular nuclei continues but inhibitory RF decrease
+[Line 1216] * gamma efferent discharge is increased and stretch reflex becomes hyperactive causing marked rigidity of antigravity muscles.
+[Line 1217] 
+[Line 1218] > Types of stretch reflex (response) :
+[Line 1219] 
+[Line 1220] 
+[Line 1221] Dynamic SR
+[Line 1222] Static SR
+[Line 1223] Stimulus
+[Line 1224] Sudden stretch
+[Line 1225] sustained stretch
+[Line 1226] Receptors
+[Line 1227] Nuclear bag fibers( NBF)
+[Line 1228] NBF and nuclear chain fibers
+[Line 1229] Afferent fib.
+[Line 1230] lry endings
+[Line 1231] lry and 2ry endings
+[Line 1232] Center
+[Line 1233] All alfa-AHCs to ms
+[Line 1234] some alfa-AHCs to ms
+[Line 1235] Efferent fib
+[Line 1236] Alfa -motor fibers
+[Line 1237] Alfa -motor fibers
+[Line 1238] Effector org.
+[Line 1239] Extrafusal ms fibers
+[Line 1240] Extrafusal ms fibers
+[Line 1241] Base of
+[Line 1242] Tendon jerk
+[Line 1243] Muscle tone
+[Line 1244] 
+[Line 1245] > Clinical application of stretch reflex
+[Line 1246] 1. Test for muscle tone: resistance when you flex and extend muscles e.g. alternating stretch of the biceps and triceps muscles at the elbow muscles.
+[Line 1247] 2. Tendon jerk: tapping a tendon: rapid contraction followed by relaxation e.g. knee jerk
+[Line 1248] 
+[Line 1249] > Clinical significance
+[Line 1250] 
+[Line 1251] Areflexia
+[Line 1252] &Atonia
+[Line 1253] Hypereflexia&
+[Line 1254] hypertonia
+[Line 1255] Hypoeflexia&
+[Line 1256] hypotonia
+[Line 1257] Interruption
+[Line 1258] reflex arc
+[Line 1259] inhibitory
+[Line 1260] facilitatory impulses
+[Line 1261] causes
+[Line 1262] a
+[Line 1263] LMNL
+[Line 1264] a
+[Line 1265] UMNL.
+[Line 1266] a
+[Line 1267] Neocerebellr syndrome.
+[Line 1268] 
+[Line 1269] b
+[Line 1270] Peripheral
+[Line 1271] neuritis
+[Line 1272] b
+[Line 1273] Anxiety.
+[Line 1274] b
+[Line 1275] Sleep
+[Line 1276] 
+[Line 1277] c
+[Line 1278] Tabes dorsalis
+[Line 1279] c
+[Line 1280] Hyperthyroidism
+[Line 1281] c
+[Line 1282] myxoedema
+[Line 1283] 
+[Line 1284] d
+[Line 1285] Poliomyelitis
+[Line 1286] 
+[Line 1287] 
+[Line 1288] 
+[Line 1289] 
+[Line 1290] 
+[Line 1291] > Inverse stretch reflex (autogenic inhibition):
+[Line 1292] * Stimulus: increased tension in muscle
+[Line 1293] * receptor: Golgi tendon organ
+[Line 1294] - in series with fibres: stimulated by both passive stretch and active contraction.
+[Line 1295] - Discharge is regularly produced by contraction of muscle.
+[Line 1296] * Afferent: Ib (rapid): IPSPS on motor neurons (by inhibitory interneurons)
+[Line 1297] * Response: contraction suddenly stops and muscle relaxes :
+[Line 1298] * Function: feedback circuit regulates muscle force
+[Line 1299] * Importance: transducer in a feedback circuit that regulates muscle force in a fashion similar to the spindle feedback circuit that regulates muscle length
+[Line 1300] 
+[Line 1301] * Findings associated with hypertonia:
+[Line 1302] 1. Lengthening reaction (response of spastic muscle to lengthening):
+[Line 1303] * sequence of resistance & give way when a limb is moved passively
+[Line 1304] * Passive extension meets immediate resistance due to activation of stretch reflex
+[Line 1305] * Further stretch activates inverse stretch reflex: resistance suddenly disappears
+[Line 1306] * Known clinically as clasp-knife as it resembles closing a pocket knife.
+[Line 1307] * More i n antigravity muscles ( increased gamma discharge)
+[Line 1308] 2. Clonus: regular, rhythmic contractions of muscle subjected to sudden maintained stretch.
+[Line 1309] * Ankle clonus
+[Line 1310] * initiated by brisk, maintained dorsiflexion of foot
+[Line 1311] * response: rhythmic planter flexion at ankle.
+[Line 1312] * stretch reflex & inverse stretch reflex sequence contribute to this response.
+[Line 1313] 
+[Line 1314] * Polysynaptic reflexes
+[Line 1315] * number of synapses is variable: continuous bombardment of motor neurons from a single stimulus ? prolonged responses.
+[Line 1316] * Some show reverbrating circuits
+[Line 1317] 
+[Line 1318] 
+[Line 1319] 
+[Line 1320] Superficial abdominal
+[Line 1321] Planter
+[Line 1322] Cremasteric
+[Line 1323] Withdrawal
+[Line 1324] Scratch
+[Line 1325] Positive
+[Line 1326] supporting reaction
+[Line 1327] Visceral
+[Line 1328] centre
+[Line 1329] T 7-12
+[Line 1330] L5, S1
+[Line 1331] L1-2
+[Line 1332] 
+[Line 1333] 
+[Line 1334] 
+[Line 1335] micturition defecation and erection
+[Line 1336] Stimulus
+[Line 1337] skin on one side of abdomen is stroked with blunt
+[Line 1338] object
+[Line 1339] stroking sole of foot
+[Line 1340] skin of upper and inner aspect of thigh is
+[Line 1341] stroked
+[Line 1342] injurious and usually painful stimulus to a limb
+[Line 1343] i t ch and t i ckle sensation (irritation by moving
+[Line 1344] insect).
+[Line 1345] deep pressure is applied to sole of foot
+[Line 1346] 
+[Line 1347] Response
+[Line 1348] underlying muscles contract
+[Line 1349] planter flexion of toes
+[Line 1350] cremasteric muscle contracts
+[Line 1351] elevating
+[Line 1352] testicle
+[Line 1353] reflex contraction of flexor muscles and limb withdraw away from injurious stimulus
+[Line 1354] to-and-fro scratching movement
+[Line 1355] contraction of flexors& extensors of limb
+[Line 1356] 
+[Line 1357] N.B.
+[Line 1358] localizing sites	of lesions
+[Line 1359] In
+[Line 1360] healthy adult
+[Line 1361] 
+[Line 1362] 
+[Line 1363] 
+[Line 1364] 
+[Line 1365] 
+[Line 1366] 
+[Line 1367] 
+[Line 1368] 
+[Line 1369] 
+[Line 1370] 1) reciprocal	inhibition: excitation of flexors is with inhibition of extensors
+[Line 1371] 2) crossed extensor reflex:
+[Line 1372] - extension	of	opposite limb
+[Line 1373] - if stimulus is severe enough
+[Line 1374] - reciprocal inhibition occurs.
+[Line 1375] - This pushes body away and supports body weight
+[Line 1376] 
+[Line 1377] Limb changes to rigid column to support body weight
+[Line 1378] 
+[Line 1379] 
+[Line 1380] Spinal cord lesions
+[Line 1381] * complete transection as a result of:
+[Line 1382] 1) road accidents causing fracture of vertebrae.
+[Line 1383] 2) primary tumors or metastasis from malignant tumors.
+[Line 1384] * higher level of section, more serious consequences:
+[Line 1385] a) upper cervical: immediate death (paralysis of all respiratory muscles).
+[Line 1386] b) lower cervical: quadriplegia with diaphragmatic respiration.
+[Line 1387] c) thoracic region:
+[Line 1388] - normal respiration
+[Line 1389] - paralysis of both lower limbs i.e. paraplegia.
+[Line 1390] - lose all sensations and voluntary activities(section of all sensory and motor tracts)
+[Line 1391] > Stages with regards to spinal cord reflex:
+[Line 1392] I. Stage of spinal shock
+[Line 1393] * immediately after transection
+[Line 1394] * c a u s e : s u d d e n w i t h d r a w a l  o f f a c i l i t a t o r y descending t racts
+[Line 1395] * RMP o f s p i n a l m o t o r n e u r o n s ( 2 - 6 m v ) g r e a t e r ( h y p e r p o l a r i z e d )
+[Line 1396] * features (below level of lesion):
+[Line 1397] 1) Loss of all reflexes:
+[Line 1398] 1. superficial
+[Line 1399] 2. Deep (as muscle tone):
+[Line 1400] * loss of muscle tone results in falcidity
+[Line 1401] * lead to a decreased efficiency of muscle pump : reduced venous return
+[Line 1402] * limbs become cold and blue.
+[Line 1403] 3. visceral (micturition, defecation and erection):
+[Line 1404] * walls of urinary bladder and rectum are paralyzed but t one i n i nternal urethral ( or anal) sphincter returns very rapidly.
+[Line 1405] * Result : "retention with overflow": accumulation of urine until pressure
+[Line 1406] overcomes resistance of internal sphincter: dribbling of urine.
+[Line 1407] 2) Loss of vasomotor tone =fall in blood pressure:
+[Line 1408] o i nterruption of f i bers t hat connect vasomotor centers with lateral horn cells.
+[Line 1409] o relative vasodilatation causes an immediate fall in blood pressure.
+[Line 1410] o higher the level of section, lower the blood pressure.
+[Line 1411] 3) Bed sores "decubitus ulcers":
+[Line 1412] o at sites where body weight hinders circulation to skin (over bony prominences i.e. back, heel and gluteal region).
+[Line 1413] o skin "sloughs off' at these sites, forming ulcers that heal with difficulty
+[Line 1414] o cause: mobilization and cleaning of these areas is neglected.
+[Line 1415] * duration: (2-6 w in humans): depend on degree of encephalization (dominance of cerebral cortex):higher brain development longer is the duration.
+[Line 1416] 
+[Line 1417] II. stage of recovery of reflexs: some reflex activity is recovered.
+[Line 1418] * Cause of recovery :
+[Line 1419] 1) denervation hypersensitivity: to mediators released by remaining excitatory endings.
+[Line 1420] 2) S p r o u t i n g o f c o l l a t e r a l s : f r o m e x i s t i n g n e u r o n s , w i t h f o r m a t i o n o f additional excitatory endings on inter neurons and motor neurons.
+[Line 1421] * Recovery is gradual and includes:
+[Line 1422] A. Early recovery:
+[Line 1423] 1. Gradual rise of arterial blood pressure:
+[Line 1424] * regaining of activity in lateral horn cells of spinal cord (spinal vasomotor center)
+[Line 1425] * vasomotor control f rom medulla i s absent: sudden fall in blood-pressure on being made to sit up or stand.
+[Line 1426] 2. Return of reflexes:
+[Line 1427] 1) Superficial: planter reflex: positive Babinski sign.
+[Line 1428] 2) Deep: e.g. knee jerk also recovers
+[Line 1429] * Flexor reflexes return earlier than extensor ones.
+[Line 1430] * return of flexor tone " paraplegia i n flexion".
+[Line 1431] * return of tone in arterioles and venules improve limb circulation.
+[Line 1432] 3) visceral reflexes:
+[Line 1433] * return of function of bladder and rectum (automatic),
+[Line 1434] * voluntary control and sensation of fullness are permanently lost
+[Line 1435] 4) Mass reflex:
+[Line 1436] * Reflects high excitability of spinal cord neurons.
+[Line 1437] * Stimulus: minor painful to skin of lower limbs
+[Line 1438] * response:
+[Line 1439] 1) Flexion withdrawal of the limb.
+[Line 1440] 2) Evacuation of bladder and rectum
+[Line 1441] 3) Sweating.
+[Line 1442] 4) Rise of blood pressure.
+[Line 1443] * used to give degree of bladder and bowel control. "intentional mass reflex".
+[Line 1444] 5) Sexual reflexes: Genital manipulation produces erection and even ejaculation.
+[Line 1445] B. Advanced recovery =after rehabilitation:
+[Line 1446] * proper management drive patient into a more advanced stage of recovery:
+[Line 1447] 1) tone in extensors gradually returns and becomes greater than flexors, "paraplegia i n e x t e n s i o n ". 
+[Line 1448] 2) Positive supporting reflex becomes well developed and patient stand without support.
+[Line 1449] 
+[Line 1450] III. Stage of failure of reflexes
+[Line 1451] * Infection, malnutrition and other complications inhibit spinal reflex activity.
+[Line 1452] * proper care e.g. mobilization to prevent bedsores, use of antibiotics and attention to nutrition and fluid balance have reduced mortality from 80% to 6%.
+[Line 1453] 
+[Line 1454] Brain stem
+[Line 1455] * contains centers that:
+[Line 1456] 1. Regulate cardiovascular, respiratory and GIT functions.
+[Line 1457] 2. major role in control of eye movements.
+[Line 1458] 3. Support body against gravity
+[Line 1459] 4. Control complex reflex movements.
+[Line 1460] > reticular formation:
+[Line 1461] * large structure occupying core of brain stem.
+[Line 1462] * consists of areas of diffuse neurons of 2 types:
+[Line 1463] 1. Sensory neurons:
+[Line 1464] * greater in number
+[Line 1465] * make multiple connections within reticular formation itself.
+[Line 1466] 2. Motor neurons (reticular system):
+[Line 1467] * larger in size
+[Line 1468] * receive impulses from sensory neurons.
+[Line 1469] * divided into:
+[Line 1470] 
+[Line 1471] pontine (facilitatory)
+[Line 1472] medullary (inhibitory)
+[Line 1473] site
+[Line 1474] dorsolateral part of pons
+[Line 1475] ventromedial part of medulla
+[Line 1476] intrinsic activity
+[Line 1477] present
+[Line 1478] 
+[Line 1479] enhanced by
+[Line 1480] 1) Motor area 4 of cerebral cortex.
+[Line 1481] 2) vestibular nucleus.
+[Line 1482] 3) neocerebellum.
+[Line 1483] 4) classical sensory pathways
+[Line 1484] 1) Suppressor area of motor cortex
+[Line 1485] 2) Basal ganglia.
+[Line 1486] 3) Paleocerebellum
+[Line 1487] 4) Red nucleus
+[Line 1488] efferents
+[Line 1489] a. Ascending branches "Reticular Activating System = RAS":
+[Line 1490] * to non- specific thalamic nuclei, basal ganglia and cerebral cortex (via thalamus).
+[Line 1491] * major role in brain activity (consciousness and alertness).
+[Line 1492] b. Descending branches:
+[Line 1493] * Ventral reticulo-spinal tract
+[Line 1494] * transmits facilitatory impulses to gamma motor neurons
+[Line 1495] (increase spindles sensitivity)
+[Line 1496] * inhibitory impulses via "lateral reticulospinal tracts" to gamma motor neurons supplying same antigravity muscles.
+[Line 1497] * counterbalances excitatory signals from pontine reticular system so as to maintain normal muscle tone
+[Line 1498] 
+[Line 1499] Equilibrium and vestibular apparatus
+[Line 1500] * Equilibrium maintained by variation in degree of contraction of antigravity muscles
+[Line 1501] * vestibular apparatus: organ for equilibrium composed of:
+[Line 1502] o bony labyrinth (in the temporal bone):
+[Line 1503] o formed of: vestibule, three bony semicircular canals and a bony cochlea.
+[Line 1504] o Encloses "membranous labyrinth": composed of cochlear duct, three semicircular canals and two chambers: utricle and saccule.
+[Line 1505] o Between bony and membranous labyrinth is perilymph.
+[Line 1506] o Inside membranous labyrinth is "endolymph".
+[Line 1507] > Semicircular canals
+[Line 1508] * 3 On each side perpendicular to each other in the 3 planes
+[Line 1509] * receptor "crista ampullaris":
+[Line 1510] o in expanded end (ampulla) of each membranous canal.
+[Line 1511] o consists of hair and sustentacular cells surrounded by a gelatinous partition (cupula).
+[Line 1512] o Hair cells: (same in maculae and cristae):
+[Line 1513] - Bases in contact with afferent fibers of vestibular n.
+[Line 1514] - f rom apical end arise 30-150 sterocilia embedded in cupula increase progressively in height toward kinocilium
+[Line 1515] * Genesis of action potential in afferent nerve fibres
+[Line 1516] o processes of hair cells project into endolymph whereas bases bathed in perilymph.
+[Line 1517] o perilymph i s l i ke plasma ( high conc. of Na+' and l ow conc. of K+)
+[Line 1518] o endolymph has a high conc. of K.
+[Line 1519] o Tip links: processes tie sterocilium to next (with mechanically sensitive K+ channels)
+[Line 1520] o membrane potential of hair cells is -60 mV.
+[Line 1521] o If sterocilia are pushed:
+[Line 1522] 1. toward higher kinocilium: (depolarization):
+[Line 1523] * open time of these channels increases: K+ enter and produce depolarization.
+[Line 1524] * Depolarization causes Ca2+entery: release a neurotransmitter (glutamine)
+[Line 1525] * this initiates depolarization of the neighboring afferent neurons
+[Line 1526] 2. away from kinocilium: cell is hyperpolarized.
+[Line 1527] * Responses to rotational acceleration
+[Line 1528] * SCCs on both sides transmit from cristae a continuous series of impulses averaging 200/s.
+[Line 1529] A. When head suddenly begins to rotate from left to right in horizontal plane
+[Line 1530] * horizontal SCC moves in same plane.
+[Line 1531] * endolymph is stationary because of its inertia: flows in a opposite direction (right to left).
+[Line 1532] * cupula is bent by endolymph and with projecting cilia.
+[Line 1533] * kinocilium of horizontal canals present towards utricle: bending stimulates hair cells
+[Line 1534] * frequency of impulses from right canal increased
+[Line 1535] * frequency of impulses from left canal decreased (cilia bent away)
+[Line 1536] * This unbalanced discharge give the sensation of rotation to right.
+[Line 1537] 
+[Line 1538] B. With continued rotation: (constant speed of rotation)
+[Line 1539] endolymph spins at same rate as canal and cupula swings back into upright position
+[Line 1540] C. When rotation is stopped:
+[Line 1541] * canals stop rotating: endolymph continues to flow for some time due to its momentum in same direction 'of rotation i.e. from left to right,
+[Line 1542] * cupula is deformed in a direction opposite to that when rotation was first started
+[Line 1543] * discharge from left canal increases and from right side decreases.
+[Line 1544] * Imbalance in discharge between two sides causes "vertigo": false sensation of rotation (this time from right to left side).
+[Line 1545] * In seconds, endolymph stops moving and copula recoil to resting position.
+[Line 1546] * Discharge will return to tonic level and (vertigo) disappears.
+[Line 1547] N.B.: function of SCCs is detection of onset or stoppage of head rotation in one direction.
+[Line 1548] 
+[Line 1549] > Neural pathway
+[Line 1550] * cell bodies of neurons supplying cristae and maculae located in vestibular ganglion.
+[Line 1551] * vestibular nerve terminates in ipsilateral vestibular nucleus in medulla then to:
+[Line 1552] 1. Reticular formation: sends fibres to spinal cord.
+[Line 1553] 2. Spinal cord: fibers form vestibule-spinal tract
+[Line 1554] 3. Cerebellum: flocculonodular lobe and dentate nucleus.
+[Line 1555] N.B.: Some fibers pass directly to cerebellum without synapsing in vestibular nucleus.
+[Line 1556] 4. Motor nuclei of cranial nerves 3, 4 and 6: (by medial longitudinal bundle):
+[Line 1557] to extra-ocular muscles: eye movements help fixing objects in visual fields during rotation
+[Line 1558] 5. Thalamus
+[Line 1559] 
+[Line 1560] > Effects of stimulation of SCCs:
+[Line 1561] 1. Sensation of rotation: In same direction of rotation.
+[Line 1562] 2. Maintenance of balance
+[Line 1563] * Increased muscle tone of ipsilateral side and a decrease on opposite side.
+[Line 1564] * reflex mechanism to support body.
+[Line 1565] * P a t h w a y : S C C s - v e s t i b u l a r n u c l e i - r e t i c u l a n u c l e i - vestibulospinal and reticulospinal tracts - motor neurons of spinal cord
+[Line 1566] 3. Vertigo
+[Line 1567] * Def: false sensation of rotation that a person feels when rotation is stopped.
+[Line 1568] * always in opposite direction to original rotation.
+[Line 1569] * Pathway: SCCs - vestibular n. or directly to flocculo- nodular lobe in cerebellum -
+[Line 1570] fastigial nucleus -opposite thalamus - Superior temporal gyrus (cortical centre for equilibrium).
+[Line 1571] * Causes:
+[Line 1572] 1) Labyrinthitis: as irritation of SCCS by drugs e.g. streptomycin or toxicity of alcohol.
+[Line 1573] 2) Menier's disease
+[Line 1574] 3) motion sickness (excessive and repetitive labyrinthine stimulation) e.g. sea travel.
+[Line 1575] 
+[Line 1576] 4. Post-rotatory reactions "past pointing test of Barany":
+[Line 1577] * cortical voluntary m o v e m e n t s t o c o r r e c t f a l s e s e n s a t i o n o f v e r t i g o .
+[Line 1578] * aim: prevent falling of body in direction of false sensation of rotation.
+[Line 1579] * result: falling of body towards opposite side i.e. in direction of original rotation
+[Line 1580] 5. Autonomic changes:
+[Line 1581] * nausea, vomiting, bradycardia, hypotension and sweating.
+[Line 1582] * Cause: stimulation of autonomic centers by impulses from vestibular apparatus
+[Line 1583] 6. Nystagmus:
+[Line 1584] * Def: jerky movements of eye observed at beginning and end of rotation.
+[Line 1585] * Aim: reflex to fix objects in visual field during rotation.
+[Line 1586] * Pathway from SCCs via medial longitudinal bundle (MLB) to stimulate 3,4,6
+[Line 1587] cranial nerves, supplying extra-ocular muscles.
+[Line 1588] * Center: in mid-brain sends impulses also via MLB
+[Line 1589] * Components:
+[Line 1590] a. Slow: opposite direction to rotation (vestibule-ocular reflex = VOR).
+[Line 1591] b. Fast: in same direction of rotation.
+[Line 1592] * direction of eye movement is identified by fast component:
+[Line 1593] - during rotation: in same direction
+[Line 1594] - when rotation is stopped: in opposite direction.
+[Line 1595] * Nystagmus is frequently horizontal, but maybe:
+[Line 1596] 1. Vertical: head is rotated sidward
+[Line 1597] 2. Rotatory: head is rotated forward.
+[Line 1598] > Clinically :Nystagmus may be:
+[Line 1599] 1) Physiological:
+[Line 1600] a) During head movement (Vestibulo ocular reflex "VOR"):
+[Line 1601] initiated by movement not by visual impulses (present in blind)
+[Line 1602] b) Optokinetic: Initiated by visual impulses e.g. looking from a window of moving train.
+[Line 1603] 2) Pathological:
+[Line 1604] a) Labyrinthine lesion: irritation of SCC, or vestibular nerve.
+[Line 1605] b) Menier's disease: increased endolymph pressure
+[Line 1606] c) Searching nystagmus: In defective vision, continuous movement of eye to focus image.
+[Line 1607] d) Neocerebellar syndrome.
+[Line 1608] > Methods of stimulation of SCC:
+[Line 1609] 
+[Line 1610] Rotational
+[Line 1611] Caloric
+[Line 1612] Electrical
+[Line 1613] method
+[Line 1614] rotatory chair with
+[Line 1615] head fixed at a certain angles
+[Line 1616] Pouring of hot water (43�C4 into
+[Line 1617] external meatus sets convection current in endolymph
+[Line 1618] Galvanic
+[Line 1619] current (2-5 m.amp)
+[Line 1620] stimulate
+[Line 1621] 2 canals on horizontal
+[Line 1622] plane in two ears
+[Line 1623] one canal (vertical) in one ear (Tilting
+[Line 1624] head 60� back, horizontal ? vertical)
+[Line 1625] all canals in
+[Line 1626] one ear
+[Line 1627] 
+[Line 1628] Utricle and saccule (U & S)
+[Line 1629] * Receptor: otolith organ ( macula): in floor of utricle and wall of	saccule
+[Line 1630] * structure:
+[Line 1631] 1. sustentacular and hair cells , surrounded by an otolith membrane
+[Line 1632] 2. "otoliths" (otoconia or ear dust):
+[Line 1633] - crystals of calcium carbonate embedded in otolith membrane
+[Line 1634] - denser than endolymph.
+[Line 1635] 3. Nerve fiber from hair cells joins those from cristae in vestibular division of 8th nerve.
+[Line 1636] * Orientation of maculae in U&S:
+[Line 1637] - Each has hair cells oriented on its surface in all directions
+[Line 1638] - different groups are stimulated with different positions of head:
+[Line 1639] o utricle: in horizontal plane: processes of hair cells pointing upwards.
+[Line 1640] o saccule: in vertical plane: processes of hair cells pointing laterally. Operate when head is not in vertical position, e.g. lying down
+[Line 1641] 
+[Line 1642] > Vestibular functions:
+[Line 1643] A. SCCs: early Detection of head rotation or stop of rotation: during turning:
+[Line 1644] Send impulses to nervous system which applies : control equilibrator corrective measures: affects contraction of variuos muscles specially antigravity to prevent falling
+[Line 1645] B. Function of utricle and saccule:
+[Line 1646] 1. Maintenance of static equilibrium
+[Line 1647] 1) In vertical position of head
+[Line 1648] - impulses from right and left utricles balance each other
+[Line 1649] - no sensation of malequilibrium.	
+[Line 1650] 2) When head tilted in space:
+[Line 1651] - calcium carbonate crystals fall by their weight.
+[Line 1652] - rate of discharge of impulses increases on that side but decreases on the other.
+[Line 1653] - Unbalanced discharge from bases of hair cells: malequilibrium
+[Line 1654] - equilibratory centers in brain stem and cerebellum stimulate appropriate muscles to restore equilibrium.
+[Line 1655] 2. Detection of linear acceleration
+[Line 1656] * Linear acceleration = acceleration in straight line:
+[Line 1657] may be horizontal e.g when a person stands in a bus which suddenly accelerates (sensed by utricle), or vertical e.g. when a lift starting to go up (sensed by saccule).
+[Line 1658] * When a bus suddenly accelerates:
+[Line 1659] - statoconia of utricle fall backwards due to its inertia and cilia are bent.
+[Line 1660] - stimulated group of hair cells cause discharge along vestibular nerve and person feel falling backward.
+[Line 1661] - corrected by leaning forward to prevent him from falling.
+[Line 1662] - observed during running
+[Line 1663] 
+[Line 1664] Posture
+[Line 1665] - For stability of the body, vertical projection of the centre of gravity must lie within the area in contact with the surface upon which the person stands (feet).
+[Line 1666] - To maintain equilibrium: either moving center of gravity or move the feet.
+[Line 1667] - upright posture maintained and restored by coordinated "postural reflexes".
+[Line 1668] - Posture depends on muscle tone: stretch reflex is the basic postural reflex.
+[Line 1669] * functions of postural reflexes:
+[Line 1670] 1. Maintain body in the upright position.
+[Line 1671] 2. Provide stable postural background for voluntary activity.
+[Line 1672] 3. Restore the posture if it is lost, by restoring centre of gravity in relation to feet.
+[Line 1673] * Types of postural reflexes
+[Line 1674] 1. Static reflexes: sustained contraction of the musculature.
+[Line 1675] 2. Phasic = dynamic reflexes: Involve transient movements.
+[Line 1676] 
+[Line 1677] > physiological role of different areas:
+[Line 1678] * Postural reflexes are integrated mainly at cortical centre: superior temporal gyrus.
+[Line 1679] * Impulses from eyes, vestibular apparatus, body and neck proprioceptors inform the centre about body's orientation.
+[Line 1680] * The vestibular and neck information function in opposite direction:
+[Line 1681] a. When a person bends his neck:
+[Line 1682] - person senses malequilibrium by the vestibular apparatus
+[Line 1683] - impulses from the neck proprioceptors balance the vestibular information
+[Line 1684] - person feels that his head is only bent.
+[Line 1685] b. When body leans in one direction:
+[Line 1686] impulses from the vestibular apparatus are not balanced by neck proprioceptors
+[Line 1687] ? true sense of malequilibrium.
+[Line 1688] c. When the head bends forward:
+[Line 1689] Extension of the limbs by the vestibular reflexes is opposed by neck reflexes which tend to relax them.
+[Line 1690] 
+[Line 1691] * Loss of any one alone will not cause the person to fall:
+[Line 1692] - If the vestibular apparatus is destroyed, equilibrium maintained by the eyes.
+[Line 1693] - During swimming, vestibular receptors are the only functional receptors due to:
+[Line 1694] a. Water pressure is equal all over the body.
+[Line 1695] b. Vision is difficult.
+[Line 1696] So, diving is difficult in disease of the vestibular apparatus.
+[Line 1697] * During closure of eyes, person keep equilibrium through proprioception: in Tabes dorsalis, when the person closes his eyes, he cannot keep his erect position (positive Romberg sign).
+[Line 1698] 
+[Line 1699] Motor Cortex
+[Line 1700] > Motor Areas of Cerebral Cortex:
+[Line 1701] I. Primary motor area (motor area 4):occupies pre-central gyrus.
+[Line 1702] * highly excitable due o presence of highly excitable Betz cells. representation:
+[Line 1703] 1) Crossed, unilateral (except for upper face i.e. forehead and eyes by both hemispheres): each side controls skeletal muscles of opposite side
+[Line 1704] 2) inverted: feet at top and face at bottom.
+[Line 1705] 3) 	area of representation proportional to degree of c o m p l e x i t y o f m o v e m e n t : areas for muscles of speech and hand are large while that representing trunk is small.
+[Line 1706] * Functions of motor area 4:
+[Line 1707] 1) Control of fine discrete skilled movements especially done by distal parts e.g. fingers.
+[Line 1708] 2) Facilitatory to stretch reflex and muscle tone
+[Line 1709] II. Premotor Cortex (motorassociation area) (area 6and 8):
+[Line 1710] * Site: above Sylivian tissue in front of primary motor area
+[Line 1711] * Body representation: inverted
+[Line 1712] * no Betz cells, which makes it less excitable than area 4.
+[Line 1713] * Premotor cortex sends its signalseither directly to primary motor cortex or to the basal ganglia, then to the thalamus and finally to the primary cortex.
+[Line 1714] * Function:
+[Line 1715] 1) initiates and controls pattern of complex coordinated gross movements involve many muscles simultaneously to perform tasks as positioning so as hand can perform actions
+[Line 1716] 2) selection of plans directed by external guidance as visual stimuli (mirror neurons).
+[Line 1717] 3) It inhibits stretch reflex (area 4s).
+[Line 1718] 4) It contains specialized areas that control specific motor functions:
+[Line 1719] 
+[Line 1720] Broca's(word	formation
+[Line 1721] or speech)
+[Line 1722] Voluntary  eye
+[Line 1723] movement
+[Line 1724] Head rotation
+[Line 1725] Hand skills
+[Line 1726] Site
+[Line 1727] anterior to lower end of motor area 4
+[Line 1728] above	Broca's area
+[Line 1729] above	eye
+[Line 1730] movement area & connected to it
+[Line 1731] anterior to
+[Line 1732] primary motor area for hands
+[Line 1733] Function
+[Line 1734] coordinated pattern for vocalization to area 4(proper  movements  of
+[Line 1735] lips, tongue and larynx)
+[Line 1736] controls conjugate	eye movement
+[Line 1737] directs	head towards different objects
+[Line 1738] Coordination for skilled hand movement
+[Line 1739] Damage
+[Line 1740] "Motor aphasia": person vocalize but vocabulary limited to very few words
+[Line 1741] e.g. Yes or no
+[Line 1742] incoordinated movement	of eyes	towards different objects
+[Line 1743] 
+[Line 1744] "motor apraxia": uncoordinated hand
+[Line 1745] movement
+[Line 1746] N.B.
+[Line 1747] In right handed person, present
+[Line 1748] in dominant left hemisphere
+[Line 1749] connected	to
+[Line 1750] visual area
+[Line 1751] 
+[Line 1752] 
+[Line 1753] 
+[Line 1754] III. Supplementary Motor Area
+[Line 1755] * in front of area 4 and above premotor. project to other areas of motor cortex
+[Line 1756] * functions:
+[Line 1757] 1) temporal planning of sequences : blood flow increases with complex movements
+[Line 1758] 2) help premotor to provide positional stabilization
+[Line 1759] 3) generates self initiated actions according to mental rehearsal of movements (memory guided tasks)
+[Line 1760] 4) involved in bimanual coordination
+[Line 1761] > Connections of motor cortex
+[Line 1762] A. Afferent Fibres: processed in motor cortex, basal ganglia and cerebellum. include:
+[Line 1763] 1) Subcortical fibers from:
+[Line 1764] a. nearby areas, especially somatic sensory areas.
+[Line 1765] b. corresponding areas of motor cortex of other side.
+[Line 1766] 2) From thalamus:
+[Line 1767] a. ventrobasal complex: Somatosensory fibres
+[Line 1768] b. ventroanterior and ventrolateral nuclei: from basal ganglia and cerebellum
+[Line 1769] c. non-specific thalamic nuclei : control excitability of cortex
+[Line 1770] B. Efferent: to AHCs and motor cranial nuclei through:
+[Line 1771] I. Pyramidal System: 3 tracts:
+[Line 1772] 1.  Cortico-bulbar tract
+[Line 1773] 2. cortico nuclear tract
+[Line 1774] from primary and premotor areas
+[Line 1775] from area 8
+[Line 1776] to nuclei of cranials:5 7 9 10 11 and 12
+[Line 1777] (muscles of head) on opposite side
+[Line 1778] to motor nuclei of cranials 3, 4 and 6
+[Line 1779] (extraoccular muscles). on both sides
+[Line 1780] 3. Corticospinal tracts: (approximately one million fibers)
+[Line 1781] * Origin:
+[Line 1782] a)  30%: primary motor area	b) 30%: premotor areas
+[Line 1783] c) 40%: somatic sensory area.
+[Line 1784] * 3 % of fibers are large myelinated fibres, derived from large pyramidal Betz cell.
+[Line 1785] * Course:
+[Line 1786] - fibers descend in corona radiata then genu and posterior limb of internal capsule
+[Line 1787] - cerebral peduncle of midbrain and pons, and enter medulla. then:
+[Line 1788] 
+[Line 1789] crossed or lateral corticospinal
+[Line 1790] 85%
+[Line 1791] direct or anterior corticospinal
+[Line 1792] 15%
+[Line 1793] course
+[Line 1794] cross in medulla forming pyramidal or
+[Line 1795] motor decussation
+[Line 1796] descend on same side, cross to opposite
+[Line 1797] in neck or upper thoracic region
+[Line 1798] relay on
+[Line 1799] lateral motor neurons
+[Line 1800] medial motor neurons
+[Line 1801] control
+[Line 1802] distal muscles of limbs (hands)
+[Line 1803] axial and proximal limb muscles.
+[Line 1804] movement
+[Line 1805] skilled
+[Line 1806] gross
+[Line 1807] N.B.: Few fibres of anterior corticospinal tract do not cross providing bilateral innervation of muscles of both sides moving simultaneously e.g. upper face, abdominal and respiratory
+[Line 1808] 
+[Line 1809] * Functions of Pyramidal System
+[Line 1810] 1. complex fine skilled voluntary movements of fingers, toes and face.
+[Line 1811] 2. facilitatory to strtch reflexe: section in monkeys causes hypotonia.
+[Line 1812] II. extrapyramidal system:
+[Line 1813] * Origin: Premotor area, basal ganglia, reticular formation, red and vestibular nuclei.
+[Line 1814] * Tracts:
+[Line 1815] 
+[Line 1816] 1) Rubrospinal tract.
+[Line 1817] 2) Reticulospinal tract.
+[Line 1818] 3) Tectospinal tract.
+[Line 1819] * Functions:
+[Line 1820] 4) 
+[Line 1821] Vestibulospinal tract.
+[Line 1822] 5) Olivo spinal tract.
+[Line 1823] 
+[Line 1824] 1) gross movements involving a group of muscles required for fixation.
+[Line 1825] 2) Some fibres are facilitatory, others inhibitory to muscle tone
+[Line 1826] > for normal voluntary movement, two sets of neurons are important:
+[Line 1827] 1. Upper motor neuro n(UMN):
+[Line 1828] * originating in cortical areas a n d b r a i n s t em
+[Line 1829] * synapse directly or indirectly with LMN.
+[Line 1830] * grouped i nto pyramidal and extrapyramidal
+[Line 1831] 2. Lower motor neurons (LMN): final pathway to skeletal muscle fibers:
+[Line 1832] 1) motor cranial nuclei and their axons (3, 7, 9, 10, 11 and 12th).
+[Line 1833] 2) AHCs and their axons (motor nerves to the skeletal muscles)
+[Line 1834] > Clinical Links:
+[Line 1835] 1. plantar reflex (Center: S 1, 2):
+[Line 1836] * Stimulus: Scratching outer aspect of thesole by ablunt object.
+[Line 1837] * Normal response: Planter flexion of all toes.
+[Line 1838] * Abnormalresponse:"Babinski'ssign":
+[Line 1839] * doriflexion, of big toe and fanning of the other four toes.
+[Line 1840] * primitive response reappears following injury of pyramidal fibres.
+[Line 1841] * Other causes of the Babinski's sign
+[Line 1842] 1) Deep sleep, deep coma and during anesthesia in adults.
+[Line 1843] 2) infants blew one year, due to immaturity of pyramidal tract.
+[Line 1844] 2. lesion of internal capsule:
+[Line 1845] * cause: thrombosis or hemorrhage in lenticular artery affects posterior limb.
+[Line 1846] lesion
+[Line 1847] Cause (injury of)
+[Line 1848] description
+[Line 1849] 1)  Contralateral Hemiplegia
+[Line 1850] pyramidal and extrapyramidal tracts
+[Line 1851] paralysis in opposite half
+[Line 1852] 2) Contralateral Hemianesthesia
+[Line 1853] sensory radiation
+[Line 1854] Loss of somatic sensation on opposite side
+[Line 1855] 3) Crossed Homonymous Hemianopia
+[Line 1856] optic radiation
+[Line 1857] loss of vision in two corresponding
+[Line 1858] halves of visual fields of both eyes
+[Line 1859] 4) Decreased auditory acuity in both ears
+[Line 1860] auditory radiation
+[Line 1861] No deafness: bilateral representation of each ear in auditory cortex
+[Line 1862] 
+[Line 1863] 
+[Line 1864] 
+[Line 1865] UMNL
+[Line 1866] LMNL
+[Line 1867] Cause
+[Line 1868] cerebrovasular	accidents	(strokes:	hemorrhage	or thrombosis in posterior limb of internal capsule).
+[Line 1869] N.B.: damage of both pyramidal and extrapyramidal fibres.
+[Line 1870] damage of motor nerves e.g. poliomyelitis, diabetes mellitus, and alcoholism.
+[Line 1871] 1.Paralysis
+[Line 1872] "contra lateral hemiplgia":
+[Line 1873] opposite side, widespread (half of face, upper limb and lower limb)
+[Line 1874] * muscles supplied by affected segment only
+[Line 1875] * on same side of lesion.
+[Line 1876] 2. Tone
+[Line 1877] Hypertonia
+[Line 1878] * In paralyzed muscles (spastic)
+[Line 1879] * Clasp knife: resistance to passive movement suddenly disappear
+[Line 1880] * loss of inhibitory effect of extrapyramidal areas on gamma neurons
+[Line 1881] * facilitatoty centers become hyperactive, facilite stretch reflex
+[Line 1882] Hypotonia or atonia:
+[Line 1883] * paralyzed muscles show decrease or loss of tone (flaccid paralysis).
+[Line 1884] * Cause: interruption of stretch R.
+[Line 1885] 3. Deep Reflexes
+[Line 1886] * exaggerated on affected side
+[Line 1887] * Cause : release of stretch reflex from cerebral inhibition.
+[Line 1888] * Clonus is present
+[Line 1889] Absent in muscles supplied by affected neuron
+[Line 1890] 4.
+[Line 1891] Superficial Reflexes
+[Line 1892] * Lost on affected side due to loss of supra-spinal facilitation.
+[Line 1893] N.B.: abdominal and cremasteric reflexes absent; but plantar reflex becomes extensor "Babinski's sign"
+[Line 1894] Lost (in affected segments only)
+[Line 1895] 5.Muscle Wasting
+[Line 1896] * Absent
+[Line 1897] 1) paralyzed muscles are still innervated (contract reflexly)
+[Line 1898] 2) spasticity prevents disuse
+[Line 1899] * Marked (Disuse Atrophy)
+[Line 1900] * Cause: inability of muscles to contract neither reflexly nor voluntarily.
+[Line 1901] 6.Fascicu-
+[Line 1902] lations
+[Line 1903] * no
+[Line 1904] - Present
+[Line 1905] - pathological discharge of motor neurons
+[Line 1906] 7.Electric excitability:
+[Line 1907] a. F a r a d i c c u r r e n t
+[Line 1908] b. Galvanic current
+[Line 1909] c. Chronaxie:
+[Line 1910] Normal
+[Line 1911] 
+[Line 1912] Produces tetanic contraction Normal response
+[Line 1913] normal
+[Line 1914] Changes
+[Line 1915] 
+[Line 1916] No response
+[Line 1917] "Reaction of degeneration" prolonged
+[Line 1918] * Fasciculations: visible spontaneous contractions of bundles of fibers in affected muscles
+[Line 1919] 
+[Line 1920] Basal Ganglia
+[Line 1921] A. large nuclear masses
+[Line 1922] 1. Caudate& Putamen = "striatum"
+[Line 1923] 2. Globus Pallidus (external and internal)
+[Line 1924] B. Functionally related nuclei
+[Line 1925] 1. Subthalamic nucleus.
+[Line 1926] 2. Substantia nigra (divided into pars compact and pars reticulata)
+[Line 1927] * N.B.: Putamen + globus pallidus = " lenticular nucleus'
+[Line 1928] 
+[Line 1929] > Neuronal connections of basal ganglia:
+[Line 1930] I. Internal connections: caudate and putamen are regarded as receiving centre, while globus pallidus is discharging center:
+[Line 1931] 1. Striato-pallidal projection: starts from neo-striatum to globus pallidus, secreting GABA
+[Line 1932] 2. Stariato-nigral projection: from neostriatum pass to substantia nigra pars reticularis and secrete GABA.
+[Line 1933] 3. Nigro -striatal projection: from substantia nigra pars compacta to striatum secreting dopamine may be excitatory (D1) or inhibitory(D2) according to receptor.
+[Line 1934] 4. interneurons of striatum: Secretes acetyl choline, may be excitatory or inhibitory according to receptors.
+[Line 1935] 
+[Line 1936] II. Cortical connections:
+[Line 1937] basal ganglia receive excitatory input from many cortical areas through neurotransmitter
+[Line 1938] Glutamate to striatum then:
+[Line 1939] Direct pathways
+[Line 1940] Indirect pathways
+[Line 1941] To striatum which inhibits
+[Line 1942] internal segment (IS) of globus pallidus using GABA: it cannot inhibit thalamus: fire and sends
+[Line 1943] excitatory input to cortex  
+[Line 1944] - exeternal segment of globus pallidus using GABA.
+[Line 1945] - subthalamic nucleus being uninhibited sends the only purely excitatory input within basal ganglia to globus pallidus internal segment.
+[Line 1946] - Globus pallidus (IS) inhibits VA and VL of thalamus:
+[Line 1947] unable to send excitatory input to cortex
+[Line 1948] facilitates movement
+[Line 1949] inhibits movement
+[Line 1950] 
+[Line 1951] * balance of direct & indirect pathways is how basal ganglia involved in control of movement.
+[Line 1952] 
+[Line 1953] * N.B.: Dopamine secreted from substantia nigra to striatum:
+[Line 1954] - primarily through D1 (exciting) receptors participate in direct pathway
+[Line 1955] - D2 (inhibitory) receptors involved in indirect pathway.
+[Line 1956] - result: increase faciliatory inputs to motor regions.
+[Line 1957] 
+[Line 1958] III. Efferent pathway from basal ganglia :
+[Line 1959] * globus pallidus external segment projects to subthalamus and brain stem, secreting GABA: From these areas fibers pass to reticular formation sends impulses via extrapyramidal tracts (reticulospinal, vestibulospinal and rbrospinal tracts) to motor neurons of spinal cord.
+[Line 1960] * globus pallidus internal segment axons secrete GABA to thalamus (ventrolateral and ventro anterior nuclei) and then to cortex.
+[Line 1961] 
+[Line 1962] > Functions of basal ganglia
+[Line 1963] 1. Cognitive control of motor activity:
+[Line 1964] * thoughts and information stored in the memory are used for selection of an action, modifying the timing (rapid or slow) and spatial dimensions (very small or very large letter)
+[Line 1965] * Proof: Neurons in BG discharge before movements begin. This observation led to the idea that BG are involved in planning and programming of movement: the processes by which an abstract thought is converted into voluntary action.
+[Line 1966] * Voluntary movements are stored as motor programs in the Motor cortices. BG facilitates the selection of an appropriate motor program using the direct pathway and inhibits other programs by inhibiting the cortex using the indirect pathway.
+[Line 1967] * Example: when one is subjected to a danger, he responds immediately by turning away from it then begins to run.
+[Line 1968] 2. Help the corticospinal system in executing subconscious learned patterns of movement
+[Line 1969] such as writing letters of the alphabet, cutting with scissors and some aspects of vocalization.
+[Line 1970] 3. Initiation and regulation of the automatic associated movements of the body e.g. swinging of the arms while walking and facial expressions.
+[Line 1971] 4. Globus pallidus is thought to be responsible for the posture taken by the body to perform a particular voluntary movement i.e. it locks the different parts of the body into a specific position so as to facilitate the fine movements of the hand.
+[Line 1972] 5. mainly inhibitory to the muscle tone.
+[Line 1973] 6. involved in control of behavior, at the level of motivation
+[Line 1974] 7. have a role in saccadic eye movement
+[Line 1975] > Metabolic Considerations
+[Line 1976] * high O2 consumption.
+[Line 1977] * Substantia nigra has high content of copper:
+[Line 1978] N.B.:	Wilson's	disease	(chronic	copper	intoxication):	ceruloplasmin	is	low: degeneration of lenticular nucleus
+[Line 1979] 
+[Line 1980] > Diseases Of basal ganglia:
+[Line 1981] 
+[Line 1982] A. Chorea
+[Line 1983] B. Parkinsonism
+[Line 1984] Lesion in (causes)
+[Line 1985] caudate and putarnen:
+[Line 1986] 1) Hereditary"Huntington's chorea".
+[Line 1987] 2) As a complication of rheumatic fever in children
+[Line 1988] substantia nigra:
+[Line 1989] 1) Genetic mutations
+[Line 1990] 2) Enviromental: as some toxins increase the risk of the disease
+[Line 1991] 3) Cerebral atherosclerosis: loss of dopamine receptors.
+[Line 1992] 4) Head trauma.
+[Line 1993] 5) Phenothiazine drugs which block D2 dopamine receptors
+[Line 1994] Mechanism
+[Line 1995] not clear but proposed that
+[Line 1996] -	loss of cell bodies of GABA secreting neurons in caudate and putamen of indirect pathway interrupts the negative feedback
+[Line 1997] loop from basal ganglia to cortex
+[Line 1998] - imbalance between excitation and inhibition
+[Line 1999] - created by loss of dopaminergic inhibition of putamen.
+[Line 2000] Characters
+[Line 2001] 1) Spontaneous, rapid, involuntary dancing movements.
+[Line 2002] 2) Hypotonia associated with pendular knee jerk.
+[Line 2003] 1. Rigidity:
+[Line 2004] * generalized flexion attitude: flexors more than extensor (Both affected):
+[Line 2005] * Types:
+[Line 2006] 1) Lead-pipe rigidity: continuous resistance to bending.
+[Line 2007] 2) Cogwheel rigidity: series of catches during passive movement
+[Line 2008] * Mechanism: excess impulses along corticospinal tract to both alpha and gamma AHCS
+[Line 2009] 2. Tremors: rhythmic involuntary alternating contractions.
+[Line 2010] * Static: present at rest and disappears with activity
+[Line 2011] * pill rolling of hand and up and down of mandible.
+[Line 2012] 3. Akinesia: difficult initiation of spontaneous movements
+[Line 2013] * S p e e c h :	m o n o t o n o u s
+[Line 2014] * Loss of associated movements: swinging arms in walking
+[Line 2015] * Loss of facial expression i.e. mask face.
+[Line 2016] * Gate: shuffling i.e. walking in short steps
+[Line 2017] 
+[Line 2018] 
+[Line 2019] Treatment
+[Line 2020] 
+[Line 2021] 1. L-dopa (levodopa):dopamine precursor
+[Line 2022] Unlike dopamine, crosses BBB and repair dopamine deficiency.
+[Line 2023] 2. Anticholinergic drugs: decreasing the cholinergic influence.
+[Line 2024] 3. Surgical: making a lesion in internal globus pallidus (pallidotomy) or subthalamic nuclei: restore output balance.
+[Line 2025] 4. Implantation of dopamine-secreting tissue in basal ganglia
+[Line 2026] 
+[Line 2027] 
+[Line 2028] C.  Athetosis
+[Line 2029] D.  Ballism
+[Line 2030] cause
+[Line 2031] Wilson's disease (Lesion in globus pallidus)
+[Line 2032] vascular (lesionin subthalamus)
+[Line 2033] Characters
+[Line 2034] - Continuous, slow writhing (worm-like) movements of hands, arms, neck
+[Line 2035] - hypertonia
+[Line 2036] Involuntary movements: flailing, intense and violent
+[Line 2037] 
+[Line 2038] 
+[Line 2039] 
+[Line 2040] 
+[Line 2041] 
+[Line 2042] 
+[Line 2043] Cerebellum
+[Line 2044] 
+[Line 2045] Lobe
+[Line 2046] Connected to
+[Line 2047] Function
+[Line 2048] 1. Archi "Vestibulo"cerebellum "flocculo- nodular lobe"
+[Line 2049] Vestibular nuclei
+[Line 2050] equilibrium
+[Line 2051] .
+[Line 2052] 2. Paleo "Spino" cerebellum: midline area (vermis) and 2-3 cm wide in both
+[Line 2053] anterior and posterior lobes
+[Line 2054] AHC
+[Line 2055] +
+[Line 2056] cerebral cortex
+[Line 2057] 1. coordination of movements.
+[Line 2058] 2. inhibitory to muscle tone.
+[Line 2059] 3. Neo "Cerebro"cerebellum "lateral
+[Line 2060] parts of cerebellar Hemispheres"
+[Line 2061] Cerebral cortex
+[Line 2062] 1. Planning of movements.
+[Line 2063] 2. facilitatory to muscle tone.
+[Line 2064] 
+[Line 2065] > Topographic representation of body:
+[Line 2066] * anterior lobe: upside down	?	posterior lobe: erect
+[Line 2067] * later zones: none (function: planning and programming)
+[Line 2068] > Cerebellar Connections: cerebellar peduncles (connect it to brain stem):
+[Line 2069] Afferent
+[Line 2070] Efferent
+[Line 2071] 1) Ventral & Dorsal spino-cerebellar
+[Line 2072] 2) Cortico- ponto-cerebellar
+[Line 2073] 3) Vestibulo-cerebellar tract
+[Line 2074] 4) Olivo-cerebellar tract
+[Line 2075] 1) Dentato-thalamo-cortical tract
+[Line 2076] 2) Dentato-rubro-spinal tract
+[Line 2077] 3) to reticular formation of pons & medulla
+[Line 2078] 4) to vestibular nucleus
+[Line 2079] 
+[Line 2080] > Functions: was called silent area: its stimulation didn't give sensation or movement.
+[Line 2081] A.  ?in voluntary movements:
+[Line 2082] 1. Servo- comparator function:
+[Line 2083] � motor cortex transmits same information to:
+[Line 2084] 1) group of muscle to execute a particular movement
+[Line 2085] 2) intermediate zone of cerebellum of opposite side (Cortico-Ponto- cerebellar) t o inform about order given
+[Line 2086] � As muscles respond, muscle spindles transmit signals along spino-cerebellar tract.
+[Line 2087] � cerebellum compares performance with orders
+[Line 2088] � If not ideal, cerebellum sends corrective signals to motor cortex via (cerebello- thalamo-cortical)
+[Line 2089] � Climbing fibers from inferior olivary nucleus modulate sensitivity of Purkinje cells to granule cell excitation allowing deep nuclei to send error signals
+[Line 2090] 2. braking effect: stop movements at precise intended point:
+[Line 2091] � assesses rate of movement, calculates time needed to reach intended point
+[Line 2092] � inhibitory impulses to motor cortex inhibit agonist and excite antagonist muscles.
+[Line 2093] 3. Function in performance of rapid movements:
+[Line 2094] * cerebral cortex or brain stem 1st increases deep nuclear excitation to enhance movement,
+[Line 2095] * after few ms inhibitory signals from Purkinje cells arrive: stop muscle very rapidly
+[Line 2096] 
+[Line 2097] 4. Planning and timing:
+[Line 2098] � cerebrocerebellum = lateral zones receive afferents from cortical association areas
+[Line 2099] � with other areas, plans movements: sends signals to motor area of cerebral cortex.
+[Line 2100] � Smooth progression from movement to next depends on lateral cerebellum: plans next movement at time the present is occurring.
+[Line 2101] � also provides appropriate timing for each movement.
+[Line 2102] � lesion: inability to judge distance moved by particular part in given time.
+[Line 2103] B.  ?Other functions:
+[Line 2104] 1. in equilibrium:
+[Line 2105] � flocculondular  lobe connected by a feedback circuit with vestibular apparatus.
+[Line 2106] � Inputs from vestibular apparatus used by cerebellum to send signals to brain stem (reticulospinal and vestibule spinal tracts) :
+[Line 2107] maintain equilibrium through changes in tone of axial and girdle muscles.
+[Line 2108] � Lesion: disturbance of equilibrium.
+[Line 2109] 2. in muscle tone:
+[Line 2110] � neocerebellum is facilitatory while paleocerebellum inhibitory to stretch reflex.
+[Line 2111] � Its feedback time is longer than simple cord stretch reflex: prolongs effect.
+[Line 2112] � Helps in maintenance of posture.
+[Line 2113] 
+[Line 2114] > "Neocerebellar syndrome":
+[Line 2115] * manifestations on same side of lesion because: each cerebellum hemisphere acts on ipsilateral muscles: dentato-rubrospinal tract is a double crossing tract:
+[Line 2116] - arises from dentate nucleus and passes to red nucleus of opposite side.
+[Line 2117] - From red nucleus of each side arises rubrospinal tract, which crosses to opposite side and passes down brain stem to spinal cord.
+[Line 2118] * manifestations:
+[Line 2119] A. Ataxia: incoordination of movements in absence of paralysis:
+[Line 2120] due to errors in rate, range, force and direction of movement. damage of:
+[Line 2121] 1. Cerebellar cortex: If only i nvolved: abnormalities gradually disappear .
+[Line 2122] 2. cerebellar nuclei : generalized permanent defects
+[Line 2123] B. Others :
+[Line 2124] 1. Disturbance of posture: head tilted &patient tends to fall to side of lesion
+[Line 2125] 2. Gait: wide-based, unsteady drunken gait.
+[Line 2126] 3. Slurred or scanning speech: due to defects of skilled movements
+[Line 2127] 4. Dysmetria or past-pointing: voluntary movements are abnormal e.g. attempting to touch an object with a finger results in overshooting to one side or the other.
+[Line 2128] � tested by finger- nose test.
+[Line 2129] 5. Intention tremor :
+[Line 2130] � Dysmetria, initiates correction action, but correction overshoot to the other side.
+[Line 2131] � finger oscillates back and forth causing tremors.
+[Line 2132] � Kinetic: absent at rest and appears during voluntary action
+[Line 2133] 
+[Line 2134] 6. Rebound phenomenon = Inability to brake (to stop movement promptly):
+[Line 2135] � Test: Normally, flexion of forearm against resistance is quickly checked when resistance force is suddenly broken off.
+[Line 2136] � in cerebellar disease: can not brake movement of limb: forearm flies backward.
+[Line 2137] 7. Adiadokokinesia: inability to perform rapidly alternating opposite movements such as repeated pronation and supination.
+[Line 2138] 8. Decomposition of movements: Difficulty in actions involving simultaneous motion at more than one joint. (tested by heel-knee test).
+[Line 2139] 9. Nystagmus: tremor of eye ball due to absence of damping function.
+[Line 2140] � When patient attempts to fix gaze on object to side of his head (Horizontal).
+[Line 2141] 10. Hypotonia: due to marked decrease of facilitatory effect on stretch reflex.
+[Line 2142] � knee jerk is reduced and pendular
+[Line 2143] 
+[Line 2144] Control of voluntary movement
+[Line 2145] * Signals initiating voluntary movement start in cortical association areas
+[Line 2146] * movements planned in: premotor cortex, basal ganglia and lateral cerebellar hemisphere.
+[Line 2147] * planned movements coded in terms of movements rather than muscle contractions.
+[Line 2148] 
+[Line 2149] Electric activity of brain:
+[Line 2150] I. Evoked cortical responses:
+[Line 2151] * produced in cortex in response to stimulation of a receptor
+[Line 2152] * electrodes placed on surface of cerebral cortex of an anaesthetized animal
+[Line 2153] * consists of 2 positive waves separated by a negative wave
+[Line 2154] II. spontaneous potential	" E l e c t r o - e n c e p h a l o g r a m ( E E G ) " :
+[Line 2155] * setting: calm room at a comfortable temperature with complete physical and mental rest
+[Line 2156] * recorded by applying electrodes on scalp.
+[Line 2157] * Normal EEG waves:
+[Line 2158] 
+[Line 2159] Alpha
+[Line 2160] Beta
+[Line 2161] Theta
+[Line 2162] Delta
+[Line 2163] 1. Frequency
+[Line 2164] 8-13 Hz
+[Line 2165] 18-30Hz	,
+[Line 2166] 4-7 Hz
+[Line 2167] 1-3 Hz
+[Line 2168] 2. Amplitude
+[Line 2169] 50 �v
+[Line 2170] 20 �v
+[Line 2171] 100 �v
+[Line 2172] 100 �v
+[Line 2173] 3. Age
+[Line 2174] Adult
+[Line 2175] Adult
+[Line 2176] Children
+[Line 2177] Infancy
+[Line 2178] 4. Recorded
+[Line 2179] Parieto-occipital
+[Line 2180] Frontal
+[Line 2181] Parietal
+[Line 2182] &Temporal
+[Line 2183] --
+[Line 2184] 5. State of person
+[Line 2185] -Physical and mental rest
+[Line 2186] -Awake with eyes dosed
+[Line 2187] Intense activation of CNS (thinking and tension)
+[Line 2188] Adult under
+[Line 2189] Emotional stress
+[Line 2190] Adults during deep sleep
+[Line 2191] N.B.
+[Line 2192] 1. theta and delta waves in an adult during waking =abnormality.
+[Line 2193] 2. hyperventilation decreases frequency of alpha waves, becomes theta or delta.
+[Line 2194] 
+[Line 2195] * Desynchronization" or alpha block" arousal or alerting response":
+[Line 2196] o replacement of regular alpha rhythm with irregular low-voltage activity beta:
+[Line 2197] * eyes closed: synchronous discharge of many cerebral neurons produces alpha
+[Line 2198] * eyes opened: faster low voltage irregular beta waves
+[Line 2199] o called "arousal or alerting response" because it is correlated with alert state.
+[Line 2200] o Called "de-synchronization" because it represents breaking up of the synchronized neural activity necessary to produce regular waves.
+[Line 2201] * Clinical Uses of EEG:
+[Line 2202] 1. Localizing brain tumors:
+[Line 2203] a. Large: blocks (reduces)electric activity from portion of cerebral cortex
+[Line 2204] b. Smaller: compresses and excites areas surrounding tumor: very high voltage.
+[Line 2205] 2. Diagnosis of epilepsy
+[Line 2206] 3. Diagnosis of sleep disorders.
+[Line 2207] 4. Confirmation of brain death (flat EEG)
+[Line 2208] 
+[Line 2209] Arousal Mechanism "Wakefulness"
+[Line 2210] > reticular activating system (RAS):
+[Line 2211] * function: Control brain activity, consciousness, alertness and electric activity
+[Line 2212] * composed of multi-synaptic pathway within reticular formation of brain stem.
+[Line 2213] * Somebranchespassdirectlybut mostsynapsein non-specific thalamic nuclei before passing to cortex.
+[Line 2214] * Factors affecting activity of RAS:
+[Line 2215] increase RAS activity
+[Line 2216] decrease RAS activity
+[Line 2217] 1. ascending impulses from sensory pathways: Pain and proprioception are particularly effective.
+[Line 2218] 2. Descending impulses from cortex: Emotions and voluntary movements.
+[Line 2219] 3. Epinephrine and norepinephrine secreted
+[Line 2220] from adrenal medulla.
+[Line 2221] 1. Impulses from sleep producing centers of reticular formation.
+[Line 2222] 2. Lesions damage brain stem: vascular lesions, poisons, tumors and hypoxia.
+[Line 2223] 3. Drugs e.g. barbiturates (cause hyperpolarization of neurons).
+[Line 2224] > SLEEP
+[Line 2225] * loss of consciousness from  which a person can be aroused by proper stimuli.
+[Line 2226] * alert wakefulness characterized by high-frequency beta waves.
+[Line 2227] * Quiet wakefulness ( relaxed with eyes closed) expresses alpha waves
+[Line 2228] * This is followed by:
+[Line 2229] A. Slow-wave sleep (non-rapid eye movement "non-REM"):
+[Line 2230] o Stage 1: low-voltage and hiqh frequency waves
+[Line 2231] o Stage 2: sleep spindles (bursts of alpha- like waves).
+[Line 2232] o Stage3: lower frequency and increased amplitude of waves.
+[Line 2233] o Stage 4: maximum slowing with larger waves is seen.
+[Line 2234] deep sleep charcterized by rhythmic slow waves with marked synchronization.
+[Line 2235] 
+[Line 2236] B. Rapid eye movement sleep (REM sleep)
+[Line 2237] 
+[Line 2238] 
+[Line 2239] Non- REM
+[Line 2240] REM
+[Line 2241] occurrence
+[Line 2242] Most of sleep 80%
+[Line 2243] ( 5-30) min following every
+[Line 2244] 90 min of Non- REM20%
+[Line 2245] Eye Movement
+[Line 2246] Eyes deviate up
+[Line 2247] Rapid eye movement
+[Line 2248] Talking &Walking
+[Line 2249] Present
+[Line 2250] Absent
+[Line 2251] Dreams
+[Line 2252] Present but not remembered
+[Line 2253] (not consolidated in Memory).
+[Line 2254] Present and remembered
+[Line 2255] Threshold of awaking
+[Line 2256] Low
+[Line 2257] High
+[Line 2258] HR, RR, ABP &MR.
+[Line 2259] decreased
+[Line 2260] Increased
+[Line 2261] Muscle Tone
+[Line 2262] Hypotonia
+[Line 2263] Marked hypotonia
+[Line 2264] EEG
+[Line 2265] theta & delta with sleep spindles
+[Line 2266] Irregular fast, low waves(Beta)
+[Line 2267] 
+[Line 2268] * Distribution of sleep stages:
+[Line 2269] o young adult enters NREM sleep:
+[Line 2270] * passes through stage 1 and 2 then spends 70-100 minutes in stages 3 and 4.
+[Line 2271] o then a REM period follows (four to six periods per night).
+[Line 2272] o cycle repeated at intervals of 90 min throughout the night.
+[Line 2273] o percentage of REM sleep falls as we approach old age
+[Line 2274] * Mechanisms of sleep
+[Line 2275] a. Wakefulness: tonic discharge to cortex to promote wakening when depolarized by:
+[Line 2276] 1) tuberomamillary nucleus of posterior hypothalamus
+[Line 2277] 2) locus coerulus
+[Line 2278] 3) dorsal raphe
+[Line 2279] 4) Acetyl choline in RAS
+[Line 2280] 5) Neuropeptide "orexin " from hypothalamus
+[Line 2281] 
+[Line 2282] > Sleep disorders:
+[Line 2283] 1. Insomnia: insufficient sleep due to psychological factors (anxiety) or analeptics (coffee)
+[Line 2284] 2. Somnambulism: "sleep walking": eyes opened, and avoid obstacle and when awaken can not remember (More common in male children).
+[Line 2285] 3. Narcolepsy: Irresistible sleep during daytime activities
+[Line 2286] * Starts with sudden onset of REM sleep.
+[Line 2287] 4. Sleep apnea: Caused by obstruction of airways during sleep.
+[Line 2288] 5. REM behavior disorder: Hypotonia fails to occur: patients act out their dreams (jump)
+[Line 2289] 
+[Line 2290] Thalamus
+[Line 2291] * highest sub cortical sensory centre, made up of nuclei divided into:
+[Line 2292] 1. Non- specific thalamic nuclei:
+[Line 2293] o midline and intralaminar nuclei.
+[Line 2294] o Receive signals from: the reticular activating system (RAS).
+[Line 2295] o Project to: all areas of the cerebral cortex.
+[Line 2296] 2. Specific thalamic nuclei:
+[Line 2297] o postero ventral, medial and lateral geniculate bodies and anterior thalamic
+[Line 2298] o Receive: sensory, visual and auditory from spinal neurons and brain stem nuclei.
+[Line 2299] o Project to: specific sensory areas of cerebral cortex:
+[Line 2300] * somatosensory inputs are relayed in the postero-ventral nuclei
+[Line 2301] * medial and lateral geniculate bodies for auditory and visual sensations.
+[Line 2302] o Other thalamic nuclei receive signals from:
+[Line 2303] * hypothalamus relayed to the limbic system
+[Line 2304] * basal ganglia and cerebellum are projected to the motor cortex
+[Line 2305] > Functions:
+[Line 2306] 1. relay station for all types of sensation (except olfaction):
+[Line 2307]  on their way to their respective centers in the cerebral cortex. e.g. crude somatic, pain, temperature, visual and auditory sensation.
+[Line 2308] 2. relays signals of motor function from basal ganglia and cerebellum to motor areas.
+[Line 2309] 3. relays autonomic signals and those related to emotional reactions through their ways to the hypothalamus and limbic system.
+[Line 2310] 4. role in coding, storing and recalling memories.
+[Line 2311] 5. excitability of cortex by Impulses from non-specific thalamic nuclei.
+[Line 2312] > Thalamic Syndrome:
+[Line 2313] * Cause: thrombosis of arterial supply of thalamus,
+[Line 2314] * Result: damage of posterior nuclei, leaving medial and anterior intact.
+[Line 2315] * presentation:
+[Line 2316] 1) Loss of all sensation on opposite side.
+[Line 2317] 2) Sensory ataxia similar to that seen in tabes dorsalis.
+[Line 2318] 3) 2ry hyperalgesia:
+[Line 2319] * pain threshold increased but pain is prolonged, severe and very unpleasant.
+[Line 2320] * due to increased sensitivity of medial nuclei to pain impulses.
+[Line 2321] 4) Emotional disturbance
+[Line 2322] 
+[Line 2323] Hypothalamus
+[Line 2324] * Functions :
+[Line 2325] 1. Autonomic functions
+[Line 2326] o anterior nuclei produces parasympathetic effects,
+[Line 2327] o posterior dorsomedial and lateral nuclei produces sympathetic effects.
+[Line 2328] 2. Food intake regulation: balance between two centers:
+[Line 2329] a. feeding centre: in lateral hypothalamus (hunger).
+[Line 2330] b. satiety centre: in ventromedial nucleus (anorexia).
+[Line 2331] 3. Control of sexual function: influence anterior pituitary
+[Line 2332] 4. Body water regulation thirst centre in supra-optic region
+[Line 2333] 5. Temperature regulation
+[Line 2334] a. responses to cold (Cusanecus VC, shivering) by posterior hypothalamus.
+[Line 2335] b. Heat - l osing ( Cutaneous VD & sweating) by anterior hypothalamus
+[Line 2336] 6. Behavioral function (part of limbic system):
+[Line 2337] o concerned with affective nature of sensation.
+[Line 2338] o certain areas pleases while others cause unpleasant response (terror, pain, fear)
+[Line 2339] 7. Defensive reaction (part of limbic system):
+[Line 2340] o i nvolved i n rage and fear.
+[Line 2341] 8. Relation to cyclic phenomenon
+[Line 2342] adjusts bodily rhythms to the 24- hour light-dark cycle (circadian rhythm).
+[Line 2343] 9. Neuro-endocrine function
+[Line 2344] a. posterior pituitary: synthesisof ADH and oxytocin.
+[Line 2345] b. Control of anterior pituitary: releasing and inhibiting hormones
+[Line 2346] 10. Wakefulness and sleep
+[Line 2347] a. part of RAS: initiates and maintains wakefulness.
+[Line 2348] b. anterior hypothalamus promotes sleep.
+[Line 2349] 
+[Line 2350] > Speech: Understanding spoken and printed words, besides expressing ideas in speech and written words.
+[Line 2351] * highest function of nervous system.
+[Line 2352] * Aphasia: abnormalities of speech (language) functions due to injury of speech (language) centers.
+[Line 2353] * usually follows thrombosis or embolism of cerebral vessels.
+[Line 2354] 
+[Line 2355] Speech Center
+[Line 2356] function
+[Line 2357] Type of aphasia
+[Line 2358] Defect
+[Line 2359] 
+[Line 2360] primary visual
+[Line 2361] cortex (Area 17)
+[Line 2362] enables to see visual images e.g.
+[Line 2363] written
+[Line 2364] 
+[Line 2365] 
+[Line 2366] 
+[Line 2367] primary auditory
+[Line 2368] cortex (Area 41,42)
+[Line 2369] enables to hear spoken words
+[Line 2370] 
+[Line 2371] 
+[Line 2372] 
+[Line 2373] auditory association area (Area 22)
+[Line 2374] Enables to understand sounds or spoken words
+[Line 2375] Auditory
+[Line 2376] = word deafness
+[Line 2377] unable to understand spoken words
+[Line 2378] 
+[Line 2379] visual associationarea
+[Line 2380] (Area 18, 19)
+[Line 2381] Enables to understand meaning of written words
+[Line 2382] Visual aphasia
+[Line 2383] = word blindness
+[Line 2384] unable to understand written words
+[Line 2385] 
+[Line 2386] General
+[Line 2387] Interpretative " Wernick' s
+[Line 2388] area"
+[Line 2389] - in	superior	temporal	lobe
+[Line 2390] (somatic, visual and auditory association areas meet).
+[Line 2391] - much more developed in one cerebral hemisphere than other.
+[Line 2392] - interpretation of auditory and visual
+[Line 2393] information to expressed thought
+[Line 2394] Wernicke's
+[Line 2395] aphasia
+[Line 2396] = Fluent aphasia
+[Line 2397] - unable to interpret	spoken or written
+[Line 2398] words or express thoughts into words.
+[Line 2399] - Meaningless excessive talk	is characteristic.
+[Line 2400] 
+[Line 2401] Broca's area "Area
+[Line 2402] 44"
+[Line 2403] 
+[Line 2404] Broca's aphasia
+[Line 2405] = Non-fluent
+[Line 2406] = Motor aphasia
+[Line 2407] - Unable to produce words instead of noises
+[Line 2408] - speech	poorly articulated, slowly with great	effort.	(two or three words)
+[Line 2409] 
+[Line 2410] Hand skill area "Exner's area"
+[Line 2411] 
+[Line 2412] Motor apraxia
+[Line 2413] = Agraphia
+[Line 2414] - unable to express thoughts by written words in absence of paralysis.
+[Line 2415] - Hand movements uncoordinated & useless.
+[END]
