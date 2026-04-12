@@ -110,6 +110,9 @@ We still needed a way to grade these models based on their answers, of course th
 * **+++ Points** for every extra useful context that the model tries to find beside the main context that has the answer (it indicates understanding of the question and its point, and it tries to give back any info that may help understanding the question, even if they’re not necessarily in the same part of the document)
 
 **The score was:**
+
+[![final-llm-results.png](https://i.postimg.cc/0yjQb4fK/final-llm-results.png)](https://postimg.cc/YvckPbTt)
+
 * 1st Place: ClaudeAI’s Sonnet 4.6 Extended model, with **409 Points and 0 Failures** .
 * 2nd Place: Gemini’s 3.1 Pro model, with **355 Points and 4 Failures** .
 * 3rd Place: Gemini’s 3 Flash model, with **153 Points and 27 Failures** .
@@ -122,5 +125,7 @@ There were also a few questions that none of the LLMs could answer, and these we
 Here we should’ve provided all of the answers and showing the LLM which of these where the correct answer. but these reverse questions, where the reader is required to find the wrong answer; does not work as intended when the context of other correct answers are removed and only left with the one (wrong) but correct answer.
 
 Finally, we did feed these results back to the LLMs to see how they would reflect on them; it was kind of funny but also good.
+
+[![LLMs-grading.png](https://i.postimg.cc/14xgpr3X/LLMs-grading.png)](https://postimg.cc/N24ftTTv)
 
 I’m still confident that we’d get a lot more accurate and better answers if we provided the LLMs with this point system in the prompt instead of surprising them with a point grading system that they did not know exists, but we’re not about to put another 2-3 days just to test out another hypothesis, these results were good enough for the time being.
