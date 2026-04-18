@@ -1,0 +1,762 @@
+[DOC_START]
+[Page 1]
+[Line 1]: Physiology
+[Line 2]:    for 1st year medical students
+[Line 3]:   Sensory
+[Line 4]:          A.F.2023
+[Line 5]: A.F. 2023                     1
+[Page 2]
+[Line 6]: ❖   Anatomical Organization of the nervous system:
+[Line 7]: 1-   Central Nervous System (CNS): brain and spinal cord.
+[Line 8]: •    contains centers for integration of inputs and for production of output signals.
+[Line 9]: •    three major levels:
+[Line 10]:      a.  Spinal cord level:       for immediate automatic activities as withdrawal reflexes
+[Line 11]:          and evacuation of bladder and rectum.
+[Line 12]:      b.  Lower Brain Level: control of subconscious activities as CVS and respiratory
+[Line 13]:          functions, maintenance of posture and equilibrium ……...
+[Line 14]:      c.  Higher Brain or Cortical Level:  control of motor and sensory functions and
+[Line 15]:          others as: thinking, learning, memory and speech.
+[Line 16]: 2-   Peripheral Nervous System (PNS): subdivided into:
+[Line 17]:       a.  Sensory Division: (Afferent)
+[Line 18]:       b.  Motor Division: (Efferent): further subdivided into:
+[Line 19]:          •  Somatic: controls voluntary movements as skeletal muscles.
+[Line 20]:          •  Autonomic:       controls  involuntary  functions  as         viscera,  smooth  muscles,
+[Line 21]:             cardiac muscles and glands.
+[Line 22]:                                         Synaptic Transmission
+[Line 23]: •   Definition: transmission of impulse (action potential) from one neuron to another
+[Line 24]:     along a synapse.
+[Line 25]: •   Synapse: junction between 2 neurons: axon terminal of one neuron (presynaptic
+[Line 26]:     neuron) and a second neuron (post synaptic neuron).
+[Line 27]: ❖   types of synaptic transmission:
+[Line 28]: 1-  Electric: neurons are communicated by low-resistance gap-channel pathway →
+[Line 29]:     passage of electric current directly.
+[Line 30]:     N.B.: rare in humans and is common in invertebrates.
+[Line 31]: 2-  Chemical: release of a chemical substance (neurotransmitter).
+[Line 32]: ➢   Functions of Synapses:
+[Line 33]:             a.   Facilitating transmission.
+[Line 34]:             b.     Blocking transmission.
+[Line 35]:             c.   Amplification of impulses.
+[Line 36]:             d.   Distribution of impulses.
+[Line 37]:             e.   Changing one impulse to repetitive impulses.
+[Line 38]:             f.   Integration between different types of neurons.
+[Line 39]:             g.   Interpretation, processing and Storage of information.
+[Line 40]: N.B.  synapses are dynamic structures:            increasing and decreasing in complexity and
+[Line 41]: number with use and experience.
+[Line 42]:       A.F. 2023                                                                                         2
+[Page 3]
+[Line 43]: ➢   Functional Anatomy of a Synapse
+[Line 44]:  1) Presynaptic Terminal: (or synaptic knob): contains:
+[Line 45]:     a.  mitochondria: provides ATP for synthesis and exocytosis of transmitters.
+[Line 46]:     b.   A large number of synaptic vesicles contain synaptic transmitters. three types:
+[Line 47]:          1.  Small clear      for  rapidly acting transmitters e.g. acetyl choline, glycine,
+[Line 48]:              glutamate and GABA.
+[Line 49]:          2.  Small granular containing catecholamines.
+[Line 50]:          3.  Large granular contain slowly acting neuropeptides.
+[Line 51]:  (2) synaptic cleft: space containing ECF rich in Na+, Cl- poor in K+.
+[Line 52]: (3) postsynaptic membrane (PSM): contains Receptors for neurotransmitters. types:
+[Line 53]:     a.  Ionotropic receptors:         part of   Ligand-gated       ion channels:       affect neuronal
+[Line 54]:         activity directly
+[Line 55]:     b. Metabotropric receptors: (mostly G protein coupled receptors) affect activity
+[Line 56]:         neuron    indirectly     by   second  messenger         e.g.   cAMP:      slower     and   more
+[Line 57]:         prolonged effects, as:
+[Line 58]:             a. Open or close specific ion channels.
+[Line 59]:             b. Activate enzymes e.g. protein kinases: phosphorylation of proteins.
+[Line 60]:             c. Activate gene transcription: formation of new proteins.
+[Line 61]:                                Mechanism of Synaptic Transmission
+[Line 62]: 1-   Release of chemical transmitter from presynaptic nerve:
+[Line 63]:     •   Arrival of action potential opens voltage-gated Ca++ channels
+[Line 64]:     •   Ca++ enters knob according to concentration and electric gradients.
+[Line 65]:     •   Influx of Ca++ triggers binding of SNARE proteins:
+[Line 66]:             o   V- SNARE (Synaptobrevin) on synaptic vesicle.
+[Line 67]:             o    T- SNARE (Syntaxin) on presynaptic membrane
+[Line 68]:     •   exocytosis of chemical transmitter into the synaptic cleft.
+[Line 69]:     •   N.B.: amount of transmitter is proportional to amount of Ca++ entered.
+[Line 70]: 2- Binding of Transmitter with its Receptors: changes permeability to ions.
+[Line 71]: 3- Generation of Postsynaptic Potential: Change in ion fluxes leads to change in its
+[Line 72]: membrane potential → may become:
+[Line 73]:          a.  less negative = excitatory postsynaptic potential. (EPSP).
+[Line 74]:          b.  more negative = inhibitory postsynaptic potential. (IPSP).
+[Line 75]:        magnitude  and  duration       of  EPSP  and  IPSP  depends  on  amount  of  released
+[Line 76]:       Neurotransmitter. “not All or None”.
+[Line 77]: 4- Removal of Neurotransmitters from the Synaptic Cleft:
+[Line 78]:       a.  Passive diffusion away from synaptic cleft
+[Line 79]:       b.  Inactivation by specific enzymes within synaptic cleft, e.g. acetyl choline
+[Line 80]:       c.  Active reuptake into axon terminals, e.g. catecholamines, dopamine, serotonin.
+[Line 81]:       d.  Removal by glial cells.
+[Line 82]:       A.F. 2023                                                                                        3
+[Page 4]
+[Line 83]:                                                                  Types of Synaptic Potentials
+[Line 84]:                                                                   Postsynaptic potentials
+[Line 85]:                  1. Excitatory postsynaptic potential [EPSP]:                              2. Inhibitory Postsynaptic Potential [IPSP]
+[Line 86]:  Definition      local state of partial depolarization                                     local state of hyperpolarization
+[Line 87]:  Ionic           •  excitatory     neurotransmitter  binding  to  receptor            →    •   inhibitory     neurotransmitter  bind  with  receptor           →
+[Line 88]:  basis              opening of ligand gated Na+(or Ca++) channels                              opening of ligand gated K+ or Cl-channels or closure of
+[Line 89]:                  •  inside of cell membrane less negative → nearer to firing                   Na+ (or Ca++) channels.
+[Line 90]:                     level  → more excitable.                                               •   inside of the cell membrane         more negative       →   away
+[Line 91]:                  •  membrane facilitated i.e. needs a weaker stimulus to be                    from firing level (threshold) → less excitable.
+[Line 92]:                     excited than at rest.                                                  •   membrane is inhibited i.e. needs a stronger stimulus.
+[Line 93]:  amplitude                                                                            1-  5 mv
+[Line 94]:  Duration                                            reaches a maximum after 1-5 msec then gradually declines
+[Line 95]:  N.B.:           does not obey all or none rule = graded: Magnitude and duration depends on amount of neurotransmitter
+[Line 96]: ❖   Summation: EPSPs have to be summated to reach threshold. Types
+[Line 97]:     1-  Temporal (Time): rapid repetitive stimuli originating from ONE presynaptic neuron
+[Line 98]:     2-  Spatial (Space): multiple simultaneous stimuli from MANY presynaptic neurons
+[Line 99]:         N.B.: IPSP can be summated
+[Line 100]:                                    A.F. 2023                                                                                        4
+[Page 5]
+[Line 101]: 3. Grand Post-Synaptic Potential (GPSP): sum of all EPSPs and IPSPs (neuron receives thousands of presynaptic inputs)
+[Line 102]: ❖   possible outcomes:
+[Line 103]: 1. EPSPs = IPSPs → postsynaptic membrane potential will remain at resting level.
+[Line 104]: 2.  EPSPs < IPSPs → postsynaptic away from threshold and membrane inhibited
+[Line 105]: 3.  EPSPs > IPSPs → postsynaptic neuron doesn’t reach threshold →membrane is facilitated or in an excitatory state.
+[Line 106]: 4.  EPSPs > IPSPs → postsynaptic neuron reach threshold → action potential.
+[Line 107]: Example: micturition reflex is influenced by many signals but the response will vary:
+[Line 108]:     a-  Sensory signals from receptors in urinary bladder.
+[Line 109]:     b-  Facilitatory and Inhibitory signals from brain stem.
+[Line 110]:     c-  Voluntary control from the cerebral cortex.
+[Line 111]:                                                                   Presynaptic Potentials
+[Line 112]:     •   release of NT from presynaptic affected by a third neuron.
+[Line 113]:     •   N.B.: 3rd neuron synapses axoaxonically with excitatory presynaptic neuron before it reaches the synapse.
+[Line 114]:                       Presynaptic Inhibition                                               Presynaptic Facilitation
+[Line 115]:     THIRD             inhibitory      releases   an   inhibitory   transmitter   (e.g      excitatory  neuron  releases       “serotonin"      →    increases
+[Line 116]:     NEURON            GABA), which either opens Cl- or K+ channels.                        cAMP     in the presynaptic terminals →           phosphorylates
+[Line 117]:                                                                                            K+ channels and closes them.
+[Line 118]:     presynaptic       hyperpolarize →         reduced Ca++       influx   →   reduced      delays repolarization = prolongation of depolarization:
+[Line 119]:     membrane          release of NT and transmission from the presynaptic to               voltage gated Ca++ channels opened for a longer period
+[Line 120]:                       the postsynaptic neuron                                              → Ca++ influx → increases release of NT
+[Line 121]:     Example           pain inhibiton                                                       Sensitization of memory
+[Line 122]:     significance      ↑ neurotransmitter release from presynaptic                          Selective block of synapse without affecting postsynaptic
+[Line 123]:                                                                                            neuron excitability
+[Line 124]:                                   A.F. 2023                                                                                      5
+[Page 6]
+[Line 125]: ➢   Initiation of Action Potentials at the Axon Hillock: -
+[Line 126]: •   Few Voltage gated Na+ channels are present in cell body and dendrites, but numerous in axon hillock
+[Line 127]: •   EPSPs occurring on cell body or dendrites spread electrotonically (by current sink) → axon hillock: initiating an action potential
+[Line 128]:                                                            Factors affecting synaptic transmission
+[Line 129]:    1- Changes in internal environment:
+[Line 130]:      a.  pH:
+[Line 131]:         •   Alkalosis: increases neurons excitability & facilitates transmission: decrease ionized Ca++. (may lead to convulsions: if
+[Line 132]:             epileptic patient hyperventilates, this may precipitate a fit)
+[Line 133]:         •   Acidosis: decreases synaptic transmission due to increase ionized Ca++ (may lead to coma, e.g. in diabetic Ketoacidosis).
+[Line 134]:      b.  Hypoxia: inhibits synaptic transmission: interruption of cerebral circulation for 3-5 seconds may cause unconsciousness &
+[Line 135]:          prolonged ischemia for minutes cause brain damage.
+[Line 136]:      c.  Hypoglycemia: inhibits synaptic transmission (Glucose is the main fuel of brain)
+[Line 137]:      d.  Hypocalcemia: facilities transmission as it increases excitability of the post synaptic membrane (leading to tetanic convulsions)
+[Line 138]:   2- Drugs: Most of the drugs act on the CNS alter synaptic mechanism, e.g.:
+[Line 139]:      a. Theophylline, theobromine, and caffeine ↑ transmission by depolarizing the postsynaptic membrane.
+[Line 140]:      b. Analgesics, hypnotics and anaesthetics: ↓ transmission = stabilizing membrane causing hyperpolarization or by interference
+[Line 141]:         with synthesis, release or reuptake of certain neurotransmitters.
+[Line 142]:      c. Strychnine: ↑↑↑↑ transmission: competes with inhibitory transmitters leaving excitatory pathways unaffected: convulsions.
+[Line 143]:     3- Diseases:
+[Line 144]:                                     Tetanus toxin                                                                  Botulism toxin
+[Line 145]:         prevents release of inhibitory GABA (or glycine)                            blocks release of excitatory Acetyl Choline
+[Line 146]:         spastic paralysis:  spasm occurs especially in jaw muscles                  flaccid paralysis
+[Line 147]:         → lock jaw then affects respiratory muscles →death.
+[Line 148]:                                    A.F. 2023                                                                                          6
+[Page 7]
+[Line 149]:                                                           Characters of Synaptic Transmission
+[Line 150]: I- Forward (uni) direction: from presynaptic to postsynaptic neurons (neurotransmitters released from presynaptic).
+[Line 151]: II- Synaptic delay: time taken by an impulse to be conducted through the synapse. It equals about                            0.5 m. sec: so we can calculate
+[Line 152]: number of synapses
+[Line 153]: III- Fatigue: decreased impulses discharged after repetitive stimulation. due to:
+[Line 154]:     1.  Exhaustion of synaptic vesicles in the presynaptic terminals.
+[Line 155]:     2.   Inactivation of postsynaptic receptors.
+[Line 156]:     •   Benefit: stabilize the nervous system e.g. stopping discharge from overexcited areas in CNS during epileptic seizures.
+[Line 157]: IV- Synaptic plasticity: ability to change function according to demand (synaptic transmission strengthened or weekened)
+[Line 158]: ❖   represent forms of learning and memory.
+[Line 159]: ❖    Forms of Synaptic Plasticity
+[Line 160]:                    Post tetanic potentiation (PTP):                                         Habituation                               Sensitization
+[Line 161]:   Definition       Continuous discharge from postsynaptic                     Gradual loss of response to                  Augmented response of
+[Line 162]:                    neuron after brief tetanizing stimuli by                   repeated benign stimuli                      postsynaptic to benign stimuli
+[Line 163]:                    presynaptic neuron                                                                                      if coupled with a noxious one.
+[Line 164]:    Duration                      few seconds to minutes                                                        Up to 3 weeks
+[Line 165]:   Ionic basis      repetitive stimulation → accumulation of                   gradual inactivation of Ca2+                 (presynaptic           facilitation):
+[Line 166]:                    Ca2+ in presynaptic neuron → more release of               channels in presynaptic → ↓Ca2+              ……..
+[Line 167]:                    neurotransmitter                                           → ↓ release of neurotransmitter
+[Line 168]:  Importance        mechanism of immediate memory as                             Neglecting unimportant stimuli             1.  In  memory
+[Line 169]:                    telephone number (7-10 digits)                                  e.g. noises and focusing on             2.  defensive response to avoid
+[Line 170]:                                                                                           important ones                       injury
+[Line 171]:                                    A.F. 2023                                                                                         7
+[Page 8]
+[Line 172]:                                         Long term potentiation (LTP):                                            Long term depression (LTD)
+[Line 173]:  Definition          Persistent increase in synaptic strength after strong intensity high                   Persistent decrease in synaptic strength
+[Line 174]:                                                frequency stimulation                                           after weak intensity low frequency
+[Line 175]:                                                                                                                              stimulation
+[Line 176]: mechanism        •   Glutamate from presynaptic neuron binds to AMPA and NMDA receptors in postsynaptic membrane.
+[Line 177]:                  •   Activation of AMPA causes Na+ inflow: depolarizes postsynaptic membrane and relieves Mg++ block in NMDA
+[Line 178]:                      receptor channel, Ca++ enters neuron.
+[Line 179]:                  •   High intensity & frequency stimuli: rapid increase in cytoplasmic                  •   Low intensity & frequency stimuli slow
+[Line 180]:                      Ca++    activates  (Calmodulin  Kinase  II):          moves  more  AMPA                increase  in  cytoplasmic  Ca++        activates
+[Line 181]:                      receptors into postsynaptic membrane.                                                  (Calcineurin phosphatase I):        removal of
+[Line 182]:                                                                                                             AMPA from postsynaptic membrane
+[Line 183]: Importance       in various parts of CNS, specifically in hippocampus contributes to                     memory decay.
+[Line 184]:                  memory storage → learning & long term memory
+[Line 185]:    N.B.: Memory classification:
+[Line 186]:        1.  Short term: seconds to few minutes
+[Line 187]:        2.  Intermediate: up to 3 weeks
+[Line 188]:        3.  Long term: days, months  or even lifetime: requires structural changes in synapse as protein synthesis
+[Line 189]:    Memory consolidation: transformation of short term memory into long term by hippocampus to be stored in neocortex
+[Line 190]:                                  A.F. 2023                                                                                      8
+[Page 9]
+[Line 191]:                                                      Chemical Transmitters (Neuro-Transmitters)
+[Line 192]: •   endogenous chemical substances released from presynaptic neurons that transmit signals between neurons across a synapse
+[Line 193]: •   may act as a neurotransmitter in brain & as a hormone elsewhere
+[Line 194]: ❖   Types: More than 100 in two different groups:
+[Line 195]:                      Small molecule, rapidly acting transmitters                         Large molecules, slowly acting neuropeptides
+[Line 196]: synthesized in       presynaptic knobs                                                   in soma, then transported to the terminal knobs
+[Line 197]: stored in            small vesicles                                                      large granular vesicles
+[Line 198]: vesicles             recycled and reused                                                 autolyzed and not reused
+[Line 199]: released             rapidly in large amounts                                            slower in smaller amounts (but more potent)
+[Line 200]: receptors            ionotropic leading to rapid activation of ion channels              metabotropic  receptors          leading  to  activation  of  2nd
+[Line 201]:                                                                                          messenger system
+[Line 202]: responses            most of the acute actions e.g. transmission of sensory              more prolonged actions as, long term opening or closure
+[Line 203]:                      signals and motor signals to muscles                                of ion channels, changes in number of receptors or genes
+[Line 204]: types                a.   Acetyl choline                                                 a)   Hypothalamic releasing peptides: TRH, CRH.
+[Line 205]:                      b.   Amines: Norepinephrine, Dopamine, Serotonin                    b)   Pituitary peptides: GH, TSH, ADH
+[Line 206]:                      c.   Amino acid Neurotransmitters:                                  c)   Opioid peptides: endorphins, enkephalins.
+[Line 207]:                               •   Excitatory: Glutamate and Aspartate                    d)   GIT peptides: CCK, VIP, gastrin, secretin.
+[Line 208]:                               •   Inhibitory:  GABA and Glycine                          e)   Other   peptides:   substance   P,   Angiotensin   II,
+[Line 209]:                       d.           Gases:  Nitrous oxide (NO)                                 Neuropeptide Y, ANP, BNP.
+[Line 210]:                                                                                          f)   Purines: adenosine.
+[Line 211]:                                  A.F. 2023                                                                                       9
+[Page 10]
+[Line 212]:                                                         Organization of Neurons in Neuronal Pools
+[Line 213]: •   neuronal pool: collection of neurons carrying the same function in CNS
+[Line 214]: •   organizations are:
+[Line 215]:                          I.    Divergence                                                         II.    Convergence
+[Line 216]:  Definition            ONE neuron stimulates MANY neurons                                        MANY neurons stimulate ONE neuron
+[Line 217]:  Functions             a- in same direction: allows Amplification of signal, e.g.                a.  SUMMATION           of input    signals: intensification
+[Line 218]:                             one   motor cell in cortex supply many muscle fibers.                    of subthreshold signals to threshold to discharge.
+[Line 219]:                        b- in  different  directions:         allows    Distribution,  e.g.       b.  from different sources:         integration     of signals
+[Line 220]:                             painful stimulus:                                                        e.g. α motor neuron receives different excitatory
+[Line 221]:                              a) stimulates AHCs of muscles on both sides                             and inhibitory inputs
+[Line 222]:                              b) ascends to brain stem & sensory cortex
+[Line 223]: III.    Excitation field: neurons synapsing one afferent neuron.
+[Line 224]:       a) Discharge zone : Neurons in center receive large numbers of knobs: reach threshold and discharge nerve impulses.
+[Line 225]:       b) Facilitated zone( subliminal fringe ): Neurons in periphery receive few numbers of knobs: only facilitated
+[Line 226]:         N.B.: area of discharge zone and subliminal fringe depends on strength of stimulus: the stronger the wider the discharge zone
+[Line 227]: ❖    Facilitation phenomenon:
+[Line 228]:      overlap                         excitation fields of two inputs overlap at facilitation zones (subliminal fringe),
+[Line 229]:      outcome     (if stimulated      more than the sum of outcome when each neuron is stimulated separately
+[Line 230]:      simultaneously)
+[Line 231]:      function                        2 neighboring neurons facilitate each other
+[Line 232]:      example                         Referred pain
+[Line 233]:                                    A.F. 2023                                                                                      10
+[Page 11]
+[Line 234]: IV.     Inhibitory Circuits: for stabilizing nervous system by preventing excessive spread of signals.
+[Line 235]:                      1)   Lateral inhibition                                2)  Negative feedback inhibition                  3)  Reciprocal innervation
+[Line 236]:  Definition      only central neuron is stimulated while                When a motor neuron stimulated it                stimulation  of  one  muscle             and
+[Line 237]:                  neurons at the periphery are inhibited by              gives  off  recurrent  collateral  that          inhibition of its antagonist by one
+[Line 238]:                  inhibitory interneuron.                                synapse           with           Inhibitory      nerve.          (through         inhibitory
+[Line 239]:                                                                         Interneuron (Renshaw cell)             which     interneurons)
+[Line 240]:                                                                         terminates on motor neuron itself
+[Line 241]:  Function        Sharpening    of    sensation:           prevents      1)  Allows focusing and sharpening.              contracted muscle carry its function
+[Line 242]:                  blurring effect of the fringe fibers e.g.              2)  Dampens         activity    of    motor      unopposed eg. A painful stimulus
+[Line 243]:                  1.  Horizontal   cells   in   retina   inhibit             neurons     and     prevents     over        stimulates   flexors        and    inhibits
+[Line 244]:                      peripheral bipolar cells                               Excitation                                   extensors
+[Line 245]:                  2.  Tactile localization in skin
+[Line 246]:  V.     Activating Circuits: (After Discharge): Continued output discharge after stoppage of stimulation of input.:
+[Line 247]:      1)  Parallel circuits                                                 2)  Reverberatory (Oscillatory = closed circuits):
+[Line 248]:  •  excitatory  input  signal  reaches  output  through               •    output neuron sends collaterals to restimulate itself (positive feedback)
+[Line 249]:     many circuits of different number of interneurons.                •    May continue for a long period or even throughout whole life
+[Line 250]:  •  Synaptic  delay  leads  to  arrival  of  successive               •    base of wakefulness and sleep and other tonically discharging centers,
+[Line 251]:     impulses to output.                                                    e.g. respiratory centers.
+[Line 252]:  •  Function:     prolongation of signal discharge after              •    Duration determined by:
+[Line 253]:     input signal is over                                                   1)  Number of synapses in the circuit
+[Line 254]:  •  Example: while looking at image , we don’t notice                      2)  Fatigue of synapses.
+[Line 255]:     when we blink                                                          3)  Facilitatory or inhibitory impulses entering the circuit.
+[Line 256]:                                     A.F. 2023                                                                                          11
+[Page 12]
+[Line 257]:                                                             SENSORY NERVOUS SYSTEM
+[Line 258]: ❖   Sensation: conscious awareness of stimulus (Information) by sensory system
+[Line 259]: ❖   Perception: understanding of the sensation’s meaning.
+[Line 260]:                                                                         Sensory Receptors
+[Line 261]: ❖   Definitions:
+[Line 262]:     •   Sensory receptor: specialized (modified) structure at peripheral termination of afferent nerve fibers.
+[Line 263]:     •   Sensory unit: single sensory afferent with all its receptor endings.
+[Line 264]:     •   Receptive field of a neuron: region which contains all the receptor endings of a sensory neuron (stimulus produces a response
+[Line 265]:         in that afferent neuron).
+[Line 266]: ❖   Functions:
+[Line 267]:     1- Detectors: detect stimuli (changes in the internal or external environment).
+[Line 268]:     2- Transducers: transform energy in stimulus (chemical, mechanical, etc) into electrical energy (receptor potential).
+[Line 269]:     3- Generators: generation of action potential (nerve impulses) in the sensory nerves
+[Line 270]: N.B.: Signal Transduction: process by which a stimulus is transformed into an electrical response
+[Line 271]: ❖   Properties of receptors:
+[Line 272]: [1] Specificity:
+[Line 273]: •   Each type of receptor is highly sensitive to one specific type of stimulus = adequate stimulus “e.g. light, sound, pressure, etc.”.
+[Line 274]: •   Receptors respond to other stimuli but:
+[Line 275]:     1)   much higher strength
+[Line 276]:     2)  sensation perceived is that of adequate stimulus.
+[Line 277]:     e.g. rods and cones in retina can respond to a strong mechanical stimulus, but give sensation of light
+[Line 278]:                                    A.F. 2023                                                                                        12
+[Page 13]
+[Line 279]: [2] Excitability:
+[Line 280]: •   When stimulated, a receptor generates "Receptor (or Generator) Potential":  graded electric response:
+[Line 281]:     (as an example: Paccinian corpuscle was chosen . Pressing on capsule by a rod leads to development of receptor potential).
+[Line 282]: ❖   Transduction of Sensory Signals = (Mechanism of Receptor Potential = Generator Potential)
+[Line 283]: 1-  Stimulation of the receptor:
+[Line 284]:       a. stimulus causes opening of ion channels “transduction channels” → Na+ or Ca++ inflow.
+[Line 285]:       b. number of opened channels is proportional to intensity of the stimulus
+[Line 286]: 2-  Creation of Receptor Potential: Na+ or Ca++ influx creates local partial depolarization
+[Line 287]: 3-  Electrotonic spread of receptor potential: local circuit of current (current sink) spreads passively to adjacent part of sensory
+[Line 288]:     nerve or 1st node of Ranvier (myelinated neurons) = action potential (A.P.) generating zone (it has low firing level = many voltage
+[Line 289]:     gated Na+ channels)
+[Line 290]: 4- Generation of Action Potential: If amplitude of receptor potential is strong to depolarize [A.P. generating zone] to threshold, it
+[Line 291]:       opens voltage gated Na+ channels and an action potential is produced & propagated along the sensory nerve to CNS.
+[Line 292]: ❖   Properties of Receptor Potential (local response):
+[Line 293]:     1.  non-propagated
+[Line 294]:     2.  does not obey all or none-law, i.e. can be graded.
+[Line 295]:     3.  no absolute refractory period, i.e. can be summated.
+[Line 296]:     4.  duration (5-10 msec.) is longer than action potential duration (2 msec.) so can cause repeated action potentials.
+[Line 297]:     5.  maximum amplitude is 100 mV (at maximum permeability to Na+ ions).
+[Line 298]:                                    A.F. 2023                                                                                       13
+[Page 14]
+[Line 299]: ❖ Relationship between strength of stimulus                  &  magnitude   of receptor potential:              As strength of stimulus increases,
+[Line 300]:    magnitude of the R.P. increases.
+[Line 301]:    •  N.B.:
+[Line 302]:    o   amplitude increases rapidly at first then less rapidly at high stimulus strengths.
+[Line 303]:    o   allows receptor to be sensitive       (have an extreme range of response) to very weak sensory                  stimuli without reaching maximum
+[Line 304]:        firing until sensory experience is extreme
+[Line 305]: •  Relation of the receptor potential magnitude to number of impulses generated:
+[Line 306]:    o   The more the receptor potential rises above threshold level, the greater the frequency of the action potential
+[Line 307]: [3] Adaptation of receptors:
+[Line 308]: •   Definition: gradual decline of receptor potential and frequency of action potentials generated in spite of the continued presence
+[Line 309]:     of stimulus at constant strength.
+[Line 310]: •   Causes: Each receptor has its own property; adaptation of mechanoreceptors occurs by:
+[Line 311]:     a.  Readjustment and remolding in the structure.
+[Line 312]:     b.  Accommodation of terminal nerve fiber or 1st node of Ranvier to the stimulus, due to inactivation of Na+ channels.
+[Line 313]: ❖   receptors are classified into:
+[Line 314]:                           Rapidly adapting (phasic)                                                        Slowly adapting (Tonic)
+[Line 315]:      adapt rapidly                                                                  either slowly adapting or they do not adapt at all
+[Line 316]:      •   discharge strongly when a change is taking place                           discharge as long as the stimulus is applied
+[Line 317]:      •   response when the stimulus is "ON" and another response
+[Line 318]:          when the stimulus is "OFF"
+[Line 319]:      detect movement, rate of movement and vibration e.g.                 touch     •   Keep the brain continuously informed e.g. pain receptors,
+[Line 320]:      and pressure receptors (Meissner’s & Paccinian corpuscles).                        muscle spindlesand arterial baroreceptors.
+[Line 321]: N.B. Some receptors have both phasic and a tonic component, e.g. proprioceptors and thermoreceptors
+[Line 322]:                                    A.F. 2023                                                                                      14
+[Page 15]
+[Line 323]:                                                                          Sensory Code
+[Line 324]: Definition: ability of CNS to recognize modality (type), locality and intensity of sensation. (All stimuli produce action potentials)
+[Line 325]: A) Modality of sensation: depends on:
+[Line 326]:     1.  Adequate Stimulus: Each receptor is highly sensitive to a particular type of stimulus.
+[Line 327]:     2.  Muller’s law of specific nerve energy: Whatever method of stimulation, sensation given is that the receptor is specialized to.
+[Line 328]:     3. Labeled line principle: Each sensation reaches CNS in a specific pathway: Stimulation of this pathway at any point by any
+[Line 329]: form evokes its specific sensation.
+[Line 330]: B) Locality of the stimulus:
+[Line 331]:     •   Law of Projection: There is a separate representation area for each part of the body in the cerebral cortex, (i.e. point to point
+[Line 332]:         representation). When an impulse reaches the specific area in the cortex, it "projects" this stimulus to its original site.
+[Line 333]:     •   Phantom limb: a phenomenon in which pressure on the nerves in the stump of an amputated limb makes the patient feel the
+[Line 334]:         pain as though it is coming from the absent limb
+[Line 335]: C) Intensity of sensation: It is encoded by change in:
+[Line 336]:     1-  Number of receptors activated: Higher intensity stimuli will recruit more receptors ["recruitment” of receptors]
+[Line 337]:     2-  Frequency of impulses: Increasing stimulus intensity increase frequency of impulses with increased intensity of sensation felt.
+[Line 338]:                                                                       Somatic Sensations
+[Line 339]: •   Sensation: feeling produced by change in environment or by application of a stimulus to receptors or nervous pathway.
+[Line 340]: •   Sensations are either:
+[Line 341]:       a)  Special senses
+[Line 342]:       b)  General sensations classified into:
+[Line 343]:              1- Somatic sensations from different parts of the body.
+[Line 344]:              2- Organic sensations as thirst, hunger, and sexual sensations.
+[Line 345]:       c)  Emotional as: fear, sadness and so on.
+[Line 346]:                                    A.F. 2023                                                                                         15
+[Page 16]
+[Line 347]:                                                                      Somatic Sensory afferents
+[Line 348]: •   Peripheral branches of dorsal root ganglion or sensory fibers of cranial nerves. Classifications:
+[Line 349]:      1. According to diameter: (from largest): I II III IV          2. According to velocity: (from fastest) A B C
+[Line 350]:      N.B.: type of afferent is determined by importance on information transfer: position by A alfa while slow pain by C
+[Line 351]:                                                                     Somatic Sensory Pathways
+[Line 352]:                       Dorsal Column                                                             Spinothalamic (Ventrolateral) Tract
+[Line 353]:                       Unimodality: mechanoreceptive sensations                                  polymodality : different types of sensations
+[Line 354]:  Receptors            mechanoreceptors for:                                                     a. Pain                                    b.  Temperature
+[Line 355]:                         a. Fine touch and pressure.              b. Vibration.                  c. Crude touch and pressure  d. Tickle and itch
+[Line 356]:                         c. Stereognosis                                 d. Position
+[Line 357]:  Afferents            myelinated Aα and Aβ fibers                                               thin myelinated type Aδ and unmyelinated type C fibers
+[Line 358]:  1st       Order                                                              dorsal root ganglia (DRG).
+[Line 359]:  Neurons              fibers then ascend upwards on ipsilateral (same) side as
+[Line 360]:                       dorsal column (gracile and cuneate tracts)
+[Line 361]:  2nd       Order      gracile and cuneate nuclei in            medulla on      same side;       ipsilateral (same side) posterior horn cells of spinal cord
+[Line 362]:  Neurons              Fibers then cross to opposite side                                        then cross to opposite side:
+[Line 363]:                                                                                                 a.  Fibers of pain and temperature cross immediately
+[Line 364]:                                                                                                     infront  of     central  canal,  and  ascend  as          lateral
+[Line 365]:                                                                                                     spinothalamic tract
+[Line 366]:                                                                                                 b.  Fibers of crude touch, tickle and itch cross farther
+[Line 367]:                                                                                                     from      central    canal    and    ascend    as        ventral
+[Line 368]:                                                                                                     spinothalamic tract
+[Line 369]:  3rd Neurons          posteroventral (PVN) = ventrobasal (VBN) nuclei of = thalamus: to somatic sensory cortex on opposite side
+[Line 370]: N.B.: passing brain stem, both  pathway are joined by additional fibers from nuclei of trigeminal nerve carrying sensations from head.
+[Line 371]:                                     A.F. 2023                                                                                          16
+[Page 17]
+[Line 372]: ❖   Role of the thalamus and cortex in sensory perception
+[Line 373]:   a.  All sensory tracts, except the olfactory, synapse in the thalamus on their way to the cerebral cortex.
+[Line 374]:   b.  subject is crudely aware of sensation but without details: Fine gradations and sensory localization at level of the cortex.
+[Line 375]:   c.  Pain perception mainly occurs in thalamus.
+[Line 376]:                                                                        Somatic Sensory Cortex
+[Line 377]:                        Somatic sensory area I (SSI): “area 3, 1, 2”                 Somatic   sensory   area   II:            Somatic    Association    area
+[Line 378]:                                                                                     (SSII): area 40                           areas 5,7
+[Line 379]:  Site                  post central gyrus in pariatal cortex                        , below and behind SSI                    ,posterior to SSI
+[Line 380]:  Body                  map of body known as spatial orientation.                    not as detailed or as complete
+[Line 381]:  representation        1)   crossed: from opposite side of body.                    as  SI.  Face     anteriorly,  arms
+[Line 382]:                        2)   inverted: upside-down except face.                      centrally and legs posteriorly
+[Line 383]:                        3)   area  directly proportional         to number of
+[Line 384]:                             receptors   (thumb & lips have large            area
+[Line 385]:                             while back and trunk have smaller areas)
+[Line 386]:  Connections                                                                        receives sensory signals from             receives signals from:
+[Line 387]:                                                                                     both sides of body & from SSI             1.  S.S. I & II.
+[Line 388]:                                                                                                                               2.  VBN of thalamus.
+[Line 389]:                                                                                                                               3.  Visual cortex
+[Line 390]:                                                                                                                               4.  Auditory cortex
+[Line 391]:  Functions             discriminative:                                                                                        Integration  and  interpretation
+[Line 392]:                        1)   Recognition  of  fine  touch,  stereognosis,                                                        of      sensory      inputs       to
+[Line 393]:                             vibration and proprioceptive sensations.                                                            understand their meaning
+[Line 394]:                        2)   Localization of source of sensation
+[Line 395]:                        3)   Discrimination of fine gradations
+[Line 396]:                                    A.F. 2023                                                                                         17
+[Page 18]
+[Line 397]:                                                                 Types of Somatic Sensations
+[Line 398]:                                                               I-   Mechanoceptive Sensations
+[Line 399]:                     Superficial     sensations:     from skin      Deep sensations: from muscles & joints
+[Line 400]:                     & subcutaneous tissue
+[Line 401]:                     Crude Touch             crude Pressure         fine pressure        Vibration                  Position
+[Line 402]:                                                                                                                    Static                 Kinetic
+[Line 403]:  Definition         Touch with poor         feeling            of  discriminate         feel         vibrating     position          of   rate of movement
+[Line 404]:                     discrimination          mechanical             between              stimuli          (more     different parts of
+[Line 405]:                     e.g.   feeling   of     pressure               different            magnified on bony          body    (angle  of
+[Line 406]:                     clothes.                                       weights              prominences)               joint)
+[Line 407]:  Receptors          Free          nerve     Pacinian  corpuscles  and  spray            -   Paccinian   500        Slowly                 Rapidly adapting as
+[Line 408]:                     endings  &     Hair     type endings                                    c/sec.                 adapting:              Pacinian corpuscles
+[Line 409]:                     end organ                                                           -   Meissner      80       a.         Muscle
+[Line 410]:                                                                                             cycle/sec.             spindles          in
+[Line 411]:                                                                                                                    skeletal muscle.
+[Line 412]:                                                                                                                     b. Golgi tendon
+[Line 413]:                                                                                                                    organs            in
+[Line 414]:                                                                                                                    tendons.
+[Line 415]:  Afferent                               A                                             AB                                               A alfa
+[Line 416]:  Pathway                ventral spinothalamic tract                                                       Dorsal column
+[Line 417]:  examination        piece  of  cotton       Feeling    weights         different          (tuning fork) on         Identify limb position
+[Line 418]:                     passed on skin          on hand                  weights on         bony prominences
+[Line 419]:                                                                          hand
+[Line 420]:                                    A.F. 2023                                                                                         18
+[Page 19]
+[Line 421]:                                                       Cortical sensations: require cortical integration
+[Line 422]:                       Stereognosis           graphathesia                  Tactile                 Two point  discrimination                    Texture
+[Line 423]:                                                                            localization
+[Line 424]:  Definition           ability            to  ability  to  recognize        ability             to  ability to recognize two touched             ability                  to
+[Line 425]:                       recognize              symbols   traced   on         localize  site  of      points as two separate points.               differentiate
+[Line 426]:                       familiar objects       skin                          tactile   stimulus      measured     by     a         threshold      between     texture  of
+[Line 427]:                       in   hand     with                                   on the skin             distance:       minimal     distance         different   materials
+[Line 428]:                       eyes closed.                                                                 below which the two points are               e.g. silk or wool
+[Line 429]:                                                                                                    felt as one
+[Line 430]:                                                                                                    best   at     lips   and   fingertips
+[Line 431]:                                                                                                    (shortest distance)  and worst at
+[Line 432]:                                                                                                    the back (largest distance)
+[Line 433]:  Receptors                   mixture of tactile receptors.                                                  Meissner’s & Merkels
+[Line 434]:  Afferent                                                                                    AB
+[Line 435]:  Pathway                                                                              Dorsal column
+[Line 436]:  examination          familiar objects       Drawing numbers in            Touch skin with                     Using caliber                         Touch with
+[Line 437]:                        placed in hand                the palm                 blunt object                                                       different materials
+[Line 438]: ❖   Clinically:
+[Line 439]:     •   Impaired stereognosis is an early sign of damage in the cerebral cortex (SSI & association area)
+[Line 440]:     •   Impaired vibration sense:  early diagnostic sign in diseases causing degeneration of posterior column such as pernicious anemia
+[Line 441]:                                     A.F. 2023                                                                                            19
+[Page 20]
+[Line 442]:                                                      II- Thermoceptive temperature Sensations
+[Line 443]: ❖   Receptors & Afferents & Pathway: Free nerve endings → C fibers (warm) and A fibers (cold) → Lateral Spinothalamic tract
+[Line 444]: ❖   Types of thermoreceptors:
+[Line 445]:      Cold pain receptors                    Cold receptors                         Warm receptors                          Warm pain receptors
+[Line 446]:      <10oC                                  10 - 40oC                              30 – 45oC                               >45 oC
+[Line 447]: •   At zerooC, no receptors discharge = anaesthesia =.
+[Line 448]: •   between 30oC and 40oC: both cold and warm receptors discharge and are very sensitive to fine gradations
+[Line 449]: ❖   Distribution of thermal receptors:
+[Line 450]:   1.  Located in and respond to temperature of the subcutaneous tissue (not to the environmental temperature).
+[Line 451]:   2.  numerous in lips & finger tips and least in the trunk
+[Line 452]:   3.  Cold receptors are 4-10 times more than warm receptors
+[Line 453]:   4.  widely separated: wide area of skin has to be exposed to allow spatial summation.
+[Line 454]: ❖   Adaptation of thermal receptors:
+[Line 455]:   a.  between skin temperature 20-40oC: warm receptors adapt faster than cold receptors.
+[Line 456]:   b.  2 components: rapidly at first (phasic component) but continue to generate impulses at low frequency (tonic component).
+[Line 457]: ❖   Mechanism of stimulation:
+[Line 458]: 1- chemically by changes in concentration of metabolites due to change in metabolic rate (each 10oC increase, doubles concentration).
+[Line 459]: 2- membrane ion channels: "Temperature-activated Transient Receptor Potential" (TRP) ion channels
+[Line 460]: 3- respond markedly to changing temperatures rather than steady states:
+[Line 461]:       • Warm receptors increase their firing when temperature is increasing.
+[Line 462]:       • Cold receptors increase their firing when temperature is decreasing.
+[Line 463]: 4- relative Sensation: depends upon original skin temperature. (35oC feel warm if skin is 30oC and feel cold if skin is at 40oC)
+[Line 464]:                                   A.F. 2023                                                                                      20
+[Page 21]
+[Line 465]:                                                                         III- Pain Sensation
+[Line 466]: •   Pain: unpleasant protective sensory and emotional experience if there is physical or potential tissue damage.
+[Line 467]: ➢   Pain Receptors (Nociceptors): Free Nerve Endings
+[Line 468]: ❖   types:
+[Line 469]:     1-   Mechanical: stimulated by mechanical injurious stimuli, e.g. cuts, bruises.
+[Line 470]:     2-   Thermal: respond to extremes of temperature and capsaicin (substance present in hot chilli).
+[Line 471]:     3-   Chemical: stimulated by chemical injurious elements.
+[Line 472]:     4-   Polymodal: respond to all stimuli.
+[Line 473]: ❖   Distribution of Pain receptors:
+[Line 474]: •   most numerous in superficial layers of the skin, periosteum, peritoneum, pleura, joints, arterial walls, dura and tentorium.
+[Line 475]: •   less distributed in deep tissues and very few in internal viscera.
+[Line 476]: •   absent in liver parenchyma, lung alveoli, and brain tissue (pain insensitive structures).
+[Line 477]: ❖   Adaptation: slowly or non-adaptive receptors.
+[Line 478]: ❖   Pain Transduction by Nociceptors:
+[Line 479]:     •   Noxious stimuli open transduction ion channels in pain receptors: increase membrane permeability to Na+ &/or Ca++ :
+[Line 480]:     a)  Mechanical stimuli open "degenerin" ion channels.
+[Line 481]:     b)  Thermal stimuli open "temperature sensing TRP" ion channels.
+[Line 482]:     c)  Chemical stimuli open "acid sensing" ion channels.
+[Line 483]: ❖   Pain Sensitizers (OR Chemical mediators of pain):
+[Line 484]:     •   damaged tissues release a number of pain and inflammation producing chemical substances into ECF. include: histamine,
+[Line 485]:         serotonin, K+, substance P, ATP, bradykinin and prostaglandins.
+[Line 486]:     •   Prostaglandins further sensitize nociceptors, lowering their pain threshold, and producing primary hyperalgesia.
+[Line 487]: N.B: Salicylates and other non steroidal anti-inflammatory analgesics (NSAID) reduce pain by inhibiting prostaglandin synthesis.
+[Line 488]: ➢   Threshold of Pain: the same for all people but reaction to pain differs: Pain starts if skin temperature reaches 45oC
+[Line 489]:                                    A.F. 2023                                                                                       21
+[Page 22]
+[Line 490]: ➢   Types of pain sensation:
+[Line 491]: I- According to site: a. Cutaneous.                           b. Deep.                      c. Visceral.       D. neuropathic
+[Line 492]: II- According to quality (Single painful stimuli may evoke both):
+[Line 493]:                                                     Fast Pain                                                   Slow pain
+[Line 494]:    Quality                                     Sharp, pricking, acute                Dull aching, Burning, throbbing
+[Line 495]:    Onset                                       Immediate                                  Delayed
+[Line 496]:    Duration                                    Short  duration                       Long duration & increase with time
+[Line 497]:    Localization                                Well localized                        Poorly localized (diffuse)
+[Line 498]:    Stimulated Receptor                    Mechanical & thermal                       All types of pain receptors
+[Line 499]:    Felt in                                Skin and Parietal  surfaces                All tissues (Skin, deep tissues, viscera)
+[Line 500]:    Carried by (afferents)                      A fibers                             C fibers
+[Line 501]:    Blocked mainly by                      Hypoxia & compression                      Local anaesthesia (e.g. cocaine)
+[Line 502]:    Neurotransmitter                            Glutamate                             Substance P
+[Line 503]:    Pathway                                Neo-spinothalamic Tract                    Paleo-spinothalamic Tract
+[Line 504]:    Relay of 2nd  order neurons                 VBN of thalamus                       Reticular Formation → intralaminar thalamic N
+[Line 505]:    Termination of fibers                       sensory cortex                        whole cortex
+[Line 506]:    Pain perception                        Thalamus and Cortex                        Mainly In Thalamus
+[Line 507]:    Motor reflexes                         Flexor Withdrawal reflex                   Guarding: hypertonia of overlying muscles
+[Line 508]:    Autonomic reactions                    Pressor response: (↑BP & HR)               Depressor response: (↓BP & HR) & Nausea and vomiting
+[Line 509]:          Emotional reactions                   Anxiety                                    Depression
+[Line 510]: N.B. The two types of pain can be dissociated by:
+[Line 511]:   1. Moderate compression of a nerve trunk block A-fibers: fast pain is lost while the slow type remains.
+[Line 512]:   2. Low concentrations of local anaesthetic blocks C-fibers: slow pain is lost while the fast type remains.
+[Line 513]:                                    A.F. 2023                                                                                      22
+[Page 23]
+[Line 514]: ➢   Pain Pathway:
+[Line 515]:                                         neospinothalamic tract (Fast pain)             paleospinothalamic tract (Slow pain)
+[Line 516]:      First order neurons                                                          dorsal root ganglia (DRG)
+[Line 517]:      Second order                                                      Posterior horn cells (PHCs) on the same side
+[Line 518]:      neurons                      Aδ fibers release glutamate and synapse              C fibers release Substance P and synapse with PHCs in lamina
+[Line 519]:                                   with PHCs in lamina I and V                          II and III (i.e. substantia gelatinosa of Rolando or SGR).
+[Line 520]:                                   Pain fibers then cross and ascend in lateral spinothalamic tract in opposite side of spinal cord.
+[Line 521]:      Third order                  end  in  ventrobasal  nuclei  of  thalamus           reach the brain stem, where:
+[Line 522]:      neurons                      (VBN), then to somatic sensory cortex                a)  10%: join the neospinothalamic tract to VBN of thalamus
+[Line 523]:                                                                                            then end in somatic sensory cortex.
+[Line 524]:                                                                                        b)  90%:     to reticular formation, then          intralaminar (non
+[Line 525]:                                                                                            specific) nuclei of thalamus then activate whole cortex
+[Line 526]: ❖   Reaction to Pain: pain fibers give tributaries to:
+[Line 527]:     a.  Anterior horn cells in the spinal cord for accompanying motor reflexes.
+[Line 528]:     b.  Reticular Activating System for cortical activation and arousal reactions
+[Line 529]:     c.  Hypothalamus for accompanying autonomic reactions.
+[Line 530]:     d.  Limbic system for emotional reactions.
+[Line 531]:     ❖   Arousal reaction to pain signal: intralaminar (non-specific) nuclei of the thalamus and reticular formation of the brain stem
+[Line 532]:     have a strong arousal effect on nervous activities through the reticular activating system (RAS)
+[Line 533]: ❖   Function of cerebral cortex in Perception (conscious awareness) of pain signals:
+[Line 534]:          a. Localization of source of pain: fast pain is very localized.
+[Line 535]:          b. Discrimination of pain modality and intensity.
+[Line 536]:          c. Interpretation of its meaning.
+[Line 537]:          d.  prefrontal lobe of the cortex contributes to emotional and behavioral effects of pain
+[Line 538]:   •  N.B.: Pain perception can occur subcortically in the Thalamus : cortex not essential
+[Line 539]:                                    A.F. 2023                                                                                       23
+[Page 24]
+[Line 540]:                                                                  Types of Pain Sensation
+[Line 541]:                  A] Cutaneous Pain            B] Deep (musculoskeletal) Pain                          Visceral Pain
+[Line 542]:                  in skin                      muscles, tendons, ligaments, joints, bones              from internal viscera
+[Line 543]: type             starts fast sharp pain       Slow: conducted along thin C fibers                     •    Slow: along C fibers
+[Line 544]:                  followed       by    slow                                                            •    Fast (A fibers):      in parietal walls (pleura,
+[Line 545]:                  dull pain                                                                                 peritoneum and pericardium)
+[Line 546]:                                                                                                       •    N.B.:   if disease spreads to wall, it causes
+[Line 547]:                                                                                                            sharp well localized pain
+[Line 548]:                                                                                                       •    Afferent reach CNS via autonomic nerves.
+[Line 549]: Causes                                        1.   Trauma: e.g. broken bone.                          •    Viscera have few pain receptors:
+[Line 550]:                                               2.   Inflammation e.g arthritis.                             localized    cut  injury   does  not  cause  pain,
+[Line 551]:                                               3.   Muscle  spasm:  e.g.  injury         →    reflex        diffuse stimulation of a large area cause pain.
+[Line 552]:                                                    contraction of near muscle → ischemia              1-   Inflammation:        inflammatory  products         eg:
+[Line 553]:                                                    → more pain → spasm → ischemia →                        appendicitis.
+[Line 554]:                                                    pain …etc (vicious circle).                        2-   Ischemia:     accumulation  of       metabolites     as
+[Line 555]:                                               4.   Ischemia:                                               H+, K+, bradykinin or prostaglandin.
+[Line 556]:                                               •    thrombosis or mechanical pressure.                 3-   Spasm of a hollow viscus:
+[Line 557]:                                               •    Cause:    accumulation  of  metabolites                 a.  Mechanical stimulation of pain receptors.
+[Line 558]:                                                    and proteolytic enzymes.                                b.  Obliteration of vessels causing ischemia.
+[Line 559]:                                               •    Pain aggravated by increased           activity    4-   Overdistention      of      hollow      viscus:
+[Line 560]:                                                    and relieved by rest.                                   mechanical and ischemic stimulation.
+[Line 561]:                                               •    Example: Anginal pain and intermittent             5-   Chemical irritation e.g. peptic ulcer
+[Line 562]:                                                    claudication in skeletal muscles.                  6-   Compression or infiltration by tumors.
+[Line 563]:                                   A.F. 2023                                                                                        24
+[Page 25]
+[Line 564]:  Characters        accurately localized,                                                                   1.  Dull aching pain
+[Line 565]:                    due to:                                                                                 2.  Diffuse (Poorly localized): few receptors
+[Line 566]:                    1.   high   density   of                                                                    and less representation in cortex.
+[Line 567]:                         receptors in skin.                                                                 3.  Depressor       (autonomic):   hypotension,
+[Line 568]:                    2.   fast   pain   fibers                                                                   bradycardia, nausea, vomiting
+[Line 569]:                         reach cortex.                                                                      4.  Guarding:   reflex   spasm   of   skeletal
+[Line 570]:                    3.   touch  and  vision                                                                     muscles over affected area.
+[Line 571]:                         help.                                                                              5.  Usually referred to surface area.
+[Line 572]: ❖   Neuropathic Pain:
+[Line 573]: •   chronic type of pain due to damage to or pathological changes in nerve fibers in peripheral or central nervous system.
+[Line 574]: •   Characters:
+[Line 575]:             a.   burning, electric, tingling or shooting pain.
+[Line 576]:             b.   bouts or paroxysms.
+[Line 577]:             c.   accompanied by hyperalgesia and/or parasthesia.
+[Line 578]: •   Examples:
+[Line 579]: 1. Trigeminal neuralgia: (tic douloureux): unilateral facial pain in areas supplied by 2nd and 3rd divisions of the trigeminal nerve.
+[Line 580]: 2.  Herpes Zoster:
+[Line 581]:     •   viral infection: herpes virus attacks a dorsal root ganglion (DRG) in patients with history of varicella (chicken pox) infection.
+[Line 582]:     •   Virus reproduce causing irritation of pain afferents in DRG leading to severe pain felt in dermatomal segment supplied by the
+[Line 583]:         infected ganglion.
+[Line 584]:     •   virus also migrates with neuronal cytoplasmic flow to cutaneous terminals → painful skin rash and vesicular formation.
+[Line 585]:                                     A.F. 2023                                                                                           25
+[Page 26]
+[Line 586]: ➢   Referred Pain: Pain felt in a skin area originating from the same embryonic segment or dermatome as the diseased viscus (or deep
+[Line 587]:     structure) = supplied by the same dorsal roots. (Dermatomal rule). Mechanisms:
+[Line 588]:                                 Convergence projection theory                                                               Facilitation theory
+[Line 589]:  •   fibers of skin and viscus converge on same (SGR): finally activate same neurons                       •   fibers of diseased viscera, give subliminal
+[Line 590]:  •   cortex project pain to a skin = mis-interpretation caused by:                                             fringe   to    nearby     afferents   from   skin
+[Line 591]:         a-   Brain is more accustomed to receive pain from skin than from viscera.                             increasing their excitability, i.e. facilitating
+[Line 592]:         b-   Skin is rich in pain receptors and well represented in cortex.                                •   Minor stimuli from skin can produce pain
+[Line 593]:         c-   Skin is more exposed to stimulation                                                               or hyperalgesia.
+[Line 594]: ❖   Examples:
+[Line 595]: 1-  Cardiac pain: retrosternal, root of the neck and inner part of the left arm and also in the epigastrium.
+[Line 596]: 2-  Gastric pain: between the umbilicus and xiphoid process.
+[Line 597]: 3-  Gall bladder pain: in the mid-epigastrium and at tip of right scapula
+[Line 598]: 4-  Renal pain: as a back pain radiating to inguinal region and testicles in males
+[Line 599]: 5-  Appendicitis pain: around the umbilicus.
+[Line 600]: 6-   Headache: pain referred to surface of head from deep structures.  Types:
+[Line 601]:     1)  Frontal: Stimulation of pain receptors in areas supplied by trigeminal nerve
+[Line 602]:     2)  Occipital: Stimulation of pain receptors in areas supplied by 2nd cervical
+[Line 603]:                                   Headache of intracranial origins                                                   Headache of extracranial origins
+[Line 604]:  1-  Rise of intracranial tension: hemorrhage or mass.                                                           1.  Tension-Type:          spasm     of       neck
+[Line 605]:  2-  drop of intracranial tension: e.g. post lumbar- puncture                                                        muscles.
+[Line 606]:  3-  Meningitis or meningeal irritation. (Alcohol)                                                               2.  Eye disorders: errors of refraction.
+[Line 607]:  4-  Hypertension: marked expansion of cerebral blood vessels.                                                   3.  Sinusitis: nasal sinuses.
+[Line 608]:  5-  Migraine: unilateral resulting from abnormal vascular phenomena                                             4.  Otitis media: inflammation of ear.
+[Line 609]:  •   N.B.:   intracranial pain sensitive areas: venous sinuses, tentorium, dura and the                          5.  Toothache.
+[Line 610]:      dural arteries especially middle meningeal artery (brain itself is insensitive to pain).                    6.  Systemic disorders: e.g. anemia
+[Line 611]:                                    A.F. 2023                                                                                         26
+[Page 27]
+[Line 612]:                                                                           Pain Control
+[Line 613]: •   inhibiting Pain transmission in the central sensory pathways by ascending or descending impulses.
+[Line 614]: •   Suggesting observations include:
+[Line 615]:   a. degree that a person reacts to pain varies widely.
+[Line 616]:   b. Injuries caused in stressful conditions as accidents or battles are ignored.
+[Line 617]:   c. Irritation of the skin overlying a diseased viscus relieves pain.
+[Line 618]: ❖   The Gate Theory:
+[Line 619]: •   dorsal horn cells of the spinal cord, in particular SGR cells, act as a gate for transmission of pain sensation to the brain.
+[Line 620]: •   Impulses coming along C pain fibers cause the release of substance P.
+[Line 621]: •   can be partly or completely closed by Presynaptic Inhibition → prevents release of substance P:
+[Line 622]: (1) Opioid Peptides:
+[Line 623]:     •   Morphine is a powerful (analgesic) pain killer found in opium acts by combining with receptors in the CNS.
+[Line 624]:     •   Types of endogenous opioid peptides: Among about 12 opioid peptides found in mammals, three are more important:
+[Line 625]:                          Enkephalins                                    Endorphins                                                    Dynorphin
+[Line 626]:    Nature                Pentapeptides from pro-enkephalin              B-Endorphin is  a  31 amino acid             polypeptide      17           aa            from
+[Line 627]:                                                                         derived from pro-opio-melano-cortin.                          prodynorphin
+[Line 628]:    Site  of  release     a.   areas of CNS, both supraspinal            a.  Neurotransmitter: hypothalamus project to                 different    brain    stem
+[Line 629]:    and function               (periaqueductal grey area) and                thalamus and periaqueduct grey area                       nuclei.  It  is  related  to
+[Line 630]:                               spinal (SGR): analgesic effects.          b.  Neurohormone:           from     anterior   pituitary     addiction and tolerance
+[Line 631]:                          b.   limbic    system    where    they             gland     in   stress   into   circulation:    Stress
+[Line 632]:                               promote a sense of well being                 Analgesia.
+[Line 633]:    Receptors                  Delta                                         Meu                                                       Kappe
+[Line 634]: N.B.: Opiate Receptors: in areas concerned with pain sensation, e.g. Periaqueductal gray area (PGA), SGR, thalamus, hypothalamus
+[Line 635]:                                    A.F. 2023                                                                                         27
+[Page 28]
+[Line 636]: (2) Supraspinal Descending Analgesia System: three major components:
+[Line 637]:                    1.  Periaqueductal gray area (PGA)                2.  Raphe magnus nucleus              3.  Pain inhibitory Interneurons
+[Line 638]:  site              midbrain      and      upper      pons,           upper medulla                         dorsal horn of the spinal cord
+[Line 639]:                    surrounding the aqueduct of Sylvius
+[Line 640]:  sensitive to          -endorphin:                                  enkephalins                           serotonin
+[Line 641]:                    a.   chemical       transmitter          from
+[Line 642]:                        hypothalamus
+[Line 643]:                    b.  neurohormone      from            pituitary
+[Line 644]:                        through blood stream in stress
+[Line 645]:  secrete           enkephalins to raphe magnus nucleus               serotonin      to   dorsal   horn     Enkephalins       causes   presynaptic inhibition
+[Line 646]:                                                                      inhibitory interneurons               of SGR, preventing release of substance P
+[Line 647]:     •   N.B.; PGA may be stimulated by Collaterals from ascending pain pathway (Lateral spinothalamic tract): noxious stimuli are
+[Line 648]:         important for activation of descending pain control system, i.e. pain suppresses pain
+[Line 649]: (3) Peripheral gate inhibition:
+[Line 650]: •   stimulation of large Aβ sensory fibers from peripheral tactile receptors suppress pain transmission:
+[Line 651]: •   tactile fibers send collaterals to activate       inhibitory interneurons → GABA or Enkephalins → presynaptic inhibition of pain
+[Line 652]:     fibers at the SGR → closing the gate.
+[Line 653]: •   Examples:
+[Line 654]:      a. Rubbing or massage of skin inhibits pain.            b. Counter irritation, e.g. mustard plaster               c. Acupuncture.
+[Line 655]: ➢   Methods of Treatment of Pain:
+[Line 656]:                               Medical                                      Electric                 Surgical (In case of uncontrollable severe pain)
+[Line 657]:      •  Analgesics: pain killers: as NSAID.                         to analgesia system        •    Antero-lateral cordotomy: cut spinothalamic tract
+[Line 658]:      •  Treatment     of         cause,      eg.     Antiacids,     or  to  large  sensory     •    Prefrontal   lobectomy:   relieves   the   emotional
+[Line 659]:         antispasmodics or vasodilators                              Aβ fibers                       reaction to pain in cancer patients
+[Line 660]:                                    A.F. 2023                                                                                        28
+[Page 29]
+[Line 661]:                                                                Lesions of the Sensory System
+[Line 662]: ➢   Hyperalgesia:
+[Line 663]: •   Abnormal increase in sensitivity to pain leading toExaggerated pain response
+[Line 664]: •   Importance: self preservation mechanism: remind brain to avoid further injury
+[Line 665]: •   Types:
+[Line 666]:                                Primary hyperalgesia                             Secondary hyperalgesia
+[Line 667]:      occurs in                 injured or inflamed skin area                    intact skin
+[Line 668]:      caused by                 sensitization of peripheral nociceptors          sensitization of central neurons of pain
+[Line 669]:                                by inflammatory mediators
+[Line 670]:      threshold of pain         lowered                                          increased
+[Line 671]:                                                                                 •   pain produced is prolonged, severe and intolerable.
+[Line 672]:                                                                                 •   may be accompanied by allodynia (exaggerated pain response to
+[Line 673]:                                                                                     non painful stimuli).
+[Line 674]:      e.g.                      sunburned skin                                       Thalamic pain
+[Line 675]: ➢   Lesions of sensory pathway:
+[Line 676]: I- Peripheral nerve lesions:
+[Line 677]:     1.  Mononeuropathy:  lesion of one peripheral nerve leads to loss of all sensations in area supplied by this nerve.
+[Line 678]:     2.  Polyneuropathy (peripheral neuritis):
+[Line 679]:        a.   Diffuse lesion of all peripheral nerves, as in case of Vitamin B12 deficiency or diabetic neuritis,
+[Line 680]:        b.   Affects peripheral at distal parts of the limbs leading to "glove and stocking" sensory disturbance (numbness, tingling,
+[Line 681]:             burning then total sensory loss).
+[Line 682]:      N.B.: Injury / damage to a peripheral nerve can lead to chronic neuropathic pain
+[Line 683]:                                    A.F. 2023                                                                                        29
+[Page 30]
+[Line 684]: II- Spinal cord Lesions:
+[Line 685]:     1.  Dorsal column lesion: Tabes Dorsalis:
+[Line 686]:      •   neurosyphilitic disease causes slow degeneration of sensory nerves in the dorsal root and dorsal column
+[Line 687]:      •   mostly in the lumbosacral spinal cord
+[Line 688]:      •   leading to:
+[Line 689]:      a.  Irritation of pain fibers  and attacks of severe pain, followed by:
+[Line 690]:      b.  Degeneration and Atrophy of Dorsal Column leading to:
+[Line 691]:         1)  Loss of vibration sense.
+[Line 692]:         2)  Loss of proprioceptive sensation leads to " Sensory Ataxia".
+[Line 693]:         NB: Ataxia:  Incoordination of voluntary movements without paralysis. Types:
+[Line 694]:         a.  Sensory ataxia:
+[Line 695]:               •   Due to loss of position sensation as in tabes dorsalis or pernicious anemia which cause destruction of posterior column
+[Line 696]:               •   characterized by high steppage gait and +ve Romberg's sign (patient can't maintain erect position with closed eyes).
+[Line 697]:         b.  Cerebellar ataxia: due to lesion in neocerebellum.
+[Line 698]:         c.  Vestibular ataxia: due to lesion in the Vestibular division of the 8th nerve.
+[Line 699]:     2.  Central cord lesion: Syringomyelia:
+[Line 700]:         •   widening of the central canal by a fluid-filled cavity (or syrinx):
+[Line 701]:             damage of pain and temperature fibers crossing immediately in front of central canal first. Later, crude touch is affected.
+[Line 702]:         •   lesion is bilateral and usually affects the cervical region leading to "jacket" loss of pain and temperature sensations.
+[Line 703]:         •   Dorsal column sensations remain intact (fine touch  is intact) and the condition is described as  dissociated sensory loss
+[Line 704]:                                     A.F. 2023                                                                                         30
+[Page 31]
+[Line 705]:     3.  Spinal cord Hemisection: (Brown Sequard syndrome):
+[Line 706]:                                           Sensory                                                                  Motor
+[Line 707]:      At the level      same side          Loss of all sensations at the dermatome supplied by                      Flaccid paralysis (lower motor neuron
+[Line 708]:      of lesion                            that posterior root entering at the site of injury                       lesion) and loss of all reflexes
+[Line 709]:      Below the         same side          Lesion to the dorsal column leads to loss of all                         Lesion to corticospinal tract leads to
+[Line 710]:      level of                             sensations carried by it (fine touch, pressure, vibration,               spastic paralysis (upper motor neuron
+[Line 711]:      lesion                               sense of position and of movement).                                      lesion), hyper-reflexia and +ve Babiniski
+[Line 712]:                        opposite           loss of pain and temperature (Lesion to the crossed                      no effect
+[Line 713]:                        side               spinothalamic tract), touch is not lost but decreased on
+[Line 714]:                                           both sides
+[Line 715]: III. Brain stem lesion: Rare (in brain stem strokes)
+[Line 716]:              Ipsilateral sensory loss in face (supplied by trigeminal) with contralateral sensory loss below
+[Line 717]: IV.  Thalamic Pain Syndrome: (Dejerine Roussy syndrome) = central post stroke pain (CPSP):                                      rare condition     after infarction of
+[Line 718]: ventro-postero-lateral thalamus. Patient presents with:
+[Line 719]:       1.    Contralateral sensory loss.                                                   2. Hemi-ataxia.
+[Line 720]:       3. Thalamic pain: spontaneous bursts of intolerable treatment resistant pain (accompanied by 2ry hyperalgesia and allodynia
+[Line 721]: V- Cortical Lesions: in the somatic sensory cortex: sensations are not abolished. However, there is loss of the following from the
+[Line 722]: opposite side of the body:
+[Line 723]:          a-  Fine touch, Stereognosis and Proprioceptive sensations.
+[Line 724]:          b-  Discrimination of mild grades of weights and temperature.
+[Line 725]:          c-  Localization of the source of sensations.
+[Line 726]:          d-  Pain localization, but pain sensation is least affected.
+[Line 727]:          a-   Astereognosis: patient loses ability to correlate shape, size, texture and weight of objects with previous experience.
+[Line 728]:          b-   Amorphosynthesis (Neglect syndrome): The patient neglects the contralateral side of his body, i.e. ignores its presence.
+[Line 729]:                                     A.F. 2023                                                                                           31
+[DOC_END]

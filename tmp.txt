@@ -1,0 +1,36 @@
+ 
+  
+A.F. 2023 4 
+ 
+Types of Synaptic Potentials 
+Postsynaptic potentials 
+ 1. Excitatory postsynaptic potential [EPSP]:  2. Inhibitory Postsynaptic Potential [IPSP]  
+Definition local state of partial depolarization  local state of hyperpolarization  
+Ionic 
+basis 
+• excitatory neurotransmitter binding to receptor → 
+opening of ligand gated Na+(or Ca++) channels  
+• inside of cell membrane less negative → nearer to firing 
+level  → more excitable.  
+• membrane facilitated i.e. needs a weaker stimulus to be 
+excited than at rest. 
+• inhibitory neurotransmitter bind with receptor → 
+opening of ligand gated K+ or Cl-channels or closure of 
+Na+ (or Ca++) channels. 
+• inside of the cell membrane more negative → away 
+from firing level (threshold) → less excitable. 
+• membrane is inhibited i.e. needs a stronger stimulus. 
+amplitude 1- 5 mv 
+Duration reaches a maximum after 1-5 msec then gradually declines  
+N.B.: does not obey all or none rule = graded: Magnitude and duration depends on amount of neurotransmitter  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+❖ Summation: EPSPs have to be summated to reach threshold. Types 
+1- Temporal (Time): rapid repetitive stimuli originating from ONE presynaptic neuron         
+2- Spatial (Space): multiple simultaneous stimuli from MANY presynaptic neurons 
+N.B.: IPSP can be summated
